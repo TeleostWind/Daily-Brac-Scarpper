@@ -1,4 +1,5 @@
 requests
 beautifulsoup4
 google-genai
+lxml_html_clean
 facebook-scraper
