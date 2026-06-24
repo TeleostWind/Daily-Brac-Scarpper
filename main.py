@@ -2,11 +2,10 @@ import json
 import os
 import time
 import traceback
+import requests
 from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
-from facebook_scraper import get_posts
-from curl_cffi import requests # Our new Cloudflare bypass tool
 
 # --- TARGET CONFIGURATION ---
 WEB_TARGETS = {
@@ -19,14 +18,18 @@ FB_TARGETS = {
 }
 
 def scrape_website(url):
-    """Fetches text content using deep TLS impersonation to bypass Cloudflare."""
+    """Fetches text content by routing through ScraperAPI to bypass Cloudflare."""
     try:
-        # impersonate="chrome" perfectly mimics a real browser's network fingerprint
-        response = requests.get(url, impersonate="chrome", timeout=15)
+        api_key = os.environ.get("SCRAPER_API_KEY")
+        if not api_key:
+            print("[!] FATAL ERROR: SCRAPER_API_KEY is missing!")
+            return ""
+            
+        proxy_url = f"http://api.scraperapi.com?api_key={api_key}&url={url}"
+        response = requests.get(proxy_url, timeout=60)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
-        # Clean out non-visible text elements
         for script in soup(["script", "style", "nav", "footer"]):
             script.extract()
             
@@ -36,14 +39,26 @@ def scrape_website(url):
         return ""
 
 def scrape_facebook(account_name):
-    """Fetches recent posts from a Facebook page."""
+    """Fetches Facebook content by scraping the mbasic mobile site through ScraperAPI."""
     try:
-        posts_text = []
-        for post in get_posts(account_name, pages=2):
-            if post.get('text'):
-                date_str = post['time'].strftime("%Y-%m-%d") if post.get('time') else "Unknown Date"
-                posts_text.append(f"[{date_str}] {post['text']}")
-        return "\n\n".join(posts_text)[:30000]
+        api_key = os.environ.get("SCRAPER_API_KEY")
+        if not api_key:
+            print("[!] FATAL ERROR: SCRAPER_API_KEY is missing!")
+            return ""
+            
+        # Target the highly-scrappable lightweight mobile site
+        url = f"https://mbasic.facebook.com/{account_name}"
+        proxy_url = f"http://api.scraperapi.com?api_key={api_key}&url={url}"
+        
+        response = requests.get(proxy_url, timeout=60)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        # Clean out common interface noise
+        for element in soup(["script", "style", "header", "footer"]):
+            element.extract()
+            
+        return soup.get_text(separator=' ', strip=True)[:30000]
     except Exception as e:
         print(f"[!] Failed to scrape Facebook page {account_name}: {e}")
         return ""
@@ -58,12 +73,12 @@ def process_with_gemini(raw_text, source_name):
         client = genai.Client()
         prompt = f"""
         You are a data extraction assistant. Extract the most important recent news, 
-        events, announcements, and notices from the following text scraped from {source_name}.
+        events, announcements, updates, and notices from the following text scraped from {source_name}.
         
         Return ONLY a JSON list of objects. Each object must have:
-        - "title": (string) The title of the event/news
+        - "title": (string) The title of the event/news/post
         - "date": (string) Date if available, otherwise "Unknown"
-        - "category": (string) e.g., "Event", "Notice", "Academic", "Club"
+        - "category": (string) e.g., "Event", "Notice", "Academic", "Club Update"
         - "summary": (string) A 1-2 sentence description
         
         Raw Text:
@@ -99,13 +114,13 @@ def main():
                 
         # 2. Scrape Facebook Pages
         for name, fb_handle in FB_TARGETS.items():
-            print(f"Scraping Facebook: {name}...")
+            print(f"Scraping Facebook page: {name}...")
             raw_text = scrape_facebook(fb_handle)
             if raw_text:
-                print(f"[SUCCESS] Data pulled from {name}! Sending to Gemini...")
+                print(f"[SUCCESS] Data pulled from Facebook ({name})! Sending to Gemini...")
                 all_data[name] = process_with_gemini(raw_text, name)
             else:
-                print(f"[FAILED] No text extracted for {name}.")
+                print(f"[FAILED] No text extracted for Facebook ({name}).")
             time.sleep(5)
                 
         # 3. Save Final Data
