@@ -2,11 +2,11 @@ import json
 import os
 import time
 import traceback
-import requests
 from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
 from facebook_scraper import get_posts
+from curl_cffi import requests # Our new Cloudflare bypass tool
 
 # --- TARGET CONFIGURATION ---
 WEB_TARGETS = {
@@ -19,29 +19,20 @@ FB_TARGETS = {
 }
 
 def scrape_website(url):
-    """Fetches text content using a free proxy to bypass GitHub's Datacenter IP ban."""
+    """Fetches text content using deep TLS impersonation to bypass Cloudflare."""
     try:
-        # Route the request through AllOrigins to hide the GitHub/Microsoft IP address
-        proxy_url = f"https://api.allorigins.win/get?url={url}"
-        response = requests.get(proxy_url, timeout=20)
+        # impersonate="chrome" perfectly mimics a real browser's network fingerprint
+        response = requests.get(url, impersonate="chrome", timeout=15)
         response.raise_for_status()
         
-        # AllOrigins returns JSON. The actual website HTML is inside the 'contents' key.
-        data = response.json()
-        html_content = data.get("contents", "")
-        
-        if not html_content:
-            print(f"[!] Proxy returned empty content for {url}")
-            return ""
-            
-        soup = BeautifulSoup(html_content, 'html.parser')
+        soup = BeautifulSoup(response.text, 'html.parser')
         # Clean out non-visible text elements
         for script in soup(["script", "style", "nav", "footer"]):
             script.extract()
             
         return soup.get_text(separator=' ', strip=True)[:30000]
     except Exception as e:
-        print(f"[!] Failed to scrape website {url} via proxy: {e}")
+        print(f"[!] Failed to scrape website {url}: {e}")
         return ""
 
 def scrape_facebook(account_name):
@@ -96,22 +87,25 @@ def main():
         all_data = {}
         print("--- Starting Scraping Run ---")
         
-        # 1. Scrape Standard Websites via Proxy
+        # 1. Scrape Standard Websites
         for name, url in WEB_TARGETS.items():
-            print(f"Scraping website: {name} via proxy...")
+            print(f"Scraping website: {name}...")
             raw_text = scrape_website(url)
             if raw_text:
-                print(f"Data found for {name}, sending to Gemini...")
+                print(f"[SUCCESS] Data pulled from {name}! Sending to Gemini...")
                 all_data[name] = process_with_gemini(raw_text, name)
             else:
-                print(f"No text extracted for {name}.")
+                print(f"[FAILED] No text extracted for {name}.")
                 
         # 2. Scrape Facebook Pages
         for name, fb_handle in FB_TARGETS.items():
             print(f"Scraping Facebook: {name}...")
             raw_text = scrape_facebook(fb_handle)
             if raw_text:
+                print(f"[SUCCESS] Data pulled from {name}! Sending to Gemini...")
                 all_data[name] = process_with_gemini(raw_text, name)
+            else:
+                print(f"[FAILED] No text extracted for {name}.")
             time.sleep(5)
                 
         # 3. Save Final Data
