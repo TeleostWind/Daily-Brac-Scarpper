@@ -2,7 +2,7 @@ import json
 import os
 import time
 import traceback
-import cloudscraper
+import requests
 from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
@@ -19,19 +19,29 @@ FB_TARGETS = {
 }
 
 def scrape_website(url):
-    """Fetches text content, bypassing Cloudflare/WAF protections."""
+    """Fetches text content using a free proxy to bypass GitHub's Datacenter IP ban."""
     try:
-        scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
-        response = scraper.get(url, timeout=15)
+        # Route the request through AllOrigins to hide the GitHub/Microsoft IP address
+        proxy_url = f"https://api.allorigins.win/get?url={url}"
+        response = requests.get(proxy_url, timeout=20)
         response.raise_for_status()
         
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # AllOrigins returns JSON. The actual website HTML is inside the 'contents' key.
+        data = response.json()
+        html_content = data.get("contents", "")
+        
+        if not html_content:
+            print(f"[!] Proxy returned empty content for {url}")
+            return ""
+            
+        soup = BeautifulSoup(html_content, 'html.parser')
+        # Clean out non-visible text elements
         for script in soup(["script", "style", "nav", "footer"]):
             script.extract()
             
         return soup.get_text(separator=' ', strip=True)[:30000]
     except Exception as e:
-        print(f"[!] Failed to scrape website {url}: {e}")
+        print(f"[!] Failed to scrape website {url} via proxy: {e}")
         return ""
 
 def scrape_facebook(account_name):
@@ -51,7 +61,7 @@ def process_with_gemini(raw_text, source_name):
     """Sends raw text to Gemini to extract clean JSON."""
     try:
         if not os.environ.get("GEMINI_API_KEY"):
-            print("[!] FATAL ERROR: GEMINI_API_KEY environment variable is empty or missing!")
+            print("[!] FATAL ERROR: GEMINI_API_KEY environment variable is missing!")
             return []
 
         client = genai.Client()
@@ -86,12 +96,15 @@ def main():
         all_data = {}
         print("--- Starting Scraping Run ---")
         
-        # 1. Scrape Standard Websites
+        # 1. Scrape Standard Websites via Proxy
         for name, url in WEB_TARGETS.items():
-            print(f"Scraping website: {name}...")
+            print(f"Scraping website: {name} via proxy...")
             raw_text = scrape_website(url)
             if raw_text:
+                print(f"Data found for {name}, sending to Gemini...")
                 all_data[name] = process_with_gemini(raw_text, name)
+            else:
+                print(f"No text extracted for {name}.")
                 
         # 2. Scrape Facebook Pages
         for name, fb_handle in FB_TARGETS.items():
