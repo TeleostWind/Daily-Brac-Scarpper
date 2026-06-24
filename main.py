@@ -1,7 +1,6 @@
 import json
-import requests
-import time
 import os
+import time
 import traceback
 import cloudscraper
 from bs4 import BeautifulSoup
@@ -22,13 +21,11 @@ FB_TARGETS = {
 def scrape_website(url):
     """Fetches text content, bypassing Cloudflare/WAF protections."""
     try:
-        # Use cloudscraper instead of standard requests to bypass the 403 firewall
         scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
         response = scraper.get(url, timeout=15)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
-        # Clean out non-visible text elements
         for script in soup(["script", "style", "nav", "footer"]):
             script.extract()
             
@@ -45,7 +42,6 @@ def scrape_facebook(account_name):
             if post.get('text'):
                 date_str = post['time'].strftime("%Y-%m-%d") if post.get('time') else "Unknown Date"
                 posts_text.append(f"[{date_str}] {post['text']}")
-        
         return "\n\n".join(posts_text)[:30000]
     except Exception as e:
         print(f"[!] Failed to scrape Facebook page {account_name}: {e}")
@@ -88,7 +84,6 @@ def process_with_gemini(raw_text, source_name):
 def main():
     try:
         all_data = {}
-        
         print("--- Starting Scraping Run ---")
         
         # 1. Scrape Standard Websites
@@ -104,5 +99,16 @@ def main():
             raw_text = scrape_facebook(fb_handle)
             if raw_text:
                 all_data[name] = process_with_gemini(raw_text, name)
-                
             time.sleep(5)
+                
+        # 3. Save Final Data
+        with open('bracu_data.json', 'w', encoding='utf-8') as f:
+            json.dump(all_data, f, indent=4, ensure_ascii=False)
+        print("--- Data saved successfully to bracu_data.json ---")
+
+    except Exception as e:
+        print("\n[CRITICAL ERROR] The script crashed unexpectedly:")
+        traceback.print_exc()
+
+if __name__ == "__main__":
+    main()
