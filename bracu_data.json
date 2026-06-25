@@ -3,68 +3,56 @@
         {
             "title": "Recruitment Notice",
             "date": "16 Jun",
-            "category": "Announcement",
-            "summary": "BRAC University has issued a recruitment notice for various positions."
+            "category": "Notice",
+            "summary": "BRAC University has published a new recruitment notice."
         },
         {
             "title": "LLB Final Exam Schedule: Spring 2026",
             "date": "15 Jun",
             "category": "Academic",
-            "summary": "The final examination schedule for the LLB program for Spring 2026 has been released."
+            "summary": "The final examination schedule for the LLB program for Spring 2026 has been announced."
         },
         {
             "title": "Class Schedule for Summer 2026",
             "date": "08 Jun",
             "category": "Academic",
-            "summary": "The detailed class schedule for the upcoming Summer 2026 semester is now available."
+            "summary": "The class schedule for the upcoming Summer 2026 semester is now available."
         },
         {
             "title": "First Year Advising Team (FYAT), Summer 2026",
             "date": "07 Jun",
             "category": "Academic",
-            "summary": "Information regarding the First Year Advising Team (FYAT) for Summer 2026 has been announced."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic",
-            "summary": "Important dates for final examinations have been announced."
-        },
-        {
-            "title": "Mid-Term Exams week",
-            "date": "25 Jul",
-            "category": "Academic",
-            "summary": "Information regarding the mid-term examinations week has been provided."
+            "summary": "Information regarding the First Year Advising Team for Summer 2026 has been released."
         },
         {
             "title": "Last Date of Payment for Summer 2026",
             "date": "27 Jun",
             "category": "Academic",
-            "summary": "The deadline for fee payment for the Summer 2026 semester is June 27."
+            "summary": "Students are reminded of the last date for fee payment for the Summer 2026 semester."
         },
         {
             "title": "Ashura (Muharram)*-University closed",
             "date": "26 Jun",
             "category": "Notice",
-            "summary": "BRAC University will observe a closure on June 26 in observance of Ashura (Muharram)."
+            "summary": "BRAC University will be closed on June 26th in observance of Ashura (Muharram)."
         },
         {
             "title": "BRAC University celebrates International Day of Yoga",
             "date": "24 Jun 2026",
-            "category": "News",
-            "summary": "BRAC University recently celebrated International Day of Yoga with various activities and events."
+            "category": "Event",
+            "summary": "BRAC University observed International Day of Yoga with a celebratory event."
         },
         {
             "title": "BRAC University organizes session on \"Classroom to Career: Goal Setting for a Successful Academic & Professional Life\"",
             "date": "22 Jun 2026",
             "category": "Event",
-            "summary": "BRAC University hosted a session titled \"Classroom to Career\" focused on goal setting for academic and professional success."
+            "summary": "A session titled 'Classroom to Career' was organized to help students with goal setting for academic and professional success."
         },
         {
             "title": "BRAC University conducts synergy in action workshop to strengthen workplace effectiveness",
             "date": "22 Jun 2026",
             "category": "Event",
-            "summary": "BRAC University organized a workshop to enhance synergy and effectiveness in the workplace."
+            "summary": "BRAC University hosted a workshop to enhance workplace effectiveness through synergy in action."
         }
     ]
 }
