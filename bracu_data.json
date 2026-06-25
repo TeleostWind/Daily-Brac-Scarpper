@@ -1,58 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "Recruitment Notice",
-            "date": "16 Jun",
-            "category": "Notice",
-            "summary": "BRAC University has published a new recruitment notice."
-        },
-        {
-            "title": "LLB Final Exam Schedule: Spring 2026",
-            "date": "15 Jun",
-            "category": "Academic",
-            "summary": "The final examination schedule for the LLB program for Spring 2026 has been announced."
-        },
-        {
-            "title": "Class Schedule for Summer 2026",
-            "date": "08 Jun",
-            "category": "Academic",
-            "summary": "The class schedule for the upcoming Summer 2026 semester is now available."
-        },
-        {
-            "title": "First Year Advising Team (FYAT), Summer 2026",
-            "date": "07 Jun",
-            "category": "Academic",
-            "summary": "Information regarding the First Year Advising Team for Summer 2026 has been released."
-        },
-        {
             "title": "Last Date of Payment for Summer 2026",
-            "date": "27 Jun",
-            "category": "Academic",
-            "summary": "Students are reminded of the last date for fee payment for the Summer 2026 semester."
+            "date": "27 Jun 2026",
+            "category": "Academic Notice",
+            "summary": "The final deadline for fee payments for the Summer 2026 semester has been set."
         },
         {
             "title": "Ashura (Muharram)*-University closed",
             "date": "26 Jun",
-            "category": "Notice",
+            "category": "Holiday Notice",
             "summary": "BRAC University will be closed on June 26th in observance of Ashura (Muharram)."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice regarding the award B-113, related to ICSETEP/RGD/BRAC/GD-2 has been released."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice regarding the award B-113, related to ICSETEP/RGD/BRAC/GD-1 has been released."
         },
         {
             "title": "BRAC University celebrates International Day of Yoga",
             "date": "24 Jun 2026",
-            "category": "Event",
-            "summary": "BRAC University observed International Day of Yoga with a celebratory event."
+            "category": "News",
+            "summary": "BRAC University commemorated the International Day of Yoga with special celebrations and activities."
         },
         {
             "title": "BRAC University organizes session on \"Classroom to Career: Goal Setting for a Successful Academic & Professional Life\"",
             "date": "22 Jun 2026",
             "category": "Event",
-            "summary": "A session titled 'Classroom to Career' was organized to help students with goal setting for academic and professional success."
+            "summary": "BRAC University hosted a session focused on helping students set goals for a successful transition from academics to professional life."
         },
         {
             "title": "BRAC University conducts synergy in action workshop to strengthen workplace effectiveness",
             "date": "22 Jun 2026",
-            "category": "Event",
-            "summary": "BRAC University hosted a workshop to enhance workplace effectiveness through synergy in action."
+            "category": "Workshop",
+            "summary": "BRAC University organized a workshop aimed at enhancing synergy and improving effectiveness in the workplace."
+        },
+        {
+            "title": "Recruitment Notice",
+            "date": "16 Jun",
+            "category": "Notice",
+            "summary": "A general notice regarding recruitment opportunities at BRAC University has been posted."
+        },
+        {
+            "title": "LLB Final Exam Schedule: Spring 2026",
+            "date": "15 Jun",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been announced."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "25 Jul",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the schedule for mid-term examinations has been made."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding general final examinations has been released."
         }
     ]
 }
