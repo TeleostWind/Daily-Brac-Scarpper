@@ -2,69 +2,69 @@
     "bracu_official": [
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
-            "date": "25 Jun",
+            "date": "25 Jun 2026",
             "category": "Notice",
-            "summary": "A notice regarding the award for project B-113, specifically ICSETEP/RGD/BRAC/GD-2."
+            "summary": "A notice concerning the award B-113, ICSETEP/RGD/BRAC/GD-2."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
-            "date": "25 Jun",
+            "date": "25 Jun 2026",
             "category": "Notice",
-            "summary": "A notice regarding the award for project B-113, specifically ICSETEP/RGD/BRAC/GD-1."
+            "summary": "A notice concerning the award B-113, ICSETEP/RGD/BRAC/GD-1."
         },
         {
             "title": "Recruitment Notice",
-            "date": "16 Jun",
+            "date": "16 Jun 2026",
             "category": "Notice",
-            "summary": "An official notice announcing new recruitment opportunities."
+            "summary": "An announcement regarding available recruitment opportunities."
         },
         {
             "title": "LLB Final Exam Schedule: Spring 2026",
-            "date": "15 Jun",
+            "date": "15 Jun 2026",
             "category": "Academic",
-            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been announced."
+            "summary": "The schedule for the LLB program's final examinations in Spring 2026."
         },
         {
             "title": "Final Examinations",
-            "date": "10 Dec",
+            "date": "10 Dec 2026",
             "category": "Academic",
-            "summary": "A general announcement regarding upcoming final examinations."
+            "summary": "An announcement providing details for upcoming final examinations."
         },
         {
             "title": "Mid-Term Exams week",
-            "date": "25 Jul",
+            "date": "25 Jul 2026",
             "category": "Academic",
-            "summary": "A notice detailing the schedule for the upcoming mid-term examinations week."
+            "summary": "Announcement regarding the schedule for the mid-term examinations week."
         },
         {
             "title": "Last Date of Payment for Summer 2026",
-            "date": "27 Jun",
-            "category": "Academic",
-            "summary": "An announcement stating the final deadline for payment for the Summer 2026 semester."
+            "date": "27 Jun 2026",
+            "category": "Notice",
+            "summary": "The final deadline for making payments for the Summer 2026 semester."
         },
         {
-            "title": "Ashura (Muharram)*-University closed",
-            "date": "26 Jun",
-            "category": "Holiday Notice",
+            "title": "Ashura (Muharram)* - University closed",
+            "date": "26 Jun 2026",
+            "category": "Notice",
             "summary": "The university will be closed on June 26th in observance of Ashura (Muharram)."
         },
         {
             "title": "BRAC University celebrates International Day of Yoga",
             "date": "24 Jun 2026",
-            "category": "News",
-            "summary": "BRAC University commemorated the International Day of Yoga with special events and activities."
+            "category": "Event",
+            "summary": "BRAC University celebrated the International Day of Yoga."
         },
         {
             "title": "BRAC University organizes session on \"Classroom to Career: Goal Setting for a Successful Academic & Professional Life\"",
             "date": "22 Jun 2026",
             "category": "Event",
-            "summary": "BRAC University hosted a session focused on 'Classroom to Career' to guide students in setting goals for academic and professional success."
+            "summary": "BRAC University organized a session focused on goal setting for academic and professional success."
         },
         {
             "title": "BRAC University conducts synergy in action workshop to strengthen workplace effectiveness",
             "date": "22 Jun 2026",
-            "category": "Workshop",
-            "summary": "BRAC University organized a workshop on 'synergy in action' aimed at enhancing overall workplace effectiveness."
+            "category": "Event",
+            "summary": "BRAC University conducted a workshop aimed at enhancing workplace effectiveness through synergy in action."
         }
     ]
 }
