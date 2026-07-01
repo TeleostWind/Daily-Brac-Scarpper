@@ -2,69 +2,69 @@
     "bracu_official": [
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
-            "date": "25 Jun",
-            "category": "Announcement",
-            "summary": "An official notice regarding an award identified as B-113 under the ICSETEP/RGD/BRAC/GD-2 reference."
+            "date": "25 Jun 2026",
+            "category": "Notice",
+            "summary": "An official notice regarding the award B-113, ICSETEP/RGD/BRAC/GD-2."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
-            "date": "25 Jun",
-            "category": "Announcement",
-            "summary": "An official notice regarding an award identified as B-113 under the ICSETEP/RGD/BRAC/GD-1 reference."
+            "date": "25 Jun 2026",
+            "category": "Notice",
+            "summary": "An official notice regarding the award B-113, ICSETEP/RGD/BRAC/GD-1."
         },
         {
             "title": "Recruitment Notice",
-            "date": "16 Jun",
+            "date": "16 Jun 2026",
             "category": "Notice",
-            "summary": "A notice announcing new recruitment opportunities at BRAC University."
+            "summary": "An official notice announcing new recruitment opportunities."
         },
         {
             "title": "LLB Final Exam Schedule: Spring 2026",
             "date": "15 Jun 2026",
             "category": "Academic",
-            "summary": "The final examination schedule for LLB students for the Spring 2026 academic semester has been released."
+            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been released."
         },
         {
             "title": "Final Examinations",
-            "date": "10 Dec",
+            "date": "10 Dec 2026",
             "category": "Academic",
-            "summary": "An announcement regarding the upcoming final examinations for students."
+            "summary": "Important information regarding upcoming final examinations."
         },
         {
             "title": "Mid-Term Exams week",
-            "date": "25 Jul",
+            "date": "25 Jul 2026",
             "category": "Academic",
-            "summary": "An announcement providing details about the scheduled mid-term examinations week."
+            "summary": "Details concerning the mid-term examination week for students."
         },
         {
             "title": "Last Date of Payment for Summer 2026",
             "date": "27 Jun 2026",
             "category": "Academic",
-            "summary": "The final deadline for all payments related to the Summer 2026 academic semester has been announced."
+            "summary": "The final deadline for all payments for the Summer 2026 semester."
         },
         {
             "title": "Ashura (Muharram)*-University closed",
-            "date": "26 Jun",
+            "date": "26 Jun 2026",
             "category": "Notice",
-            "summary": "The university will be closed on June 26th in observance of Ashura (Muharram)."
+            "summary": "The university will observe Ashura (Muharram) and will be closed on 26 June 2026."
+        },
+        {
+            "title": "BRAC University hosts workshops on case solving, strategic decision-making and ai",
+            "date": "01 Jul 2026",
+            "category": "Event",
+            "summary": "BRAC University organized workshops focusing on enhancing skills in case solving, strategic decision-making, and artificial intelligence."
         },
         {
             "title": "BIL news bulletin, May 2026",
             "date": "01 Jul 2026",
             "category": "News",
-            "summary": "The BRAC Institute of Languages (BIL) has released its news bulletin for May 2026, summarizing recent activities and updates."
+            "summary": "A news bulletin from BIL summarizing updates and events that occurred in May 2026."
         },
         {
             "title": "Canada, Australia, UK representatives visit BRAC University to discuss education, research collaboration possibilities",
             "date": "01 Jul 2026",
             "category": "News",
             "summary": "Representatives from Canada, Australia, and the UK visited BRAC University to explore potential collaborations in education and research."
-        },
-        {
-            "title": "BRAC University celebrates International Day of Yoga",
-            "date": "24 Jun 2026",
-            "category": "News",
-            "summary": "BRAC University celebrated the International Day of Yoga with various activities and events."
         }
     ]
 }
