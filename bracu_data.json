@@ -1,22 +1,40 @@
 {
     "bracu_official": [
         {
+            "title": "BRAC University Law Graduate Awarded Prestigious Joint Doctoral Scholarship Between the University of Glasgow and the University of Sydney",
+            "date": "02 Jul 2026",
+            "category": "News",
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney, marking a significant academic achievement."
+        },
+        {
+            "title": "BRAC University law alumni association’s new executive committee takes charge for 2026–2028 term",
+            "date": "02 Jul 2026",
+            "category": "News",
+            "summary": "The new executive committee for the BRAC University law alumni association has officially taken charge for the upcoming 2026–2028 term."
+        },
+        {
+            "title": "BRAC University hosts workshops on case solving, strategic decision-making and AI",
+            "date": "01 Jul 2026",
+            "category": "News",
+            "summary": "BRAC University recently hosted a series of workshops focused on enhancing skills in case solving, strategic decision-making, and artificial intelligence."
+        },
+        {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
             "date": "25 Jun 2026",
             "category": "Notice",
-            "summary": "A notice regarding the award B-113, ICSETEP/RGD/BRAC/GD-2 has been issued."
+            "summary": "A notice has been issued regarding the award B-113, specifically ICSETEP/RGD/BRAC/GD-2, by BRAC University."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
             "date": "25 Jun 2026",
             "category": "Notice",
-            "summary": "A notice regarding the award B-113, ICSETEP/RGD/BRAC/GD-1 has been issued."
+            "summary": "BRAC University has published a notice concerning the award B-113, identified as ICSETEP/RGD/BRAC/GD-1."
         },
         {
             "title": "Recruitment Notice",
             "date": "16 Jun 2026",
             "category": "Notice",
-            "summary": "BRAC University has published a new recruitment notice for potential candidates."
+            "summary": "A new recruitment notice has been posted by BRAC University, inviting applications for various positions."
         },
         {
             "title": "LLB Final Exam Schedule: Spring 2026",
@@ -25,46 +43,28 @@
             "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been released."
         },
         {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
+            "title": "Last Date of Payment for Summer 2026",
+            "date": "27 Jun 2026",
             "category": "Academic",
-            "summary": "A general announcement or reminder regarding the upcoming final examinations."
+            "summary": "Students are reminded that the last date for payment for the Summer 2026 semester is June 27th."
+        },
+        {
+            "title": "Ashura (Muharram)*-University closed",
+            "date": "26 Jun 2026",
+            "category": "Holiday",
+            "summary": "BRAC University will be closed on June 26th in observance of Ashura (Muharram)."
         },
         {
             "title": "Mid-Term Exams week",
             "date": "25 Jul 2026",
             "category": "Academic",
-            "summary": "Information about the schedule for the upcoming mid-term examinations week."
+            "summary": "A notice regarding the mid-term exams week, scheduled for July 25th, has been published."
         },
         {
-            "title": "Last Date of Payment for Summer 2026",
-            "date": "27 Jun 2026",
-            "category": "Academic Deadline",
-            "summary": "The final deadline for making payments for the Summer 2026 semester has been set."
-        },
-        {
-            "title": "Ashura (Muharram) - University closed",
-            "date": "26 Jun 2026",
-            "category": "Holiday Notice",
-            "summary": "BRAC University will be closed on June 26th for the observance of Ashura (Muharram)."
-        },
-        {
-            "title": "BRAC University hosts workshops on case solving, strategic decision-making and AI",
-            "date": "01 Jul 2026",
-            "category": "Event",
-            "summary": "BRAC University recently hosted workshops focused on case solving, strategic decision-making, and artificial intelligence."
-        },
-        {
-            "title": "BIL news bulletin, May 2026",
-            "date": "01 Jul 2026",
-            "category": "News Bulletin",
-            "summary": "The BIL news bulletin for May 2026 has been published, providing updates and news from the month."
-        },
-        {
-            "title": "Canada, Australia, UK representatives visit BRAC University to discuss education, research collaboration possibilities",
-            "date": "01 Jul 2026",
-            "category": "International Event",
-            "summary": "Representatives from Canada, Australia, and the UK visited BRAC University to explore potential collaborations in education and research."
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic",
+            "summary": "An announcement regarding final examinations on December 10th has been posted, providing key information for students."
         }
     ]
 }
