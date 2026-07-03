@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "BRAC University Law Graduate Awarded Prestigious Joint Doctoral Scholarship",
+            "date": "02 Jul 2026",
+            "category": "News",
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney."
+        },
+        {
+            "title": "BRAC University Law Alumni Association's New Executive Committee Takes Charge",
+            "date": "02 Jul 2026",
+            "category": "News",
+            "summary": "The new executive committee of the BRAC University law alumni association has taken charge for the 2026–2028 term."
+        },
+        {
+            "title": "BRAC University Hosts Workshops on Case Solving, Strategic Decision-Making and AI",
+            "date": "01 Jul 2026",
+            "category": "Event",
+            "summary": "BRAC University hosted workshops focusing on case solving, strategic decision-making, and artificial intelligence."
+        },
+        {
+            "title": "Last Date of Payment for Summer 2026",
+            "date": "27 Jun",
+            "category": "Academic",
+            "summary": "The last date for payment for the Summer 2026 courses has been announced."
+        },
+        {
+            "title": "Ashura (Muharram) - University closed",
+            "date": "26 Jun",
+            "category": "Notice",
+            "summary": "The university will be closed on 26 June in observance of Ashura (Muharram)."
+        },
+        {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
             "date": "25 Jun",
             "category": "Notice",
-            "summary": "A notice regarding the award B-113, related to the ICSETEP/RGD/BRAC/GD-2 project."
+            "summary": "A notice regarding the award B-113, ICSETEP/RGD/BRAC/GD-2."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
             "date": "25 Jun",
             "category": "Notice",
-            "summary": "A notice regarding the award B-113, related to the ICSETEP/RGD/BRAC/GD-1 project."
+            "summary": "A notice regarding the award B-113, ICSETEP/RGD/BRAC/GD-1."
         },
         {
             "title": "Recruitment Notice",
             "date": "16 Jun",
             "category": "Notice",
-            "summary": "An official notice announcing recruitment opportunities at the university."
+            "summary": "A notice announcing new recruitment opportunities."
         },
         {
             "title": "LLB Final Exam Schedule: Spring 2026",
             "date": "15 Jun",
             "category": "Academic",
-            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been released."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic",
-            "summary": "An announcement concerning the university's final examinations."
+            "summary": "The final examination schedule for LLB students for Spring 2026 has been announced."
         },
         {
             "title": "Mid-Term Exams week",
             "date": "25 Jul",
             "category": "Academic",
-            "summary": "An announcement regarding the upcoming mid-term examination week."
+            "summary": "An announcement about the upcoming mid-term examinations week."
         },
         {
-            "title": "Last Date of Payment for Summer 2026",
-            "date": "27 Jun",
-            "category": "Notice",
-            "summary": "The deadline for fee payment for the Summer 2026 semester has been announced."
-        },
-        {
-            "title": "Ashura (Muharram)*-University closed",
-            "date": "26 Jun",
-            "category": "Holiday",
-            "summary": "The university will be closed on June 26th in observance of Ashura (Muharram)."
-        },
-        {
-            "title": "BRAC University Law Graduate Awarded Prestigious Joint Doctoral Scholarship Between the University of Glasgow and the University of Sydney",
-            "date": "02 Jul 2026",
-            "category": "News",
-            "summary": "A BRAC University law graduate has secured a prestigious joint doctoral scholarship from the University of Glasgow and the University of Sydney."
-        },
-        {
-            "title": "BRAC University law alumni association’s new executive committee takes charge for 2026–2028 term",
-            "date": "02 Jul 2026",
-            "category": "News",
-            "summary": "The new executive committee of the BRAC University law alumni association has commenced its term for 2026–2028."
-        },
-        {
-            "title": "BRAC University hosts workshops on case solving, strategic decision-making and AI",
-            "date": "01 Jul 2026",
-            "category": "News",
-            "summary": "BRAC University recently organized workshops on case solving, strategic decision-making, and artificial intelligence."
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "An announcement regarding the schedule for final examinations."
         }
     ]
 }
