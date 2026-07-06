@@ -3,68 +3,50 @@
         {
             "title": "BRAC University Law Graduate Awarded Prestigious Joint Doctoral Scholarship Between the University of Glasgow and the University of Sydney",
             "date": "02 Jul 2026",
-            "category": "News",
-            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship by the University of Glasgow and the University of Sydney."
+            "category": "Achievement",
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney."
         },
         {
             "title": "BRAC University law alumni association’s new executive committee takes charge for 2026–2028 term",
             "date": "02 Jul 2026",
             "category": "Alumni Update",
-            "summary": "The BRAC University law alumni association's new executive committee has commenced its term for 2026–2028."
+            "summary": "The new executive committee of the BRAC University law alumni association has taken charge for the 2026–2028 term."
         },
         {
             "title": "BRAC University hosts workshops on case solving, strategic decision-making and AI",
             "date": "01 Jul 2026",
-            "category": "Event",
-            "summary": "BRAC University organized workshops focusing on case solving, strategic decision-making, and artificial intelligence for its participants."
+            "category": "Workshop",
+            "summary": "BRAC University hosted workshops focusing on case solving, strategic decision-making, and artificial intelligence."
+        },
+        {
+            "title": "Last Date of Payment for Summer 2026",
+            "date": "27 Jun",
+            "category": "Academic",
+            "summary": "The deadline for payment for the Summer 2026 semester is June 27."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
             "date": "25 Jun",
             "category": "Notice",
-            "summary": "An official notice regarding the award B-113, related to ICSETEP/RGD/BRAC/GD-2, has been published."
+            "summary": "An official notice regarding the award B-113 for ICSETEP/RGD/BRAC/GD-2 has been issued."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
             "date": "25 Jun",
             "category": "Notice",
-            "summary": "An official notice regarding the award B-113, related to ICSETEP/RGD/BRAC/GD-1, has been published."
+            "summary": "An official notice regarding the award B-113 for ICSETEP/RGD/BRAC/GD-1 has been issued."
         },
         {
             "title": "Recruitment Notice",
             "date": "16 Jun",
             "category": "Notice",
-            "summary": "A general recruitment notice has been issued by BRAC University."
+            "summary": "BRAC University has published a recruitment notice for various positions."
         },
         {
             "title": "LLB Final Exam Schedule: Spring 2026",
             "date": "15 Jun",
-            "category": "Academic Notice",
-            "summary": "The final examination schedule for LLB students for the Spring 2026 semester is now available."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Notice",
-            "summary": "Information regarding the upcoming final examinations has been released."
-        },
-        {
-            "title": "July Mass Uprising Day",
-            "date": "05 Aug",
-            "category": "Event",
-            "summary": "An announcement regarding the observance of July Mass Uprising Day."
-        },
-        {
-            "title": "Mid-Term Exams week",
-            "date": "25 Jul",
-            "category": "Academic Notice",
-            "summary": "Details about the upcoming mid-term examinations week are available."
-        },
-        {
-            "title": "Last Date of Payment for Summer 2026",
-            "date": "27 Jun",
-            "category": "Academic Notice",
-            "summary": "The deadline for payment for the Summer 2026 semester has been announced."
+            "category": "Academic",
+            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been announced."
         }
     ]
 }
