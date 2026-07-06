@@ -1,3 +1,64 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice regarding the award B-113, issued by ICSETEP/RGD/BRAC/GD-2."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice regarding the award B-113, issued by ICSETEP/RGD/BRAC/GD-1."
+        },
+        {
+            "title": "Recruitment Notice",
+            "date": "16 Jun",
+            "category": "Notice",
+            "summary": "An official notice announcing new recruitment opportunities."
+        },
+        {
+            "title": "LLB Final Exam Schedule: Spring 2026",
+            "date": "15 Jun",
+            "category": "Academic",
+            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been released."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "General information concerning the university's final examinations."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "25 Jul",
+            "category": "Academic",
+            "summary": "Information regarding the upcoming mid-term examinations week."
+        },
+        {
+            "title": "Last Date of Payment for Summer 2026",
+            "date": "27 Jun",
+            "category": "Notice",
+            "summary": "The deadline for making payments for the Summer 2026 semester."
+        },
+        {
+            "title": "BRAC University Law Graduate Awarded Prestigious Joint Doctoral Scholarship Between the University of Glasgow and the University of Sydney",
+            "date": "02 Jul 2026",
+            "category": "News",
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship, a collaboration between the University of Glasgow and the University of Sydney."
+        },
+        {
+            "title": "BRAC University law alumni association’s new executive committee takes charge for 2026–2028 term",
+            "date": "02 Jul 2026",
+            "category": "Alumni Update",
+            "summary": "The BRAC University law alumni association's new executive committee has officially commenced its term, which will run from 2026 to 2028."
+        },
+        {
+            "title": "BRAC University hosts workshops on case solving, strategic decision-making and AI",
+            "date": "01 Jul 2026",
+            "category": "Event",
+            "summary": "BRAC University recently hosted a series of workshops focusing on practical skills such as case solving, strategic decision-making, and applications of artificial intelligence."
+        }
+    ]
 }
