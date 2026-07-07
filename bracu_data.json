@@ -1,52 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice regarding the award for project B-113, ICSETEP/RGD/BRAC/GD-2 has been issued."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice regarding the award for project B-113, ICSETEP/RGD/BRAC/GD-1 has been issued."
+        },
+        {
+            "title": "Recruitment Notice",
+            "date": "16 Jun",
+            "category": "Notice",
+            "summary": "A recruitment notice has been published by the university."
+        },
+        {
+            "title": "LLB Final Exam Schedule: Spring 2026",
+            "date": "15 Jun",
+            "category": "Academic",
+            "summary": "The final examination schedule for LLB students for the Spring 2026 semester has been announced."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "An announcement regarding the upcoming final examinations has been made."
+        },
+        {
+            "title": "July Mass Uprising Day",
+            "date": "05 Aug",
+            "category": "Event",
+            "summary": "An announcement or commemoration regarding July Mass Uprising Day has been posted."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "25 Jul",
+            "category": "Academic",
+            "summary": "An announcement regarding the mid-term examinations week has been released."
+        },
+        {
+            "title": "Last Date of Payment for Summer 2026",
+            "date": "27 Jun",
+            "category": "Academic",
+            "summary": "The last date for payment for the Summer 2026 semester has been announced."
+        },
+        {
             "title": "BRAC University Law Graduate Awarded Prestigious Joint Doctoral Scholarship Between the University of Glasgow and the University of Sydney",
             "date": "02 Jul 2026",
             "category": "News",
-            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship, a collaboration between the University of Glasgow and the University of Sydney."
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney."
         },
         {
             "title": "BRAC University law alumni association’s new executive committee takes charge for 2026–2028 term",
             "date": "02 Jul 2026",
-            "category": "Alumni Update",
-            "summary": "The BRAC University law alumni association's new executive committee has commenced its term, serving from 2026 to 2028."
+            "category": "Alumni",
+            "summary": "The BRAC University law alumni association's new executive committee has taken charge for the 2026–2028 term."
         },
         {
             "title": "BRAC University hosts workshops on case solving, strategic decision-making and AI",
             "date": "01 Jul 2026",
             "category": "Event",
-            "summary": "BRAC University recently organized workshops focusing on essential skills such as case solving, strategic decision-making, and the application of artificial intelligence."
-        },
-        {
-            "title": "Last Date of Payment for Summer 2026",
-            "date": "27 Jun 2026",
-            "category": "Academic Notice",
-            "summary": "An announcement has been made regarding the last date for fee payments for the upcoming Summer 2026 semester."
-        },
-        {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
-            "date": "25 Jun 2026",
-            "category": "Notice",
-            "summary": "An official notice has been issued for the award identified as B-113, ICSETEP/RGD/BRAC/GD-2."
-        },
-        {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
-            "date": "25 Jun 2026",
-            "category": "Notice",
-            "summary": "An official notice has been issued for the award identified as B-113, ICSETEP/RGD/BRAC/GD-1."
-        },
-        {
-            "title": "Recruitment Notice",
-            "date": "16 Jun 2026",
-            "category": "Notice",
-            "summary": "BRAC University has released a notice detailing current recruitment opportunities available."
-        },
-        {
-            "title": "LLB Final Exam Schedule: Spring 2026",
-            "date": "15 Jun 2026",
-            "category": "Academic Notice",
-            "summary": "The final examination schedule for the LLB program for the Spring 2026 semester has been published."
+            "summary": "BRAC University recently hosted workshops focused on case solving, strategic decision-making, and artificial intelligence."
         }
     ]
 }
