@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
+            "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
+            "date": "08 Jul",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the schedule for the Undergraduate \"Wishlist\" event planned for Fall 2026."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A formal notice of award related to project B-113, specifically ICSETEP/RGD/BRAC/GD-2."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A formal notice of award related to project B-113, specifically ICSETEP/RGD/BRAC/GD-1."
+        },
+        {
+            "title": "Recruitment Notice",
+            "date": "16 Jun",
+            "category": "Notice",
+            "summary": "A notice announcing recruitment opportunities at the university."
+        },
+        {
             "title": "‘Eco-Friendly Cafeteria’ initiative encourages sustainable choices at BRAC University",
             "date": "07 Jul 2026",
-            "category": "News / Campus Initiative",
-            "summary": "BRAC University has launched an 'Eco-Friendly Cafeteria' initiative to encourage students and staff to make sustainable choices."
+            "category": "News / Initiative",
+            "summary": "BRAC University has launched an ‘Eco-Friendly Cafeteria’ initiative to encourage sustainable choices and practices on campus."
         },
         {
             "title": "BRAC University law graduate awarded prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney",
             "date": "02 Jul 2026",
             "category": "News / Academic Achievement",
-            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship by the University of Glasgow and the University of Sydney."
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship, funded by the University of Glasgow and the University of Sydney."
         },
         {
             "title": "BRAC University law alumni association’s new executive committee takes charge for 2026–2028 term",
             "date": "02 Jul 2026",
             "category": "News / Alumni Update",
-            "summary": "The new executive committee for the BRAC University law alumni association has officially commenced its term, serving from 2026 to 2028."
-        },
-        {
-            "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
-            "date": "08 Jul",
-            "category": "Academic / Event Schedule",
-            "summary": "The event schedule for the undergraduate \"Wishlist\" program for Fall 2026 has been released."
-        },
-        {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
-            "date": "25 Jun",
-            "category": "Notice / Award",
-            "summary": "An official notice has been released regarding the B-113 award for ICSETEP/RGD/BRAC/GD-2."
-        },
-        {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
-            "date": "25 Jun",
-            "category": "Notice / Award",
-            "summary": "An official notice has been released regarding the B-113 award for ICSETEP/RGD/BRAC/GD-1."
-        },
-        {
-            "title": "Recruitment Notice",
-            "date": "16 Jun",
-            "category": "Notice / Recruitment",
-            "summary": "BRAC University has published a recruitment notice for open positions."
+            "summary": "The BRAC University law alumni association has announced its new executive committee, which will serve for the 2026–2028 term."
         }
     ]
 }
