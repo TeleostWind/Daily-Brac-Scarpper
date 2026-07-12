@@ -1,70 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
-            "date": "08 Jul",
-            "category": "Academic Announcement",
-            "summary": "Details regarding the undergraduate \"Wishlist\" event schedule for the Fall 2026 semester."
+            "title": "BRAC University crowned champion at EWU Robotfest 2026 for innovative quadruped robot",
+            "date": "12 Jul 2026",
+            "category": "News",
+            "summary": "BRAC University won the championship at EWU Robotfest 2026, showcasing their innovative quadruped robot. This achievement highlights the university's prowess in robotics and engineering."
         },
         {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
-            "date": "25 Jun",
-            "category": "Notice",
-            "summary": "An official notice pertaining to the award B-113 for ICSETEP/RGD/BRAC/GD-2."
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "Public reporting has been issued concerning the contract signing for project B-113, specifically related to ICSETEP/RGD/BRAC/GD2. This report provides details on the recent contractual agreement."
         },
         {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
-            "date": "25 Jun",
-            "category": "Notice",
-            "summary": "An official notice pertaining to the award B-113 for ICSETEP/RGD/BRAC/GD-1."
-        },
-        {
-            "title": "Recruitment Notice",
-            "date": "16 Jun",
-            "category": "Notice",
-            "summary": "An official notice announcing new recruitment opportunities within the university."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Announcement",
-            "summary": "An announcement regarding the schedule for upcoming final examinations."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic Announcement",
-            "summary": "An announcement regarding the schedule for upcoming final examinations."
-        },
-        {
-            "title": "Eid-e-Miladun Nabi*-University closed",
-            "date": "26 Aug",
-            "category": "Notice",
-            "summary": "A notice informing that the university will be closed in observance of Eid-e-Miladun Nabi."
-        },
-        {
-            "title": "July Mass Uprising Day",
-            "date": "05 Aug",
-            "category": "Event",
-            "summary": "An event commemorating July Mass Uprising Day."
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "Public reporting has been issued concerning the contract signing for project B-113, specifically related to ICSETEP/RGD/BRAC/GD1. This report provides details on the recent contractual agreement."
         },
         {
             "title": "BRAC University seminar raises awareness on cervical cancer",
             "date": "09 Jul 2026",
             "category": "News",
-            "summary": "BRAC University hosted a seminar aimed at educating and raising awareness about cervical cancer."
+            "summary": "BRAC University hosted a seminar focused on raising awareness about cervical cancer. The event aimed to educate the community on prevention and early detection."
+        },
+        {
+            "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
+            "date": "08 Jul 2026",
+            "category": "Academic",
+            "summary": "The schedule for the Undergraduate \"Wishlist\" event for Fall 2026 has been announced. Students should review the dates and plan their participation accordingly."
         },
         {
             "title": "‘Eco-Friendly Cafeteria’ initiative encourages sustainable choices at BRAC University",
             "date": "07 Jul 2026",
             "category": "News",
-            "summary": "BRAC University has launched an ‘Eco-Friendly Cafeteria’ initiative to promote sustainable and environmentally conscious choices on campus."
+            "summary": "BRAC University has launched an ‘Eco-Friendly Cafeteria’ initiative to encourage sustainable choices among its community members. This effort promotes environmental responsibility within the campus."
         },
         {
-            "title": "BRAC University law graduate awarded prestigious joint doctoral scholarship",
-            "date": "02 Jul 2026",
-            "category": "News",
-            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney."
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
+            "date": "25 Jun 2026",
+            "category": "Notice",
+            "summary": "A notice of award has been issued for project B-113, pertaining to ICSETEP/RGD/BRAC/GD-2. This marks an important development in the project's progress."
         }
     ]
 }
