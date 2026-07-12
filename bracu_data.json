@@ -3,44 +3,68 @@
         {
             "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
             "date": "08 Jul",
-            "category": "Academic / Event",
-            "summary": "BRAC University announced the schedule for the Undergraduate \"Wishlist\" event for the Fall 2026 semester."
+            "category": "Academic Announcement",
+            "summary": "Details regarding the undergraduate \"Wishlist\" event schedule for the Fall 2026 semester."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
             "date": "25 Jun",
-            "category": "Notice / Award",
-            "summary": "A notice regarding the award B-113, associated with ICSETEP/RGD/BRAC/GD-2, has been issued."
+            "category": "Notice",
+            "summary": "An official notice pertaining to the award B-113 for ICSETEP/RGD/BRAC/GD-2."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-1",
             "date": "25 Jun",
-            "category": "Notice / Award",
-            "summary": "A notice regarding the award B-113, associated with ICSETEP/RGD/BRAC/GD-1, has been issued."
+            "category": "Notice",
+            "summary": "An official notice pertaining to the award B-113 for ICSETEP/RGD/BRAC/GD-1."
         },
         {
             "title": "Recruitment Notice",
             "date": "16 Jun",
-            "category": "Notice / Recruitment",
-            "summary": "BRAC University has published a recruitment notice for potential applicants."
+            "category": "Notice",
+            "summary": "An official notice announcing new recruitment opportunities within the university."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the schedule for upcoming final examinations."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the schedule for upcoming final examinations."
+        },
+        {
+            "title": "Eid-e-Miladun Nabi*-University closed",
+            "date": "26 Aug",
+            "category": "Notice",
+            "summary": "A notice informing that the university will be closed in observance of Eid-e-Miladun Nabi."
+        },
+        {
+            "title": "July Mass Uprising Day",
+            "date": "05 Aug",
+            "category": "Event",
+            "summary": "An event commemorating July Mass Uprising Day."
         },
         {
             "title": "BRAC University seminar raises awareness on cervical cancer",
             "date": "09 Jul 2026",
-            "category": "News / Health Event",
-            "summary": "BRAC University hosted a seminar on July 9, 2026, to raise important awareness regarding cervical cancer."
+            "category": "News",
+            "summary": "BRAC University hosted a seminar aimed at educating and raising awareness about cervical cancer."
         },
         {
             "title": "‘Eco-Friendly Cafeteria’ initiative encourages sustainable choices at BRAC University",
             "date": "07 Jul 2026",
-            "category": "News / Campus Initiative",
-            "summary": "On July 7, 2026, BRAC University launched an ‘Eco-Friendly Cafeteria’ initiative to promote sustainable choices and environmental responsibility."
+            "category": "News",
+            "summary": "BRAC University has launched an ‘Eco-Friendly Cafeteria’ initiative to promote sustainable and environmentally conscious choices on campus."
         },
         {
-            "title": "BRAC University law graduate awarded prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney",
+            "title": "BRAC University law graduate awarded prestigious joint doctoral scholarship",
             "date": "02 Jul 2026",
-            "category": "News / Academic Achievement",
-            "summary": "A BRAC University law graduate was awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney on July 2, 2026."
+            "category": "News",
+            "summary": "A BRAC University law graduate has been awarded a prestigious joint doctoral scholarship between the University of Glasgow and the University of Sydney."
         }
     ]
 }
