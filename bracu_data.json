@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "An announcement regarding public reporting on a contract signing for project B-113, ICSETEP/RGD/BRAC/GD2."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "An announcement regarding public reporting on a contract signing for project B-113, ICSETEP/RGD/BRAC/GD1."
-        },
-        {
-            "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
-            "date": "08 Jul",
-            "category": "Academic Event",
-            "summary": "This announcement provides the schedule for the Undergraduate 'Wishlist' event for the Fall 2026 semester."
-        },
-        {
-            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
-            "date": "25 Jun",
-            "category": "Notice",
-            "summary": "A notice has been issued concerning the award for project B-113, ICSETEP/RGD/BRAC/GD-2."
-        },
-        {
             "title": "BRAC University and Sporsho Braille Foundation visit Baptist Mission Integrated School",
             "date": "15 Jul 2026",
             "category": "News",
-            "summary": "BRAC University, in collaboration with the Sporsho Braille Foundation, conducted a visit to the Baptist Mission Integrated School."
+            "summary": "BRAC University collaborated with Sporsho Braille Foundation to visit Baptist Mission Integrated School, fostering community engagement and support."
         },
         {
             "title": "Argentine ambassador joins BRAC University students to watch his home team’s World Cup quarter-final match",
             "date": "15 Jul 2026",
             "category": "News",
-            "summary": "The Argentine ambassador joined BRAC University students to watch his home team's World Cup quarter-final match, fostering a sense of community."
+            "summary": "The Argentine ambassador joined BRAC University students to collectively watch Argentina's World Cup quarter-final match, highlighting cultural exchange and community spirit."
         },
         {
             "title": "BRAC University Response Team leads blood donation and Thalassemia awareness campaign",
             "date": "14 Jul 2026",
             "category": "News",
-            "summary": "The BRAC University Response Team organized a blood donation drive and an awareness campaign dedicated to Thalassemia."
+            "summary": "The BRAC University Response Team successfully organized a blood donation drive along with an awareness campaign focused on Thalassemia."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "Public reporting has been conducted for the contract signing of project B-113, under the ICSETEP/RGD/BRAC/GD2 initiative."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "Public reporting has been conducted for the contract signing of project B-113, under the ICSETEP/RGD/BRAC/GD1 initiative."
+        },
+        {
+            "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
+            "date": "08 Jul",
+            "category": "Academic",
+            "summary": "The schedule for the Undergraduate 'Wishlist' event for Fall 2026 has been released, providing important dates for students."
+        },
+        {
+            "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
+            "date": "25 Jun",
+            "category": "Notice",
+            "summary": "A notice of award has been issued for project B-113, specifically related to ICSETEP/RGD/BRAC/GD-2."
         }
     ]
 }
