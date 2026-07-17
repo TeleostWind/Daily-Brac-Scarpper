@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "BRAC University IEEE society hosts seminar on careers in big tech and ai startups",
-            "date": "16 Jul 2026",
-            "category": "News / Event",
-            "summary": "The BRAC University IEEE society will host a seminar focusing on career opportunities in big tech and AI startups."
-        },
-        {
-            "title": "BRAC University and Sporsho Braille Foundation visit Baptist Mission Integrated School",
-            "date": "15 Jul 2026",
-            "category": "News / Community Engagement",
-            "summary": "BRAC University, in collaboration with the Sporsho Braille Foundation, visited the Baptist Mission Integrated School."
-        },
-        {
-            "title": "Argentine ambassador joins BRAC University students to watch his home team’s World Cup quarter-final match",
-            "date": "15 Jul 2026",
-            "category": "News / Event",
-            "summary": "The Argentine ambassador joined BRAC University students to watch his home country's World Cup quarter-final match."
-        },
-        {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul",
             "category": "Announcement",
-            "summary": "This announcement concerns the public reporting of a contract signing for project B-113 under the ICSETEP/RGD/BRAC/GD2 initiative."
+            "summary": "BRAC University has released a public report regarding the contract signing for project B-113, ICSETEP/RGD/BRAC/GD2."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
             "date": "12 Jul",
             "category": "Announcement",
-            "summary": "This announcement concerns the public reporting of a contract signing for project B-113 under the ICSETEP/RGD/BRAC/GD1 initiative."
+            "summary": "BRAC University has released a public report regarding the contract signing for project B-113, ICSETEP/RGD/BRAC/GD1."
         },
         {
             "title": "UG \"Wishlist\" Event Schedule, Fall 2026",
             "date": "08 Jul",
-            "category": "Academic / Event",
-            "summary": "An event schedule for the Undergraduate \"Wishlist\" for the Fall 2026 semester has been released."
+            "category": "Academic Announcement",
+            "summary": "The schedule for the Undergraduate \"Wishlist\" event for the Fall 2026 semester has been announced."
         },
         {
             "title": "Notice of Award – B-113, ICSETEP/RGD/BRAC/GD-2",
             "date": "25 Jun",
             "category": "Notice",
-            "summary": "A notice regarding the award for project B-113 under the ICSETEP/RGD/BRAC/GD-2 initiative has been published."
+            "summary": "A notice of award has been issued concerning project B-113, ICSETEP/RGD/BRAC/GD-2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Announcement",
+            "summary": "An announcement concerning the schedule and details for final examinations."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Announcement",
+            "summary": "An announcement concerning the schedule and details for final examinations."
+        },
+        {
+            "title": "Eid-e-Miladun Nabi*-University closed",
+            "date": "26 Aug",
+            "category": "Holiday Notice",
+            "summary": "The university will be closed in observance of Eid-e-Miladun Nabi."
+        },
+        {
+            "title": "July Mass Uprising Day",
+            "date": "05 Aug",
+            "category": "Commemoration",
+            "summary": "A commemoration recognizing July Mass Uprising Day."
+        },
+        {
+            "title": "BRAC University IEEE society hosts seminar on careers in big tech and ai startups",
+            "date": "16 Jul 2026",
+            "category": "News",
+            "summary": "The BRAC University IEEE society will host a seminar exploring career opportunities in big tech and AI startups."
+        },
+        {
+            "title": "BRAC University and Sporsho Braille Foundation visit Baptist Mission Integrated School",
+            "date": "15 Jul 2026",
+            "category": "Community Engagement News",
+            "summary": "BRAC University, in collaboration with Sporsho Braille Foundation, will visit the Baptist Mission Integrated School."
+        },
+        {
+            "title": "Argentine ambassador joins BRAC University students to watch his home team’s World Cup quarter-final match",
+            "date": "15 Jul 2026",
+            "category": "Event News",
+            "summary": "The Argentine ambassador will join BRAC University students to watch his home team’s World Cup quarter-final match."
         }
     ]
 }
