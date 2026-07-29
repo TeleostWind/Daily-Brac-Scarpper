@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 Jul",
-            "category": "Notice",
-            "summary": "A notice announcing the admission test results for the Fall 2026 semester."
-        },
-        {
-            "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul",
-            "category": "Academic",
-            "summary": "An announcement detailing the schedule for the Mid-Term examinations for the Summer 2026 semester."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "Public reporting concerning the signing of contract B-113 under ICSETEP/RGD/BRAC/GD2."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "Public reporting concerning the signing of contract B-113 under ICSETEP/RGD/BRAC/GD1."
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding final examinations has been made."
         },
         {
             "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic",
-            "summary": "An announcement regarding the schedule for final examinations in December."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic",
-            "summary": "An announcement regarding the schedule for final examinations in September."
+            "date": "12 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding final examinations has been made."
         },
         {
             "title": "Eid-e-Miladun Nabi*-University closed",
-            "date": "26 Aug",
-            "category": "Holiday",
-            "summary": "A notice announcing the university closure on 26 August for Eid-e-Miladun Nabi."
+            "date": "26 Aug 2026",
+            "category": "Holiday Notice",
+            "summary": "The university will be closed in observance of Eid-e-Miladun Nabi."
         },
         {
             "title": "July Mass Uprising Day",
-            "date": "05 Aug",
-            "category": "Observance",
-            "summary": "An announcement marking the observance of July Mass Uprising Day."
+            "date": "05 Aug 2026",
+            "category": "Commemoration",
+            "summary": "The university commemorates July Mass Uprising Day."
         },
         {
             "title": "BRAC University holds cv preparation workshop",
             "date": "26 Jul 2026",
-            "category": "News",
-            "summary": "BRAC University conducted a workshop focused on preparing CVs for students or job seekers."
+            "category": "Workshop",
+            "summary": "BRAC University organized a workshop aimed at assisting students with the preparation of their curriculum vitae."
         },
         {
             "title": "BRAC University, BANGLACRAFT sign MoU to strengthen Bangladesh's handicraft sector",
             "date": "23 Jul 2026",
-            "category": "News",
-            "summary": "BRAC University and BANGLACRAFT signed a Memorandum of Understanding to collaborate and bolster Bangladesh's handicraft sector."
+            "category": "Partnership",
+            "summary": "BRAC University and BANGLACRAFT have signed a Memorandum of Understanding to collaborate on strengthening Bangladesh's handicraft sector."
         },
         {
             "title": "BRAC University holds workshop on innovation and intellectual property",
             "date": "23 Jul 2026",
-            "category": "News",
-            "summary": "BRAC University organized a workshop on the topics of innovation and intellectual property."
+            "category": "Workshop",
+            "summary": "BRAC University hosted a workshop focusing on the important topics of innovation and intellectual property."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "21 Jul 2026",
+            "category": "Academic Notice",
+            "summary": "An official notice regarding the admission test results for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "Mid-Term Exam schedule, Summer 2026",
+            "date": "20 Jul 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for the mid-term examinations for the Summer 2026 semester has been announced."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "Public reporting has been made on the signing of contract B-113 related to ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "Public reporting has been made on the signing of contract B-113 related to ICSETEP/RGD/BRAC/GD1."
         }
     ]
 }
