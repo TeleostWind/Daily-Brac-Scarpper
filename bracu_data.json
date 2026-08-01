@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 July",
-            "category": "Academic Notice",
-            "summary": "A notice has been published regarding the admission test results for the Fall 2026 semester."
-        },
-        {
-            "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 July",
-            "category": "Academic Notice",
-            "summary": "The mid-term examination schedule for the Summer 2026 semester has been announced."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 July",
-            "category": "Official Notice",
-            "summary": "A public report has been released concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
-            "date": "12 July",
-            "category": "Official Notice",
-            "summary": "A public report has been released concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD1."
-        },
-        {
             "title": "BRAC University holds cv preparation workshop",
-            "date": "26 July 2026",
+            "date": "26 Jul 2026",
             "category": "Workshop",
-            "summary": "BRAC University recently organized a workshop to help students with CV preparation."
+            "summary": "BRAC University hosted a workshop aimed at helping students prepare their CVs effectively for future career opportunities."
         },
         {
             "title": "BRAC University, BANGLACRAFT sign MoU to strengthen Bangladesh's handicraft sector",
-            "date": "23 July 2026",
+            "date": "23 Jul 2026",
             "category": "Partnership",
-            "summary": "BRAC University and BANGLACRAFT have signed a Memorandum of Understanding to collaborate on strengthening Bangladesh's handicraft sector."
+            "summary": "BRAC University and BANGLACRAFT formalized a partnership through an MoU to collaboratively bolster Bangladesh's handicraft industry."
         },
         {
             "title": "BRAC University holds workshop on innovation and intellectual property",
-            "date": "23 July 2026",
+            "date": "23 Jul 2026",
             "category": "Workshop",
-            "summary": "BRAC University hosted a workshop focused on the important topics of innovation and intellectual property."
+            "summary": "BRAC University conducted a workshop focused on the important topics of innovation and intellectual property, providing insights and guidance."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "21 Jul",
+            "category": "Academic Notice",
+            "summary": "This notice provides information regarding the publication of admission test results for the upcoming Fall 2026 semester."
+        },
+        {
+            "title": "Mid-Term Exam schedule, Summer 2026",
+            "date": "20 Jul",
+            "category": "Academic Notice",
+            "summary": "An announcement detailing the schedule for mid-term examinations for students enrolled in the Summer 2026 semester."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "A public report has been released concerning the signing of contract B-113, specific to ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "A public report has been released concerning the signing of contract B-113, specific to ICSETEP/RGD/BRAC/GD1."
         }
     ]
 }
