@@ -2,69 +2,45 @@
     "bracu_official": [
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 Jul 2026",
+            "date": "21 July",
             "category": "Academic Notice",
-            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been released by BRAC University."
+            "summary": "A notice has been published regarding the admission test results for the Fall 2026 semester."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul 2026",
+            "date": "20 July",
             "category": "Academic Notice",
-            "summary": "BRAC University announced the mid-term examination schedule for the Summer 2026 semester."
+            "summary": "The mid-term examination schedule for the Summer 2026 semester has been announced."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "BRAC University issued a public report regarding the signing of contract B-113 related to ICSETEP/RGD/BRAC/GD2."
+            "date": "12 July",
+            "category": "Official Notice",
+            "summary": "A public report has been released concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "BRAC University issued a public report regarding the signing of contract B-113 related to ICSETEP/RGD/BRAC/GD1."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Notice",
-            "summary": "An academic notice regarding the schedule for final examinations has been posted."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic Notice",
-            "summary": "An academic notice concerning the publication of results has been issued."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic Notice",
-            "summary": "An academic notice specifying the last day for submitting grades has been released."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic Notice",
-            "summary": "An academic notice regarding the schedule for final examinations has been posted."
+            "date": "12 July",
+            "category": "Official Notice",
+            "summary": "A public report has been released concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD1."
         },
         {
             "title": "BRAC University holds cv preparation workshop",
-            "date": "26 Jul 2026",
-            "category": "News / Event",
-            "summary": "BRAC University conducted a workshop to assist students with CV preparation."
+            "date": "26 July 2026",
+            "category": "Workshop",
+            "summary": "BRAC University recently organized a workshop to help students with CV preparation."
         },
         {
             "title": "BRAC University, BANGLACRAFT sign MoU to strengthen Bangladesh's handicraft sector",
-            "date": "23 Jul 2026",
-            "category": "News / Partnership",
-            "summary": "BRAC University and BANGLACRAFT signed a Memorandum of Understanding aimed at strengthening Bangladesh's handicraft sector."
+            "date": "23 July 2026",
+            "category": "Partnership",
+            "summary": "BRAC University and BANGLACRAFT have signed a Memorandum of Understanding to collaborate on strengthening Bangladesh's handicraft sector."
         },
         {
             "title": "BRAC University holds workshop on innovation and intellectual property",
-            "date": "23 Jul 2026",
-            "category": "News / Event",
-            "summary": "BRAC University organized a workshop focused on innovation and intellectual property."
+            "date": "23 July 2026",
+            "category": "Workshop",
+            "summary": "BRAC University hosted a workshop focused on the important topics of innovation and intellectual property."
         }
     ]
 }
