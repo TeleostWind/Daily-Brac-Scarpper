@@ -3,44 +3,44 @@
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "21 Jul 2026",
-            "category": "Notice",
-            "summary": "BRAC University announced the results for the Fall 2026 admission test."
+            "category": "Academic Notice",
+            "summary": "Notice regarding the publication of admission test results for the Fall 2026 academic session."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic",
-            "summary": "The schedule for the Mid-Term Examinations for Summer 2026 has been released."
+            "category": "Academic Notice",
+            "summary": "Announcement of the mid-term examination schedule for the Summer 2026 academic session."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul 2026",
             "category": "Announcement",
-            "summary": "Public reporting regarding the contract signing for B-113, ICSETEP/RGD/BRAC/GD2 has been issued."
+            "summary": "Public reporting details for the signing of contract B-113, ICSETEP/RGD/BRAC/GD2."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
             "date": "12 Jul 2026",
             "category": "Announcement",
-            "summary": "Public reporting regarding the contract signing for B-113, ICSETEP/RGD/BRAC/GD1 has been issued."
+            "summary": "Public reporting details for the signing of contract B-113, ICSETEP/RGD/BRAC/GD1."
         },
         {
-            "title": "BRAC University holds CV preparation workshop",
+            "title": "BRAC University holds cv preparation workshop",
             "date": "26 Jul 2026",
-            "category": "Event",
-            "summary": "BRAC University organized a workshop to help students prepare their CVs."
+            "category": "Workshop",
+            "summary": "BRAC University conducted a workshop aimed at assisting students with CV preparation."
         },
         {
             "title": "BRAC University, BANGLACRAFT sign MoU to strengthen Bangladesh's handicraft sector",
             "date": "23 Jul 2026",
-            "category": "News",
+            "category": "Partnership Announcement",
             "summary": "BRAC University and BANGLACRAFT signed a Memorandum of Understanding to collaborate on strengthening Bangladesh's handicraft sector."
         },
         {
             "title": "BRAC University holds workshop on innovation and intellectual property",
             "date": "23 Jul 2026",
-            "category": "Event",
-            "summary": "BRAC University conducted a workshop focusing on innovation and intellectual property."
+            "category": "Workshop",
+            "summary": "BRAC University organized a workshop focusing on the topics of innovation and intellectual property."
         }
     ]
 }
