@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "BRAC University holds cv preparation workshop",
+            "title": "18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Announcement",
+            "summary": "BRAC University announced its 18th Convocation, scheduled to take place in 2026."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "21 Jul 2026",
+            "category": "Notice",
+            "summary": "A notice was released regarding the results of the admission test for the Fall 2026 semester."
+        },
+        {
+            "title": "Mid-Term Exam schedule, Summer 2026",
+            "date": "20 Jul 2026",
+            "category": "Academic",
+            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been announced."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "An announcement was made regarding the public reporting of a contract signing for project B-113, ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec, Unknown Year",
+            "category": "Academic",
+            "summary": "A general announcement pertaining to final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep, Unknown Year",
+            "category": "Academic",
+            "summary": "A general announcement about the publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep, Unknown Year",
+            "category": "Academic",
+            "summary": "A notice specifying the last day for submitting grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep, Unknown Year",
+            "category": "Academic",
+            "summary": "A general announcement regarding final examinations."
+        },
+        {
+            "title": "BRAC University holds CV preparation workshop",
             "date": "26 Jul 2026",
             "category": "News",
-            "summary": "BRAC University recently organized a workshop focused on CV preparation, aimed at equipping students with essential skills for career readiness."
+            "summary": "BRAC University organized and held a workshop focused on CV preparation for its students."
         },
         {
             "title": "BRAC University, BANGLACRAFT sign MoU to strengthen Bangladesh's handicraft sector",
             "date": "23 Jul 2026",
             "category": "News",
-            "summary": "BRAC University and BANGLACRAFT have signed a Memorandum of Understanding to collaborate on initiatives aimed at strengthening Bangladesh's handicraft sector. This partnership seeks to foster growth and development in the industry."
+            "summary": "BRAC University and BANGLACRAFT have signed a Memorandum of Understanding aimed at strengthening Bangladesh's handicraft sector."
         },
         {
             "title": "BRAC University holds workshop on innovation and intellectual property",
             "date": "23 Jul 2026",
             "category": "News",
-            "summary": "BRAC University hosted a workshop covering innovation and intellectual property, providing participants with insights into protecting and leveraging their creative ideas."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 Jul",
-            "category": "Notice",
-            "summary": "A notice has been released regarding the admission test results for the Fall 2026 semester, providing important information for prospective students."
-        },
-        {
-            "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul",
-            "category": "Notice",
-            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been announced, detailing important dates for students."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "Public reporting has been made available concerning the signing of contract B-113, under the ICSETEP/RGD/BRAC/GD2 project."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD1",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "Public reporting has been made available concerning the signing of contract B-113, under the ICSETEP/RGD/BRAC/GD1 project."
+            "summary": "BRAC University hosted a workshop focusing on the important topics of innovation and intellectual property."
         }
     ]
 }
