@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "Architecture faculty and alumna awarded full-tuition scholarship to Harvard GSD and UGC Overseas Master's Scholarship",
-            "date": "04 Aug 2026",
-            "category": "News",
-            "summary": "An architecture faculty member and an alumna from BRAC University have been awarded a full-tuition scholarship to Harvard GSD and a UGC Overseas Master's Scholarship."
-        },
-        {
-            "title": "BRAC University conducts digital capacity-building program for administrative staff",
-            "date": "04 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University successfully conducted a digital capacity-building program designed to enhance the skills of its administrative staff."
-        },
-        {
-            "title": "Bangladesh Bank governor inaugurates Bangla QR at BRAC University",
-            "date": "04 Aug 2026",
-            "category": "News",
-            "summary": "The Governor of Bangladesh Bank inaugurated the Bangla QR service at BRAC University, marking a significant digital advancement for the institution."
-        },
-        {
-            "title": "Announcement: 18th Convocation 2026",
+            "title": "18th Convocation 2026",
             "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An official announcement has been made regarding the university's 18th Convocation, scheduled to take place in 2026."
+            "summary": "BRAC University has announced the date for its 18th Convocation, scheduled for August 3, 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "21 Jul 2026",
             "category": "Notice",
-            "summary": "A notice has been released concerning the admission test results for prospective students applying for the Fall 2026 semester."
+            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been released."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been published, providing important dates for students."
+            "category": "Academic",
+            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been announced."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul 2026",
+            "date": "12 Jul",
             "category": "Announcement",
-            "summary": "A public report details the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2, indicating an important institutional agreement."
+            "summary": "Public reporting on the contract signing for project B-113, under ICSETEP/RGD/BRAC/GD2, has been made available."
+        },
+        {
+            "title": "Architecture faculty and alumna awarded full-tuition scholarship to Harvard GSD and UGC Overseas Master's Scholarship",
+            "date": "04 Aug 2026",
+            "category": "News",
+            "summary": "An architecture faculty member and an alumna have been awarded prestigious full-tuition scholarships to Harvard GSD and UGC Overseas Master's Scholarship."
+        },
+        {
+            "title": "BRAC University conducts digital capacity-building program for administrative staff",
+            "date": "04 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University conducted a digital capacity-building program aimed at enhancing the skills of its administrative staff."
+        },
+        {
+            "title": "Bangladesh Bank governor inaugurates Bangla QR at BRAC University",
+            "date": "04 Aug 2026",
+            "category": "News",
+            "summary": "The Governor of Bangladesh Bank inaugurated the Bangla QR system at BRAC University."
         }
     ]
 }
