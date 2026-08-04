@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "18th Convocation 2026",
-            "date": "03 Aug 2026",
-            "category": "Announcement",
-            "summary": "BRAC University has announced its 18th Convocation, scheduled for 2026. Further details are expected soon regarding this significant academic event."
-        },
-        {
             "title": "BRAC University holds CV preparation workshop",
             "date": "26 Jul 2026",
-            "category": "Workshop",
-            "summary": "BRAC University recently organized a workshop to help students enhance their CV writing skills. The session aimed to prepare them for future career opportunities."
+            "category": "News",
+            "summary": "BRAC University organized a workshop aimed at assisting students in preparing their curriculum vitae."
         },
         {
             "title": "BRAC University, BANGLACRAFT sign MoU to strengthen Bangladesh's handicraft sector",
             "date": "23 Jul 2026",
-            "category": "Partnership",
-            "summary": "BRAC University and BANGLACRAFT have signed a Memorandum of Understanding to collaborate. This partnership aims to strengthen Bangladesh's handicraft sector through joint initiatives."
+            "category": "News",
+            "summary": "BRAC University and BANGLACRAFT signed a Memorandum of Understanding to collaborate on strengthening Bangladesh's handicraft sector."
         },
         {
             "title": "BRAC University holds workshop on innovation and intellectual property",
             "date": "23 Jul 2026",
-            "category": "Workshop",
-            "summary": "BRAC University conducted a workshop focusing on innovation and intellectual property. The event provided insights into protecting original ideas and fostering a culture of creativity."
+            "category": "News",
+            "summary": "BRAC University conducted a workshop focusing on the topics of innovation and intellectual property."
+        },
+        {
+            "title": "18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Event",
+            "summary": "An announcement regarding the upcoming 18th Convocation scheduled for 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "21 Jul 2026",
-            "category": "Admission Notice",
-            "summary": "BRAC University has released the Admission Test Results for the Fall 2026 semester. Applicants are advised to check their results through the official portal."
+            "category": "Academic Notice",
+            "summary": "A notice announcing the results of the admission test for the Fall 2026 semester."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
             "category": "Academic Notice",
-            "summary": "The mid-term examination schedule for the Summer 2026 semester has been published. Students should refer to the notice for their respective exam dates and times."
+            "summary": "Information regarding the mid-term examination schedule for the Summer 2026 semester."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul 2026",
             "category": "Announcement",
-            "summary": "A public report has been issued regarding the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2. This signifies a new development or project initiative."
+            "summary": "A public report regarding the signing of contract B-113, ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Notice",
+            "summary": "An academic notice concerning the schedule for final examinations in December."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the upcoming publication of academic results in September."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "An academic notice specifying the deadline for submitting grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "An academic notice concerning the schedule for final examinations in September."
         }
     ]
 }
