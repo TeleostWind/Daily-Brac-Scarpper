@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "18th Convocation 2026",
-            "date": "03 Aug",
-            "category": "Announcement",
-            "summary": "An announcement regarding the university's 18th convocation, scheduled to take place in 2026."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 Jul",
-            "category": "Notice, Academic",
-            "summary": "A notice has been issued regarding the results of the admission test for the Fall 2026 semester."
-        },
-        {
-            "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul",
-            "category": "Academic, Notice",
-            "summary": "The schedule for the mid-term examinations for the Summer 2026 semester has been released."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
-            "category": "Announcement",
-            "summary": "Public reporting on the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Date",
-            "summary": "A notice regarding the schedule for final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic Date",
-            "summary": "An announcement regarding the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic Date",
-            "summary": "A notice indicating the final date for submitting grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic Date",
-            "summary": "A notice regarding the schedule for final examinations."
-        },
-        {
             "title": "Architecture faculty and alumna awarded full-tuition scholarship to Harvard GSD and UGC Overseas Master's Scholarship",
             "date": "04 Aug 2026",
-            "category": "News, Academic Achievement",
-            "summary": "An architecture faculty member and an alumna have been awarded significant full-tuition scholarships to Harvard GSD and the UGC Overseas Master's Scholarship."
+            "category": "News",
+            "summary": "An architecture faculty member and an alumna of BRAC University have been awarded prestigious full-tuition scholarships to Harvard GSD and a UGC Overseas Master's Scholarship."
         },
         {
             "title": "BRAC University conducts digital capacity-building program for administrative staff",
             "date": "04 Aug 2026",
-            "category": "News, University Update",
-            "summary": "BRAC University has conducted a digital capacity-building program aimed at enhancing the skills and capabilities of its administrative staff."
+            "category": "News",
+            "summary": "BRAC University recently conducted a digital capacity-building program designed to enhance the technological skills of its administrative staff."
         },
         {
             "title": "Bangladesh Bank governor inaugurates Bangla QR at BRAC University",
             "date": "04 Aug 2026",
-            "category": "News, Event",
-            "summary": "The Bangladesh Bank governor inaugurated the Bangla QR payment system during an event held at BRAC University."
+            "category": "News",
+            "summary": "The governor of Bangladesh Bank officially inaugurated the Bangla QR service at BRAC University, facilitating digital transactions on campus."
+        },
+        {
+            "title": "18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Announcement",
+            "summary": "Official announcement regarding the upcoming 18th Convocation of BRAC University, scheduled for 2026."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "21 Jul 2026",
+            "category": "Notice",
+            "summary": "A notice has been released concerning the publication of admission test results for the Fall 2026 semester."
+        },
+        {
+            "title": "Mid-Term Exam schedule, Summer 2026",
+            "date": "20 Jul 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been published."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "Public reporting is available regarding the signing of contract B-113, identified as ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "Notice regarding the scheduled publication of academic results for the current academic year."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "Announcement of the last day for instructors to submit student grades for the current academic term."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "Announcement of the schedule for final examinations for the current academic term."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Notice",
+            "summary": "Announcement of the schedule for final examinations for the current academic term."
         }
     ]
 }
