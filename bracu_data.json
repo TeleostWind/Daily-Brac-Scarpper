@@ -2,45 +2,69 @@
     "bracu_official": [
         {
             "title": "18th Convocation 2026",
-            "date": "03 Aug",
+            "date": "August 03, 2026",
             "category": "Announcement",
-            "summary": "An announcement has been made regarding the upcoming 18th Convocation of BRAC University scheduled for 2026."
+            "summary": "An announcement regarding the 18th Convocation of BRAC University, scheduled for 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 Jul",
+            "date": "July 21, 2026",
             "category": "Notice",
-            "summary": "BRAC University has published the admission test results for the Fall 2026 intake."
+            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul",
+            "date": "July 20, 2026",
             "category": "Academic",
-            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been released."
+            "summary": "Details about the mid-term examination schedule for the Summer 2026 semester."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
+            "date": "July 12, 2026",
             "category": "Announcement",
-            "summary": "A public reporting event was held concerning the contract signing for project B-113, ICSETEP/RGD/BRAC/GD2."
+            "summary": "Public reporting details for a contract signing related to project B-113, ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "December 10, Unknown",
+            "category": "Academic",
+            "summary": "General announcement regarding the schedule for final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "September 23, Unknown",
+            "category": "Academic",
+            "summary": "Notice about the publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "September 21, Unknown",
+            "category": "Academic",
+            "summary": "Important deadline for faculty to submit grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "September 12, Unknown",
+            "category": "Academic",
+            "summary": "General announcement regarding the schedule for final examinations."
         },
         {
             "title": "Architecture faculty and alumna awarded full-tuition scholarship to Harvard GSD and UGC Overseas Master's Scholarship",
-            "date": "04 Aug 2026",
+            "date": "August 04, 2026",
             "category": "News",
-            "summary": "An architecture faculty member and an alumna from BRAC University have been awarded prestigious full-tuition scholarships for higher studies at Harvard GSD and a UGC Overseas Master's Scholarship."
+            "summary": "An architecture faculty member and an alumna from BRAC University have received prestigious full-tuition scholarships for higher studies."
         },
         {
             "title": "BRAC University conducts digital capacity-building program for administrative staff",
-            "date": "04 Aug 2026",
+            "date": "August 04, 2026",
             "category": "News",
-            "summary": "BRAC University successfully conducted a digital capacity-building program designed for its administrative staff."
+            "summary": "BRAC University organized a program to enhance the digital skills and capacity of its administrative staff."
         },
         {
             "title": "Bangladesh Bank governor inaugurates Bangla QR at BRAC University",
-            "date": "04 Aug 2026",
+            "date": "August 04, 2026",
             "category": "News",
-            "summary": "The Governor of Bangladesh Bank officially inaugurated the Bangla QR service at BRAC University."
+            "summary": "The governor of Bangladesh Bank inaugurated the Bangla QR payment system at BRAC University."
         }
     ]
 }
