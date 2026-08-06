@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "18th Convocation 2026",
+            "title": "18th Convocation 2026 Announcement",
             "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An announcement has been made regarding the university's 18th Convocation, scheduled to take place in 2026."
+            "summary": "BRAC University has announced its 18th Convocation, scheduled for the year 2026, providing crucial information for prospective graduates."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "21 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "A notice has been issued regarding the publication of admission test results for the Fall 2026 semester."
+            "category": "Notice",
+            "summary": "A notice has been issued regarding the publication of admission test results for the upcoming Fall 2026 semester, important for all applicants."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been released."
+            "category": "Academic",
+            "summary": "The official schedule for the Mid-Term Examinations for the Summer 2026 semester has been released for students to prepare accordingly."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul 2026",
             "category": "Announcement",
-            "summary": "Public reporting was conducted concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
+            "summary": "BRAC University has provided a public report on the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2, indicating an important institutional development."
         },
         {
-            "title": "Architecture faculty and alumna awarded full-tuition scholarship to Harvard GSD and UGC Overseas Master's Scholarship",
-            "date": "04 Aug 2026",
+            "title": "Architecture students explore North Bengal's historical sites in academic field trip",
+            "date": "06 Aug 2026",
             "category": "News",
-            "summary": "An architecture faculty member and an alumna from BRAC University have been awarded full-tuition scholarships to Harvard GSD and the UGC Overseas Master's Scholarship."
+            "summary": "Architecture students from BRAC University embarked on an academic field trip to explore historical sites in North Bengal, enhancing their practical learning experience."
         },
         {
-            "title": "BRAC University conducts digital capacity-building program for administrative staff",
-            "date": "04 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University recently conducted a digital capacity-building program designed for its administrative staff."
+            "title": "Architecture department hosts seminar on architecture pedagogy featuring Professor Shamsul Wares",
+            "date": "06 Aug 2026",
+            "category": "Event",
+            "summary": "The Architecture department at BRAC University organized a seminar focused on architecture pedagogy, featuring an insightful session by Professor Shamsul Wares."
         },
         {
-            "title": "Bangladesh Bank governor inaugurates Bangla QR at BRAC University",
-            "date": "04 Aug 2026",
-            "category": "News",
-            "summary": "The governor of Bangladesh Bank officially inaugurated the Bangla QR service at BRAC University."
+            "title": "BRAC University hosts roadshow on Banglalink Management Trainee Programme",
+            "date": "06 Aug 2026",
+            "category": "Event",
+            "summary": "BRAC University hosted a roadshow providing information about the Banglalink Management Trainee Programme, offering career opportunities for students."
         }
     ]
 }
