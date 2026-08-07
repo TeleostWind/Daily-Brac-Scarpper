@@ -1,3 +1,70 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Architecture students explore North Bengal's historical sites",
+            "date": "06 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University architecture students embarked on an academic field trip to explore various historical sites across North Bengal."
+        },
+        {
+            "title": "Architecture department hosts seminar on architecture pedagogy",
+            "date": "06 Aug 2026",
+            "category": "Event",
+            "summary": "The Architecture department organized a seminar focusing on architecture pedagogy, featuring insightful discussions by Professor Shamsul Wares."
+        },
+        {
+            "title": "BRAC University hosts roadshow on Banglalink Management Trainee Programme",
+            "date": "06 Aug 2026",
+            "category": "Event",
+            "summary": "BRAC University hosted a roadshow to inform students about the Banglalink Management Trainee Programme and career opportunities."
+        },
+        {
+            "title": "18th Convocation Announcement",
+            "date": "03 Aug 2026",
+            "category": "Announcement",
+            "summary": "An announcement has been made regarding BRAC University's 18th Convocation, scheduled for August 3, 2026."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "21 Jul 2026",
+            "category": "Notice",
+            "summary": "A notice has been issued concerning the admission test results for the Fall 2026 semester."
+        },
+        {
+            "title": "Mid-Term Exam Schedule, Summer 2026",
+            "date": "20 Jul 2026",
+            "category": "Academic Update",
+            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been published."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul 2026",
+            "category": "Announcement",
+            "summary": "Public reporting is available regarding the contract signing for project B-113, identified as ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations (December)",
+            "date": "10 Dec 2026",
+            "category": "Academic Update",
+            "summary": "Important academic dates include the Final Examinations scheduled for December 10."
+        },
+        {
+            "title": "Publication of Results (September)",
+            "date": "23 Sep 2026",
+            "category": "Academic Update",
+            "summary": "Academic results are scheduled for publication on September 23."
+        },
+        {
+            "title": "Last Day of Submitting Grades (September)",
+            "date": "21 Sep 2026",
+            "category": "Academic Update",
+            "summary": "The final deadline for faculty members to submit grades is September 21."
+        },
+        {
+            "title": "Final Examinations (September)",
+            "date": "12 Sep 2026",
+            "category": "Academic Update",
+            "summary": "Important academic dates include the Final Examinations scheduled for September 12."
+        }
+    ]
 }
