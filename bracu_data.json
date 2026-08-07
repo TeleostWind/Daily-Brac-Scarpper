@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "18th Convocation 2026",
+            "title": "18th Convocation 2026 Announcement",
             "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An official announcement regarding the upcoming 18th Convocation of BRAC University, scheduled for 2026."
+            "summary": "An official announcement concerning the university's 18th Convocation, scheduled to take place in 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "21 Jul 2026",
             "category": "Notice",
-            "summary": "A notice has been issued regarding the publication of admission test results for the Fall 2026 semester."
+            "summary": "An important notice regarding the release of admission test results for the upcoming Fall 2026 semester."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "The mid-term examination schedule for the Summer 2026 semester has been announced."
+            "category": "Academic",
+            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been published."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul 2026",
-            "category": "Notice",
-            "summary": "A notice concerning the public reporting of a contract signing identified as B-113, ICSETEP/RGD/BRAC/GD2."
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "Public reporting on a significant contract signing for project B-113, identified as ICSETEP/RGD/BRAC/GD2."
         },
         {
-            "title": "Architecture students explore North Bengal's historical sites in academic field trip",
-            "date": "06 Aug 2026",
-            "category": "News",
-            "summary": "Architecture students from BRAC University participated in an academic field trip to explore various historical sites located in North Bengal."
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "An academic date has been set for final examinations."
         },
         {
-            "title": "Architecture department hosts seminar on architecture pedagogy featuring Professor Shamsul Wares",
-            "date": "06 Aug 2026",
-            "category": "News",
-            "summary": "The Architecture department organized a seminar focusing on architecture pedagogy, with Professor Shamsul Wares as a key speaker."
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic",
+            "summary": "An important academic date for the official publication of student results."
         },
         {
-            "title": "BRAC University hosts roadshow on Banglalink Management Trainee Programme",
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic",
+            "summary": "The deadline for faculty members to submit student grades for the current academic term."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic",
+            "summary": "An academic date has been set for final examinations."
+        },
+        {
+            "title": "Architecture students explore North Bengal's historical sites",
             "date": "06 Aug 2026",
             "category": "News",
-            "summary": "BRAC University hosted a roadshow to introduce the Banglalink Management Trainee Programme to its students and prospective applicants."
+            "summary": "Architecture students will undertake an academic field trip to North Bengal to explore various historical sites."
+        },
+        {
+            "title": "Architecture department hosts seminar on pedagogy",
+            "date": "06 Aug 2026",
+            "category": "Event",
+            "summary": "The Architecture department will host a seminar on architecture pedagogy, featuring Professor Shamsul Wares."
+        },
+        {
+            "title": "BRAC University hosts Banglalink Management Trainee Programme roadshow",
+            "date": "06 Aug 2026",
+            "category": "Event",
+            "summary": "BRAC University is hosting a roadshow to introduce students to the Banglalink Management Trainee Programme."
         }
     ]
 }
