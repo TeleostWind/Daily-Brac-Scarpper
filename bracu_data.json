@@ -1,70 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "18th Convocation 2026",
+            "title": "18th Convocation 2026 Announcement",
             "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An announcement regarding the upcoming 18th Convocation scheduled for 2026."
+            "summary": "An announcement regarding the upcoming 18th Convocation of BRAC University, scheduled to take place in 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "21 Jul 2026",
-            "category": "Notice",
-            "summary": "A notice providing results for the Fall 2026 admission test."
+            "category": "Admissions Notice",
+            "summary": "A notice concerning the admission test results for the Fall 2026 semester has been released."
         },
         {
-            "title": "Mid-Term Exam schedule, Summer 2026",
+            "title": "Mid-Term Exam Schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic",
-            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been released."
+            "category": "Academic Schedule",
+            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been published."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul 2026",
+            "date": "12 Jul",
             "category": "Announcement",
-            "summary": "Public reporting on the signing of contract B-113, ICSETEP/RGD/BRAC/GD2."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic",
-            "summary": "An announcement regarding the schedule for final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic",
-            "summary": "A notice regarding the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic",
-            "summary": "An announcement specifying the last day for submitting grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic",
-            "summary": "An announcement regarding the schedule for final examinations."
+            "summary": "A public report has been issued regarding the signing of contract B-113, associated with ICSETEP/RGD/BRAC/GD2."
         },
         {
             "title": "Architecture students explore North Bengal's historical sites in academic field trip",
             "date": "06 Aug 2026",
-            "category": "News",
-            "summary": "Architecture students participated in an academic field trip to explore historical sites in North Bengal."
+            "category": "Academic News",
+            "summary": "Architecture students from BRAC University undertook an academic field trip to explore historical sites in North Bengal."
         },
         {
             "title": "Architecture department hosts seminar on architecture pedagogy featuring Professor Shamsul Wares",
             "date": "06 Aug 2026",
-            "category": "News",
-            "summary": "The Architecture department organized a seminar on architecture pedagogy, featuring Professor Shamsul Wares."
+            "category": "Academic Event",
+            "summary": "The Architecture department organized a seminar on architecture pedagogy, featuring Professor Shamsul Wares as a speaker."
         },
         {
             "title": "BRAC University hosts roadshow on Banglalink Management Trainee Programme",
             "date": "06 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University hosted a roadshow to promote the Banglalink Management Trainee Programme."
+            "category": "Career Services Event",
+            "summary": "BRAC University hosted a roadshow to present the Banglalink Management Trainee Programme to its students."
         }
     ]
 }
