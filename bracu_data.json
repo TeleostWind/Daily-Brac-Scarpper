@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "18th Convocation 2026",
+            "date": "03 Aug",
+            "category": "Announcement",
+            "summary": "An announcement concerning the university's 18th Convocation, scheduled for 2026."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "21 Jul",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the upcoming publication of admission test results for the Fall 2026 semester."
+        },
+        {
+            "title": "Mid-Term Exam schedule, Summer 2026",
+            "date": "20 Jul",
+            "category": "Academic Notice",
+            "summary": "The schedule for mid-term examinations for the Summer 2026 academic term has been released."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "Public reporting was made on the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Notice",
+            "summary": "An announcement detailing the schedule for final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Notice",
+            "summary": "A reminder about the final deadline for faculty to submit student grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Notice",
+            "summary": "An announcement detailing the schedule for final examinations."
+        },
+        {
             "title": "Architecture students explore North Bengal's historical sites in academic field trip",
             "date": "06 Aug 2026",
             "category": "News",
-            "summary": "BRAC University architecture students embarked on an academic field trip to explore historical sites located in North Bengal, gaining practical exposure to architectural heritage."
+            "summary": "Architecture students participated in an academic field trip to explore historical sites located in North Bengal, enhancing their practical learning."
         },
         {
             "title": "Architecture department hosts seminar on architecture pedagogy featuring Professor Shamsul Wares",
             "date": "06 Aug 2026",
             "category": "News",
-            "summary": "The Architecture department at BRAC University organized a seminar focused on architecture pedagogy, featuring insightful discussions led by Professor Shamsul Wares."
+            "summary": "The Architecture department successfully hosted a seminar focused on architecture pedagogy, featuring an insightful presentation by Professor Shamsul Wares."
         },
         {
             "title": "BRAC University hosts roadshow on Banglalink Management Trainee Programme",
             "date": "06 Aug 2026",
             "category": "News",
-            "summary": "BRAC University recently hosted a roadshow providing information about the Banglalink Management Trainee Programme, offering career opportunities for its students."
-        },
-        {
-            "title": "18th Convocation 2026",
-            "date": "03 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "An announcement has been made regarding the upcoming 18th Convocation of BRAC University, scheduled to take place in 2026."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "21 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "A notice has been published regarding the results of the admission test for the Fall 2026 semester at BRAC University."
-        },
-        {
-            "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul 2026",
-            "category": "Academic Schedule",
-            "summary": "The schedule for the mid-term examinations for the Summer 2026 semester has been released for students."
-        },
-        {
-            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul 2026",
-            "category": "Announcement",
-            "summary": "Public reporting related to the contract signing for project B-113, identified as ICSETEP/RGD/BRAC/GD2, has been made available."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2025",
-            "category": "Academic Schedule",
-            "summary": "An announcement regarding the schedule for final examinations has been posted."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2025",
-            "category": "Academic Notice",
-            "summary": "A notice has been released concerning the publication of academic results for students."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2025",
-            "category": "Academic Notice",
-            "summary": "An important reminder about the last day for faculty members to submit grades has been issued."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2025",
-            "category": "Academic Schedule",
-            "summary": "An announcement regarding the schedule for final examinations has been posted."
+            "summary": "BRAC University organized a roadshow to provide information and engage students about the Banglalink Management Trainee Programme opportunities."
         }
     ]
 }
