@@ -4,67 +4,67 @@
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "09 Aug 2026",
             "category": "Academic Notice",
-            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester has been released."
+            "summary": "A notice announcing the publication of admission test results for the Fall 2026 semester."
         },
         {
             "title": "Announcement: 18th Convocation 2026",
             "date": "03 Aug 2026",
-            "category": "Event Announcement",
-            "summary": "BRAC University has announced its 18th Convocation, scheduled to take place in 2026."
+            "category": "Announcement / Event",
+            "summary": "An official announcement regarding the 18th Convocation scheduled to take place in 2026."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic Schedule",
-            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been published."
+            "category": "Academic Notice",
+            "summary": "Details the official schedule for mid-term examinations for the Summer 2026 semester."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul 2026",
-            "category": "Announcement",
-            "summary": "BRAC University has released a public report on the signing of contract B-113, ICSETEP/RGD/BRAC/GD2."
+            "category": "Notice",
+            "summary": "Public reporting on the contract signing for project B-113 under the ICSETEP/RGD/BRAC/GD2 initiative."
         },
         {
-            "title": "Final Examinations (December)",
+            "title": "Final Examinations",
             "date": "10 Dec 2026",
-            "category": "Academic Schedule",
-            "summary": "Important dates for final examinations in December have been announced for the academic calendar."
+            "category": "Academic Notice",
+            "summary": "A notice providing the schedule for final examinations."
         },
         {
             "title": "Publication of Results",
             "date": "23 Sep 2026",
             "category": "Academic Notice",
-            "summary": "Information regarding the publication of academic results has been provided."
+            "summary": "A notice regarding the publication of academic results for students."
         },
         {
             "title": "Last Day of Submitting Grades",
             "date": "21 Sep 2026",
             "category": "Academic Notice",
-            "summary": "The final deadline for submitting grades for the current academic term has been set."
+            "summary": "An announcement specifying the last day for faculty members to submit student grades."
         },
         {
-            "title": "Final Examinations (September)",
+            "title": "Final Examinations",
             "date": "12 Sep 2026",
-            "category": "Academic Schedule",
-            "summary": "Important dates for final examinations in September have been announced for the academic calendar."
+            "category": "Academic Notice",
+            "summary": "A notice providing the schedule for final examinations."
         },
         {
             "title": "Architecture students explore North Bengal's historical sites in academic field trip",
             "date": "06 Aug 2026",
-            "category": "Academic News",
-            "summary": "Architecture students participated in an academic field trip to explore historical sites across North Bengal."
+            "category": "News / Event",
+            "summary": "BRAC University architecture students undertook an academic field trip to explore various historical sites located in North Bengal."
         },
         {
             "title": "Architecture department hosts seminar on architecture pedagogy featuring Professor Shamsul Wares",
             "date": "06 Aug 2026",
-            "category": "Academic Event",
-            "summary": "The Architecture department organized a seminar focusing on architecture pedagogy, featuring Professor Shamsul Wares as a speaker."
+            "category": "News / Academic Event",
+            "summary": "The Architecture department at BRAC University organized a seminar on architecture pedagogy, featuring Professor Shamsul Wares."
         },
         {
             "title": "BRAC University hosts roadshow on Banglalink Management Trainee Programme",
             "date": "06 Aug 2026",
-            "category": "Career Event",
-            "summary": "BRAC University hosted a roadshow to inform students about the Banglalink Management Trainee Programme."
+            "category": "News / Career Event",
+            "summary": "BRAC University hosted a roadshow to inform students about the Banglalink Management Trainee Programme opportunities."
         }
     ]
 }
