@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Notice",
-            "summary": "An important notice regarding the schedule for final examinations in December 2026."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "Announcement concerning the publication of academic results for students."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A reminder for faculty regarding the final deadline for submitting student grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "An important notice regarding the schedule for final examinations in September 2026."
-        },
-        {
-            "title": "BRAC University is proud to announce the advisory council and fellows of the new Centre of Energy and Logistics (CEL)",
-            "date": "12 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University has announced the formation of the advisory council and fellows for its new Centre of Energy and Logistics (CEL)."
-        },
-        {
-            "title": "BRAC University career fair introduces life sciences students to industry",
-            "date": "12 Aug 2026",
-            "category": "News / Event",
-            "summary": "A career fair at BRAC University successfully connected life sciences students with various industry opportunities."
-        },
-        {
-            "title": "BRAC University hosts two-day celebration of environment, conservation days",
-            "date": "10 Aug 2026",
-            "category": "News / Event",
-            "summary": "BRAC University organized a two-day event to celebrate environment and conservation days, promoting awareness and action."
-        },
-        {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "09 Aug 2026",
             "category": "Academic Notice",
             "summary": "Notice regarding the publication of admission test results for the Fall 2026 semester."
         },
         {
-            "title": "Announcement: 18th Convocation 2026",
+            "title": "18th Convocation 2026 Announcement",
             "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An official announcement regarding the upcoming 18th Convocation scheduled for 2026."
+            "summary": "An announcement regarding the upcoming 18th Convocation scheduled for 2026."
         },
         {
-            "title": "Mid-Term Exam schedule, Summer 2026",
+            "title": "Mid-Term Exam Schedule, Summer 2026",
             "date": "20 Jul 2026",
             "category": "Academic Notice",
-            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been released."
+            "summary": "Schedule for the mid-term examinations for the Summer 2026 semester."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul 2026",
-            "category": "Notice",
-            "summary": "A public report details the signing of contract B-113 under the ICSETEP/RGD/BRAC/GD2 program."
+            "category": "Official Update",
+            "summary": "Public reporting on the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Date",
+            "summary": "Notice regarding the schedule for final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Date",
+            "summary": "Notice regarding the date for publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Date",
+            "summary": "Notification of the final deadline for submitting grades by faculty."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Date",
+            "summary": "Notice regarding the schedule for final examinations."
+        },
+        {
+            "title": "BRAC University announces advisory council and fellows for Centre of Energy and Logistics (CEL)",
+            "date": "12 Aug 2026",
+            "category": "University Update",
+            "summary": "BRAC University has announced the formation of the advisory council and fellows for its newly established Centre of Energy and Logistics (CEL)."
+        },
+        {
+            "title": "BRAC University career fair introduces life sciences students to industry",
+            "date": "12 Aug 2026",
+            "category": "Event",
+            "summary": "BRAC University organized a career fair specifically designed to connect life sciences students with industry professionals and opportunities."
+        },
+        {
+            "title": "BRAC University hosts two-day celebration of environment, conservation days",
+            "date": "10 Aug 2026",
+            "category": "Event",
+            "summary": "BRAC University celebrated environment and conservation days with a two-day event, emphasizing the importance of sustainability."
         }
     ]
 }
