@@ -2,45 +2,45 @@
     "bracu_official": [
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "09 Aug",
+            "date": "09 Aug 2026",
             "category": "Notice",
-            "summary": "This notice provides the admission test results for the Fall 2026 semester."
+            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been published."
         },
         {
-            "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug",
+            "title": "18th Convocation 2026",
+            "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An announcement has been made regarding the university's 18th Convocation, scheduled for 2026."
+            "summary": "An announcement has been made regarding the 18th Convocation scheduled for 2026."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul",
-            "category": "Academic",
-            "summary": "The schedule for the mid-term examinations for the Summer 2026 semester has been released."
+            "date": "20 Jul 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been released."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul",
+            "date": "12 Jul 2026",
             "category": "Announcement",
-            "summary": "Public reporting details are available concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
+            "summary": "Public reporting on a contract signing event, identified as B-113, ICSETEP/RGD/BRAC/GD2, was issued."
         },
         {
             "title": "BRAC University Biotechnology students gain industry exposure through BRAC-Aarong Dairy Visit",
             "date": "13 Aug 2026",
             "category": "News",
-            "summary": "BRAC University Biotechnology students visited BRAC-Aarong Dairy to gain valuable industry exposure and practical insights."
+            "summary": "BRAC University Biotechnology students gained valuable industry exposure during a visit to BRAC-Aarong Dairy."
         },
         {
             "title": "BRAC University holds workshop on BAC Accreditation readiness",
             "date": "13 Aug 2026",
             "category": "News",
-            "summary": "BRAC University organized a workshop to prepare for the BAC Accreditation process, focusing on readiness and compliance."
+            "summary": "BRAC University conducted a workshop to enhance its readiness for BAC Accreditation."
         },
         {
-            "title": "BRAC University is proud to announce the advisory council and fellows of the new Centre of Energy and Logistics (CEL)",
+            "title": "BRAC University announces advisory council and fellows for new Centre of Energy and Logistics (CEL)",
             "date": "12 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University has announced the formation and members of the advisory council and fellows for its new Centre of Energy and Logistics (CEL)."
+            "category": "Announcement",
+            "summary": "BRAC University is proud to announce the advisory council and fellows for its new Centre of Energy and Logistics (CEL)."
         }
     ]
 }
