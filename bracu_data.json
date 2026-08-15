@@ -2,69 +2,45 @@
     "bracu_official": [
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "09 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "A notice concerning the admission test results for the Fall 2026 semester at BRAC University."
+            "date": "09 Aug",
+            "category": "Notice",
+            "summary": "This notice provides the admission test results for the Fall 2026 semester."
         },
         {
             "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug 2026",
+            "date": "03 Aug",
             "category": "Announcement",
-            "summary": "An announcement regarding the upcoming 18th Convocation of BRAC University, scheduled for 2026."
+            "summary": "An announcement has been made regarding the university's 18th Convocation, scheduled for 2026."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
-            "date": "20 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "The official schedule for the Mid-Term Examinations during the Summer 2026 semester at BRAC University."
+            "date": "20 Jul",
+            "category": "Academic",
+            "summary": "The schedule for the mid-term examinations for the Summer 2026 semester has been released."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
-            "date": "12 Jul 2026",
+            "date": "12 Jul",
             "category": "Announcement",
-            "summary": "Public reporting detailing the signing of contract B-113 under the ICSETEP/RGD/BRAC/GD2 initiative."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec (Year Unknown)",
-            "category": "Academic Date",
-            "summary": "A general academic calendar entry indicating the period for final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep (Year Unknown)",
-            "category": "Academic Date",
-            "summary": "A general academic calendar entry indicating the date for the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep (Year Unknown)",
-            "category": "Academic Date",
-            "summary": "A general academic calendar entry marking the final day for submitting grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep (Year Unknown)",
-            "category": "Academic Date",
-            "summary": "A general academic calendar entry indicating the period for final examinations."
+            "summary": "Public reporting details are available concerning the signing of contract B-113, related to ICSETEP/RGD/BRAC/GD2."
         },
         {
             "title": "BRAC University Biotechnology students gain industry exposure through BRAC-Aarong Dairy Visit",
             "date": "13 Aug 2026",
             "category": "News",
-            "summary": "BRAC University Biotechnology students visited BRAC-Aarong Dairy to gain valuable industry exposure and practical experience."
+            "summary": "BRAC University Biotechnology students visited BRAC-Aarong Dairy to gain valuable industry exposure and practical insights."
         },
         {
             "title": "BRAC University holds workshop on BAC Accreditation readiness",
             "date": "13 Aug 2026",
             "category": "News",
-            "summary": "BRAC University conducted a workshop focused on preparing for and achieving BAC Accreditation, ensuring quality academic standards."
+            "summary": "BRAC University organized a workshop to prepare for the BAC Accreditation process, focusing on readiness and compliance."
         },
         {
             "title": "BRAC University is proud to announce the advisory council and fellows of the new Centre of Energy and Logistics (CEL)",
             "date": "12 Aug 2026",
             "category": "News",
-            "summary": "BRAC University proudly announced the advisory council and fellows appointed for its new Centre of Energy and Logistics (CEL)."
+            "summary": "BRAC University has announced the formation and members of the advisory council and fellows for its new Centre of Energy and Logistics (CEL)."
         }
     ]
 }
