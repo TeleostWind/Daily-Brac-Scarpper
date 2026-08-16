@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic",
+            "summary": "This entry provides information regarding upcoming Final Examinations scheduled for December 10th."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic",
+            "summary": "A notice has been issued regarding the publication of academic results on September 23rd."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic",
+            "summary": "The deadline for submitting grades has been set for September 21st."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic",
+            "summary": "This entry provides information regarding upcoming Final Examinations scheduled for September 12th."
+        },
+        {
+            "title": "BRAC University holds training on behaviour patterns and conflict management in the workplace",
+            "date": "16 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University conducted a training session focused on understanding behaviour patterns and implementing effective conflict management strategies in the workplace."
+        },
+        {
             "title": "BRAC University Biotechnology students gain industry exposure through BRAC-Aarong Dairy Visit",
             "date": "13 Aug 2026",
             "category": "News",
-            "summary": "Biotechnology students from BRAC University gained valuable industry exposure during a visit to BRAC-Aarong Dairy. This visit provided practical insight into the operations of a leading dairy company."
+            "summary": "Biotechnology students from BRAC University gained valuable industry exposure by participating in a visit to BRAC-Aarong Dairy."
         },
         {
             "title": "BRAC University holds workshop on BAC Accreditation readiness",
             "date": "13 Aug 2026",
-            "category": "Academic",
-            "summary": "BRAC University conducted a workshop focused on preparing for BAC Accreditation. The event aimed to ensure the university's readiness for the upcoming accreditation process."
-        },
-        {
-            "title": "BRAC University is proud to announce the advisory council and fellows of the new Centre of Energy and Logistics (CEL)",
-            "date": "12 Aug 2026",
-            "category": "Announcement",
-            "summary": "BRAC University announced the formation of the advisory council and fellows for its newly established Centre of Energy and Logistics (CEL). This initiative marks a significant step in the center's development."
+            "category": "News",
+            "summary": "BRAC University organized a workshop to enhance its preparedness for BAC Accreditation."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "09 Aug 2026",
             "category": "Notice",
-            "summary": "A notice has been published regarding the admission test results for the Fall 2026 semester. Candidates are advised to check the official website for details."
+            "summary": "A notice has been released regarding the admission test results for the Fall 2026 intake at BRAC University."
         },
         {
-            "title": "Announcement: 18th Convocation 2026",
+            "title": "18th Convocation 2026",
             "date": "03 Aug 2026",
             "category": "Announcement",
-            "summary": "An announcement has been made regarding the university's 18th Convocation, scheduled to take place in 2026. Further details will be provided closer to the date."
+            "summary": "An official announcement has been made concerning the 18th Convocation of BRAC University, scheduled for 2026."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
             "category": "Academic",
-            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been released. Students are encouraged to review the schedule carefully for their respective courses."
+            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been published."
         },
         {
             "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
             "date": "12 Jul 2026",
-            "category": "Notice",
-            "summary": "Public reporting has been issued concerning the contract signing of B-113, ICSETEP/RGD/BRAC/GD2. This report provides details on the recently concluded agreement."
+            "category": "Announcement",
+            "summary": "A public report has been released concerning the signing of contract B-113, ICSETEP/RGD/BRAC/GD2."
         }
     ]
 }
