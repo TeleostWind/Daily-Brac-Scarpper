@@ -1,70 +1,46 @@
 {
     "bracu_official": [
         {
+            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
+            "date": "17 Aug 2026",
+            "category": "Academic Announcement",
+            "summary": "Details regarding the Phase 1 pre-registration schedule for the Fall 2026 semester have been released."
+        },
+        {
             "title": "BRAC university hosts seminar on Bangladesh power system",
             "date": "17 Aug 2026",
             "category": "News",
-            "summary": "BRAC University hosted a seminar focused on the Bangladesh power system, providing insights into its current status and future prospects."
+            "summary": "BRAC University organized and hosted a seminar that focused on the Bangladesh power system."
         },
         {
             "title": "BRAC University holds training on behaviour patterns and conflict management in the workplace",
             "date": "16 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University conducted a training session designed to enhance understanding of behavior patterns and improve conflict management skills in a professional setting."
+            "category": "Training",
+            "summary": "BRAC University conducted a training session focused on behaviour patterns and effective conflict management strategies in the workplace."
         },
         {
             "title": "Advertisement contest ADWIZ 2.0 ends at BRAC University with BUP team as champion",
             "date": "15 Aug 2026",
-            "category": "News",
-            "summary": "The ADWIZ 2.0 advertisement contest concluded at BRAC University, celebrating creative talent with the BUP team emerging as champions."
-        },
-        {
-            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
-            "date": "17 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "An announcement regarding the schedule for Phase 1 pre-registration for the Fall 2026 semester has been released for students."
+            "category": "Event",
+            "summary": "The advertisement contest ADWIZ 2.0 concluded at BRAC University, with the BUP team securing the championship title."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "09 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "A notice providing important information on the admission test results for the Fall 2026 semester is now available."
+            "category": "Academic Notice",
+            "summary": "A notice regarding the admission test results for the Fall 2026 intake has been published."
         },
         {
             "title": "Announcement: 18th Convocation 2026",
             "date": "03 Aug 2026",
             "category": "Event Announcement",
-            "summary": "An announcement detailing the university's upcoming 18th Convocation, which is scheduled to take place in 2026."
+            "summary": "BRAC University has announced its 18th Convocation, scheduled to take place in 2026."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
             "category": "Academic Announcement",
-            "summary": "The schedule for mid-term examinations for the Summer 2026 semester has been released to inform students and faculty."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Announcement",
-            "summary": "A notice providing information on the schedule for final examinations, advising students to prepare accordingly."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Announcement",
-            "summary": "An announcement concerning the publication of academic results has been made available to the student body."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Announcement",
-            "summary": "A notice specifying the last day for faculty to submit grades for academic courses."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Announcement",
-            "summary": "A notice providing information on the schedule for final examinations, reminding students of important academic dates."
+            "summary": "The schedule for the Mid-Term Examinations for the Summer 2026 semester has been released."
         }
     ]
 }
