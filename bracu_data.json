@@ -1,3 +1,70 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "09 Aug 2026",
+            "category": "Notice",
+            "summary": "This is a notice regarding the publication of admission test results for the Fall 2026 semester."
+        },
+        {
+            "title": "18th Convocation 2026 Announcement",
+            "date": "03 Aug 2026",
+            "category": "Announcement",
+            "summary": "An announcement regarding the upcoming 18th Convocation of BRAC University scheduled for 2026."
+        },
+        {
+            "title": "Mid-Term Exam Schedule, Summer 2026",
+            "date": "20 Jul 2026",
+            "category": "Academic",
+            "summary": "This announcement provides the schedule for the mid-term examinations for the Summer 2026 semester."
+        },
+        {
+            "title": "Public Reporting on Contract Signing – B-113, ICSETEP/RGD/BRAC/GD2",
+            "date": "12 Jul",
+            "category": "Announcement",
+            "summary": "An announcement regarding public reporting for a contract signing, project B-113, related to ICSETEP/RGD/BRAC/GD2."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "This is an announcement regarding the scheduling of final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic",
+            "summary": "An announcement about the publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic",
+            "summary": "A notice indicating the final deadline for submitting grades for a specific academic period."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic",
+            "summary": "This is an announcement regarding the scheduling of final examinations."
+        },
+        {
+            "title": "BRAC University holds training on behaviour patterns and conflict management in the workplace",
+            "date": "16 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University conducted a training session focused on behavior patterns and effective conflict management strategies in the workplace."
+        },
+        {
+            "title": "Advertisement contest ADWIZ 2.0 concludes at BRAC University",
+            "date": "15 Aug 2026",
+            "category": "News",
+            "summary": "The advertisement contest ADWIZ 2.0 successfully concluded at BRAC University, with the BUP team emerging as the champions."
+        },
+        {
+            "title": "BRAC University Biotechnology students visit BRAC-Aarong Dairy for industry exposure",
+            "date": "13 Aug 2026",
+            "category": "News",
+            "summary": "Biotechnology students from BRAC University gained valuable industry exposure during a visit to the BRAC-Aarong Dairy facility."
+        }
+    ]
 }
