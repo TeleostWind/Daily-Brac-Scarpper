@@ -3,68 +3,44 @@
         {
             "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
             "date": "17 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "Details the schedule for the first phase of pre-registration for the Fall 2026 semester."
+            "category": "Academic Announcement",
+            "summary": "This announcement provides the schedule for the first phase of pre-registration for the Fall 2026 semester."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "09 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "Provides an official notice regarding the publication of admission test results for Fall 2026."
+            "category": "Academic Announcement",
+            "summary": "A notice has been published regarding the results of the admission test for candidates seeking entry in Fall 2026."
         },
         {
-            "title": "Announcement: 18th Convocation 2026",
+            "title": "18th Convocation 2026 Announcement",
             "date": "03 Aug 2026",
-            "category": "Announcement",
-            "summary": "An official announcement concerning the upcoming 18th Convocation of BRAC University in 2026."
+            "category": "Event Announcement",
+            "summary": "BRAC University has announced its 18th Convocation, which is scheduled to take place in 2026."
         },
         {
             "title": "Mid-Term Exam schedule, Summer 2026",
             "date": "20 Jul 2026",
-            "category": "Academic Notice",
-            "summary": "Outlines the complete schedule for the Mid-Term Examinations for the Summer 2026 semester."
+            "category": "Academic Announcement",
+            "summary": "The schedule for the mid-term examinations for the Summer 2026 semester has been released."
         },
         {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Notice",
-            "summary": "Information regarding upcoming final examinations for the academic year 2026."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "Announcement regarding the date for the publication of academic results for 2026."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "Specifies the deadline for faculty to submit student grades for the 2026 academic period."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "Information regarding upcoming final examinations for the academic year 2026."
-        },
-        {
-            "title": "BRAC university hosts seminar on Bangladesh power system",
+            "title": "BRAC University hosts seminar on Bangladesh power system",
             "date": "17 Aug 2026",
             "category": "News",
-            "summary": "BRAC University hosted a seminar focusing on the Bangladesh power system."
+            "summary": "BRAC University recently hosted a seminar focused on the intricacies and challenges of the Bangladesh power system."
         },
         {
             "title": "BRAC University holds training on behaviour patterns and conflict management in the workplace",
             "date": "16 Aug 2026",
             "category": "News",
-            "summary": "BRAC University conducted a training session covering behaviour patterns and conflict management in the workplace."
+            "summary": "BRAC University conducted a training session designed to teach participants about behavior patterns and effective conflict management in the workplace."
         },
         {
-            "title": "Advertisement contest ADWIZ 2.0 ends at BRAC University with BUP team as champion",
+            "title": "Advertisement contest ADWIZ 2.0 ends, BUP team champions",
             "date": "15 Aug 2026",
-            "category": "News",
-            "summary": "The advertisement contest ADWIZ 2.0 concluded at BRAC University, where the BUP team secured the championship."
+            "category": "News / Event",
+            "summary": "The advertisement contest 'ADWIZ 2.0' concluded at BRAC University, with the team from BUP being crowned as the champions."
         }
     ]
 }
