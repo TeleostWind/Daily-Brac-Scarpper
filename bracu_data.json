@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "BRAC University hosts workshop on evidence-based teaching and cognitive neuroscience",
-            "date": "24 Aug 2026",
-            "category": "Workshop",
-            "summary": "BRAC University hosted a workshop focusing on evidence-based teaching methods and cognitive neuroscience."
+            "title": "BRAC University students take social impact leadership to a new scale",
+            "date": "25 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University students are advancing their social impact leadership capabilities, expanding their influence and reach."
         },
         {
-            "title": "FabLab Recruitment Circular",
+            "title": "BRAC University hosts workshop on evidence-based teaching and cognitive neuroscience",
             "date": "24 Aug 2026",
-            "category": "Announcement",
-            "summary": "A circular has been released regarding recruitment opportunities for FabLab positions."
+            "category": "News",
+            "summary": "BRAC University organized a workshop focusing on evidence-based teaching methodologies and cognitive neuroscience."
         },
         {
             "title": "BRAC University stages Tagore's 'Raktakarabi' as a part of 25th anniversary celebrations",
             "date": "23 Aug 2026",
-            "category": "Event",
-            "summary": "As part of its 25th-anniversary celebrations, BRAC University staged Rabindranath Tagore's play 'Raktakarabi'."
+            "category": "News",
+            "summary": "As part of its 25th-anniversary celebrations, BRAC University staged Tagore's play 'Raktakarabi'."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Announcement",
+            "summary": "A circular has been issued for the recruitment process for FabLab positions."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "A notice has been published providing the results for the Fall 2026 admission test."
-        },
-        {
-            "title": "BRAC University celebrates 25 years anniversary with ‘In-house’ architecture and design Exhibition",
-            "date": "19 Aug 2026",
-            "category": "Event",
-            "summary": "BRAC University celebrated its 25th anniversary with an 'In-house' exhibition showcasing architecture and design."
+            "date": "19 Aug",
+            "category": "Notice",
+            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been published."
         },
         {
             "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
-            "date": "17 Aug 2026",
-            "category": "Academic Notice",
+            "date": "17 Aug",
+            "category": "Academic",
             "summary": "The schedule for Phase 1 of pre-registration for the Fall 2026 semester has been released."
         },
         {
             "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug 2026",
+            "date": "03 Aug",
             "category": "Announcement",
-            "summary": "An official announcement has been made regarding the upcoming 18th Convocation of BRAC University."
+            "summary": "An announcement has been made regarding the upcoming 18th Convocation scheduled for 2026."
         }
     ]
 }
