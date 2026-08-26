@@ -1,70 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "Details for the undergraduate pre-registration phase 2 for the upcoming Fall 2026 semester are announced."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug",
-            "category": "Recruitment Announcement",
-            "summary": "A circular has been released announcing recruitment opportunities for positions at the FabLab facility."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "An important notice regarding the publication of admission test results for the Fall 2026 semester."
-        },
-        {
-            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
-            "date": "17 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "The schedule for undergraduate pre-registration phase 1 for the upcoming Fall 2026 semester has been released."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Announcement",
-            "summary": "An announcement detailing the schedule for the final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic Announcement",
-            "summary": "An announcement regarding the specific date for the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic Announcement",
-            "summary": "An announcement specifying the deadline for submitting academic grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic Announcement",
-            "summary": "An announcement detailing the schedule for the final examinations."
-        },
-        {
             "title": "BRAC University hosts workshop on effective communication for professional excellence",
             "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University will host a workshop focused on enhancing effective communication skills for professional development and excellence."
+            "category": "News/Event",
+            "summary": "BRAC University organized a workshop focused on enhancing effective communication skills for professional excellence."
         },
         {
             "title": "ESS Professor’s New Book Explores Bangladesh’s Labour Market Challenges and Future Policy Directions",
             "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "An ESS Professor has published a new book that explores Bangladesh's labor market challenges and proposes future policy directions."
+            "category": "News/Publication",
+            "summary": "An ESS Professor has released a new book analyzing Bangladesh's labor market challenges and suggesting future policy directions."
         },
         {
             "title": "German ambassador explores collaboration opportunities visiting BRAC University",
             "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "The German ambassador visited BRAC University to discuss and explore potential opportunities for future collaboration."
+            "category": "News/Collaboration",
+            "summary": "The German ambassador visited BRAC University to explore potential collaboration opportunities."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the schedule for undergraduate pre-registration phase 2 for Fall 2026."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Recruitment Notice",
+            "summary": "A circular announcing recruitment opportunities for FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug",
+            "category": "Academic Notice",
+            "summary": "A notice informing about the publication of admission test results for Fall 2026."
+        },
+        {
+            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
+            "date": "17 Aug",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the schedule for pre-registration phase 1 for Fall 2026."
         }
     ]
 }
