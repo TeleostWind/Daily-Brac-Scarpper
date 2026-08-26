@@ -2,45 +2,69 @@
     "bracu_official": [
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug",
+            "date": "25 Aug 2026",
             "category": "Academic Announcement",
-            "summary": "BRAC University has released the schedule for undergraduate pre-registration, Phase 2, for the upcoming Fall 2026 semester."
+            "summary": "Details the schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Recruitment Notice",
+            "summary": "A circular has been released announcing recruitment opportunities for FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug 2026",
+            "category": "Admission Notice",
+            "summary": "Notice regarding the publication of admission test results for candidates applying for the Fall 2026 semester."
+        },
+        {
+            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
+            "date": "17 Aug 2026",
+            "category": "Academic Announcement",
+            "summary": "Details the schedule for the first phase of pre-registration for the Fall 2026 semester."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Date",
+            "summary": "Scheduled period for final examinations in December."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Date",
+            "summary": "Scheduled date for the official publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Date",
+            "summary": "The deadline for faculty members to submit student grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Date",
+            "summary": "Scheduled period for final examinations in September."
         },
         {
             "title": "BRAC University hosts workshop on effective communication for professional excellence",
             "date": "25 Aug 2026",
-            "category": "News / Event",
-            "summary": "BRAC University organized a workshop to enhance effective communication skills, aiming to foster professional excellence among participants."
+            "category": "Event News",
+            "summary": "BRAC University conducted a workshop to enhance effective communication skills for professional excellence among participants."
         },
         {
             "title": "ESS Professor’s New Book Explores Bangladesh’s Labour Market Challenges and Future Policy Directions",
             "date": "25 Aug 2026",
-            "category": "News / Publication",
-            "summary": "An ESS Professor at BRAC University has published a new book that delves into Bangladesh's labor market challenges and suggests future policy directions."
+            "category": "Publication News",
+            "summary": "A new book authored by an ESS Professor investigates the challenges within Bangladesh's labor market and suggests future policy directions."
         },
         {
             "title": "German ambassador explores collaboration opportunities visiting BRAC University",
             "date": "25 Aug 2026",
-            "category": "News / Visit",
-            "summary": "The German ambassador visited BRAC University to explore and discuss potential collaboration opportunities with the institution."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug",
-            "category": "Recruitment / Announcement",
-            "summary": "A recruitment circular has been issued for interested candidates to join the FabLab at BRAC University."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug",
-            "category": "Academic Notice",
-            "summary": "A notice has been published regarding the results of the admission test for the Fall 2026 semester."
-        },
-        {
-            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
-            "date": "17 Aug",
-            "category": "Academic Announcement",
-            "summary": "The schedule for undergraduate pre-registration, Phase 1, for the Fall 2026 semester has been released by BRAC University."
+            "category": "Collaboration News",
+            "summary": "The German ambassador paid a visit to BRAC University to discuss and explore potential opportunities for collaboration."
         }
     ]
 }
