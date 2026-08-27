@@ -4,43 +4,67 @@
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
             "date": "25 Aug 2026",
             "category": "Academic Announcement",
-            "summary": "BRAC University announced the schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester."
-        },
-        {
-            "title": "BRAC University hosts workshop on effective communication for professional excellence",
-            "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University conducted a workshop focused on enhancing effective communication skills for professional excellence."
-        },
-        {
-            "title": "ESS Professor’s New Book Explores Bangladesh’s Labour Market Challenges and Future Policy Directions",
-            "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "An ESS Professor at BRAC University has released a new book that delves into the challenges within Bangladesh's labor market and proposes future policy strategies."
-        },
-        {
-            "title": "German ambassador explores collaboration opportunities visiting BRAC University",
-            "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "The German ambassador visited BRAC University to discuss and explore potential collaboration opportunities."
+            "summary": "Provides the schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester."
         },
         {
             "title": "FabLab Recruitment Circular",
             "date": "24 Aug 2026",
             "category": "Recruitment Notice",
-            "summary": "A recruitment circular has been issued for positions within the FabLab at BRAC University."
+            "summary": "A circular announcing recruitment opportunities for the FabLab."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "19 Aug 2026",
             "category": "Academic Announcement",
-            "summary": "A notice was published regarding the results of the admission test for the Fall 2026 semester."
+            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester."
         },
         {
             "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
             "date": "17 Aug 2026",
             "category": "Academic Announcement",
-            "summary": "BRAC University released the schedule for the first phase of pre-registration for the Fall 2026 semester."
+            "summary": "Provides the schedule for undergraduate pre-registration, Phase 1, for the Fall 2026 semester."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding the upcoming final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the upcoming publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Notice",
+            "summary": "An important notice indicating the final deadline for submitting grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding the upcoming final examinations."
+        },
+        {
+            "title": "BRAC University hosts workshop on effective communication for professional excellence",
+            "date": "25 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University organized a workshop to enhance effective communication skills among professionals for career advancement."
+        },
+        {
+            "title": "ESS Professor’s New Book Explores Bangladesh’s Labour Market Challenges and Future Policy Directions",
+            "date": "25 Aug 2026",
+            "category": "News",
+            "summary": "A new book by an ESS Professor analyzes the challenges within Bangladesh's labor market and suggests future policy directions."
+        },
+        {
+            "title": "German ambassador explores collaboration opportunities visiting BRAC University",
+            "date": "25 Aug 2026",
+            "category": "News",
+            "summary": "The German ambassador visited BRAC University to explore and discuss potential collaboration opportunities."
         }
     ]
 }
