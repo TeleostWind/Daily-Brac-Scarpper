@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Announcement",
+            "summary": "Details the schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Recruitment",
+            "summary": "A circular announcing recruitment opportunities for the FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug",
+            "category": "Academic Announcement",
+            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester."
+        },
+        {
+            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
+            "date": "17 Aug",
+            "category": "Academic Announcement",
+            "summary": "Details the schedule for undergraduate pre-registration, Phase 1, for the Fall 2026 semester."
+        },
+        {
             "title": "BRAC University honors 17 for research excellence",
             "date": "27 Aug 2026",
             "category": "News",
-            "summary": "BRAC University recognized 17 individuals for their outstanding contributions to research, celebrating their academic achievements."
-        },
-        {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "The schedule for undergraduate pre-registration (Phase 2) for the upcoming Fall 2026 semester has been officially announced."
+            "summary": "BRAC University recognized 17 individuals for their outstanding contributions to research."
         },
         {
             "title": "BRAC University hosts workshop on effective communication for professional excellence",
             "date": "25 Aug 2026",
             "category": "Event",
-            "summary": "BRAC University organized a workshop focused on enhancing effective communication skills, aiming for professional development among participants."
+            "summary": "BRAC University organized a workshop focused on enhancing effective communication skills for professional development."
         },
         {
             "title": "ESS Professor’s new book explores Bangladesh’s labour market challenges and future policy directions",
             "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "An ESS Professor has released a new book that provides an in-depth analysis of Bangladesh's labor market challenges and proposes future policy directions."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
-            "category": "Announcement",
-            "summary": "A recruitment circular has been issued for positions within the FabLab, inviting applications from interested candidates."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester has been released."
-        },
-        {
-            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
-            "date": "17 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "The schedule for pre-registration (Phase 1) for the Fall 2026 semester has been officially released to students."
+            "category": "Publication",
+            "summary": "A professor from the ESS department published a new book analyzing Bangladesh's labor market issues and proposing future policy strategies."
         }
     ]
 }
