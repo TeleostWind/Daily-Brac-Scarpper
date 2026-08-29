@@ -1,70 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug",
-            "category": "Academic",
-            "summary": "The schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester has been released. Students should check the dates to complete their registration process."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug",
-            "category": "Notice",
-            "summary": "A recruitment circular for positions within the FabLab has been published. Interested candidates are encouraged to apply as per the details provided in the circular."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug",
-            "category": "Academic",
-            "summary": "A notice regarding the results of the admission test for the Fall 2026 semester has been released. Applicants can now check their results."
-        },
-        {
-            "title": "Pre-registration (Phase 1) Schedule, Fall 2026",
-            "date": "17 Aug",
-            "category": "Academic",
-            "summary": "The schedule for pre-registration, Phase 1, for the Fall 2026 semester has been announced. Students are advised to follow the provided timeline for registration."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic",
-            "summary": "A general announcement regarding the scheduling of final examinations has been made. Students should prepare accordingly for their upcoming exams."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic",
-            "summary": "The official date for the publication of academic results has been set for September 23rd. Students will be able to access their grades on this day."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic",
-            "summary": "September 21st marks the final day for faculty to submit student grades. This ensures timely processing for result publication."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic",
-            "summary": "An announcement regarding the scheduling of final examinations on September 12th has been released. This is a key date for all students taking exams."
-        },
-        {
             "title": "BRAC University honors 17 for research excellence",
             "date": "27 Aug 2026",
             "category": "News",
-            "summary": "BRAC University recognized 17 individuals for their outstanding contributions to research. This highlights the institution's commitment to fostering academic and scientific advancements."
+            "summary": "BRAC University recognized and honored 17 individuals for their outstanding contributions and excellence in research."
         },
         {
             "title": "BRAC University hosts workshop on effective communication for professional excellence",
             "date": "25 Aug 2026",
-            "category": "Event",
-            "summary": "BRAC University organized a workshop aimed at enhancing effective communication skills for professional development. The event provided valuable insights for achieving excellence in the professional sphere."
+            "category": "News / Workshop",
+            "summary": "BRAC University organized and hosted a workshop designed to enhance effective communication skills for professional excellence."
         },
         {
             "title": "ESS Professor’s new book explores Bangladesh’s labour market challenges and future policy directions",
             "date": "25 Aug 2026",
-            "category": "Academic",
-            "summary": "An ESS Professor at BRAC University has released a new book that delves into Bangladesh's labor market challenges. The publication also proposes future policy directions to address these issues."
+            "category": "News / Publication",
+            "summary": "An ESS Professor has released a new book that delves into Bangladesh's labor market challenges and proposes future policy directions."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic Announcement",
+            "summary": "Schedule for undergraduate pre-registration (Phase 2) for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued for positions at FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the admission test results for the Fall 2026 intake has been published."
+        },
+        {
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Event Announcement",
+            "summary": "BRAC University has announced its 18th Convocation, scheduled to take place in 2026."
         }
     ]
 }
