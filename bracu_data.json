@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug",
-            "category": "Academic Notice",
-            "summary": "An announcement detailing the schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester at BRAC University."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug",
-            "category": "Announcement",
-            "summary": "A circular has been issued for recruitment opportunities within the FabLab at BRAC University."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug",
-            "category": "Academic Notice",
-            "summary": "A notice has been published regarding the admission test results for the Fall 2026 intake."
-        },
-        {
-            "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug",
-            "category": "Announcement",
-            "summary": "An official announcement has been made concerning the university's 18th Convocation, scheduled for 2026."
-        },
-        {
             "title": "BRAC University’s “My Country, My Culture” celebrates Palestinian heritage",
             "date": "30 Aug 2026",
-            "category": "News/Event",
-            "summary": "BRAC University's 'My Country, My Culture' program recently celebrated Palestinian heritage, highlighting its rich traditions and history."
+            "category": "News",
+            "summary": "BRAC University's 'My Country, My Culture' event celebrated Palestinian heritage, featuring cultural expressions and traditions."
         },
         {
             "title": "BRAC University honors 17 for research excellence",
             "date": "27 Aug 2026",
-            "category": "News/Academic",
+            "category": "News",
             "summary": "BRAC University recognized and honored 17 individuals for their outstanding contributions to research excellence."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic Announcement",
+            "summary": "Schedule for undergraduate pre-registration phase 2 for the Fall 2026 semester has been announced."
         },
         {
             "title": "BRAC University hosts workshop on effective communication for professional excellence",
             "date": "25 Aug 2026",
-            "category": "News/Event",
-            "summary": "BRAC University organized a workshop focused on developing effective communication skills to foster professional excellence among participants."
+            "category": "News",
+            "summary": "BRAC University organized a workshop focused on enhancing effective communication skills for achieving professional excellence."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Recruitment Notice",
+            "summary": "A recruitment circular has been issued for positions at FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "Results for the Fall 2026 admission test have been announced."
+        },
+        {
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Event Announcement",
+            "summary": "The 18th Convocation for 2026 has been officially announced."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "Notice regarding the publication of academic results on September 23rd."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "The deadline for submitting grades is September 21st."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "Information regarding final examinations scheduled for September 12th."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Notice",
+            "summary": "Information regarding final examinations scheduled for December 10th."
         }
     ]
 }
