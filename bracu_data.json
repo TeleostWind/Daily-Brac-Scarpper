@@ -2,69 +2,45 @@
     "bracu_official": [
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "Details the schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester."
+            "date": "25 Aug",
+            "category": "Academic Notice",
+            "summary": "An announcement detailing the schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester at BRAC University."
         },
         {
             "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
+            "date": "24 Aug",
             "category": "Announcement",
-            "summary": "A circular announcing recruitment opportunities at the FabLab."
+            "summary": "A circular has been issued for recruitment opportunities within the FabLab at BRAC University."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "Notice regarding the publication of admission test results for the Fall 2026 semester."
-        },
-        {
-            "title": "18th Convocation 2026 Announced",
-            "date": "03 Aug 2026",
-            "category": "Event Announcement",
-            "summary": "Official announcement for BRAC University's 18th Convocation, scheduled for 2026."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
+            "date": "19 Aug",
             "category": "Academic Notice",
-            "summary": "A notice concerning the schedule for final examinations."
+            "summary": "A notice has been published regarding the admission test results for the Fall 2026 intake."
         },
         {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "Notification regarding the publication of academic results."
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug",
+            "category": "Announcement",
+            "summary": "An official announcement has been made concerning the university's 18th Convocation, scheduled for 2026."
         },
         {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A notice indicating the final date for faculty to submit grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A notice concerning the schedule for final examinations."
+            "title": "BRAC University’s “My Country, My Culture” celebrates Palestinian heritage",
+            "date": "30 Aug 2026",
+            "category": "News/Event",
+            "summary": "BRAC University's 'My Country, My Culture' program recently celebrated Palestinian heritage, highlighting its rich traditions and history."
         },
         {
             "title": "BRAC University honors 17 for research excellence",
             "date": "27 Aug 2026",
-            "category": "News / Recognition",
-            "summary": "BRAC University recognized 17 individuals for their outstanding contributions to research."
+            "category": "News/Academic",
+            "summary": "BRAC University recognized and honored 17 individuals for their outstanding contributions to research excellence."
         },
         {
             "title": "BRAC University hosts workshop on effective communication for professional excellence",
             "date": "25 Aug 2026",
-            "category": "News / Workshop",
-            "summary": "BRAC University organized a workshop focused on developing effective communication skills for professional advancement."
-        },
-        {
-            "title": "ESS Professor’s new book explores Bangladesh’s labour market challenges and future policy directions",
-            "date": "25 Aug 2026",
-            "category": "News / Publication",
-            "summary": "An ESS Professor has published a new book that analyzes Bangladesh's labor market issues and suggests future policy directions."
+            "category": "News/Event",
+            "summary": "BRAC University organized a workshop focused on developing effective communication skills to foster professional excellence among participants."
         }
     ]
 }
