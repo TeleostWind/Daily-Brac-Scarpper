@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "BRAC University hosts renowned architect Professor Shamsul Wares for Angan Lecture",
+            "date": "31 Aug 2026",
+            "category": "News",
+            "summary": "BRAC University hosted renowned architect Professor Shamsul Wares for an Angan Lecture. The event was held on Monday, 10:30 am."
+        },
+        {
             "title": "BRAC University’s “My Country, My Culture” celebrates Palestinian heritage",
             "date": "30 Aug 2026",
             "category": "News",
-            "summary": "BRAC University's 'My Country, My Culture' program hosted an event celebrating Palestinian heritage and culture."
+            "summary": "BRAC University’s “My Country, My Culture” event celebrated Palestinian heritage. It took place on Sunday, 5:15 pm."
         },
         {
             "title": "BRAC University honors 17 for research excellence",
             "date": "27 Aug 2026",
             "category": "News",
-            "summary": "BRAC University acknowledged and honored 17 individuals for their significant achievements in research."
+            "summary": "BRAC University recognized and honored 17 individuals for their outstanding research excellence. The ceremony was held on Thursday, 2:15 pm."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
             "date": "25 Aug 2026",
             "category": "Academic Announcement",
-            "summary": "An announcement detailing the pre-registration schedule for undergraduate students in Phase 2 for the Fall 2026 semester."
-        },
-        {
-            "title": "BRAC University hosts workshop on effective communication for professional excellence",
-            "date": "25 Aug 2026",
-            "category": "News",
-            "summary": "BRAC University conducted a workshop aimed at developing effective communication skills to foster professional excellence."
+            "summary": "The schedule for Undergraduate Pre-registration (Phase 2) for the Fall 2026 semester has been announced. Students should check the details for registration."
         },
         {
             "title": "FabLab Recruitment Circular",
             "date": "24 Aug 2026",
-            "category": "Recruitment Notice",
-            "summary": "A circular issued for recruitment opportunities within the FabLab at BRAC University."
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued for FabLab. Interested individuals are encouraged to apply."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "19 Aug 2026",
-            "category": "Admissions Notice",
-            "summary": "A notice published regarding the results of the admission test for the Fall 2026 intake."
+            "category": "Academic Announcement",
+            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been published. Applicants can now check their results."
         },
         {
-            "title": "18th Convocation 2026 Announcement",
+            "title": "Announcement: 18th Convocation 2026",
             "date": "03 Aug 2026",
-            "category": "Event Announcement",
-            "summary": "An announcement made concerning the 18th Convocation of BRAC University, scheduled for 2026."
+            "category": "Announcement",
+            "summary": "The 18th Convocation of BRAC University has been officially announced for 2026. This is a significant event for graduating students."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Date",
+            "summary": "Final examinations are scheduled to take place on December 10. Students should prepare accordingly for their assessments."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Date",
+            "summary": "The publication of academic results is scheduled for September 23. Students can expect their grades to be released on this date."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Date",
+            "summary": "September 21 marks the last day for submitting grades. Faculty members must adhere to this deadline."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Date",
+            "summary": "Another set of final examinations is scheduled for September 12. Students should take note of this important academic assessment date."
         }
     ]
 }
