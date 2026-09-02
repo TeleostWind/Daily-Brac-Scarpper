@@ -1,46 +1,46 @@
 {
     "bracu_official": [
         {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "The schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester has been released."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
-            "category": "Recruitment",
-            "summary": "A circular has been issued for recruitment opportunities within the FabLab."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "Results for the Fall 2026 admission test have been officially announced."
-        },
-        {
-            "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug 2026",
-            "category": "Event Announcement",
-            "summary": "BRAC University has announced its 18th Convocation, scheduled to take place in 2026."
-        },
-        {
             "title": "BRAC University student 2nd at DUPHAT 2026 contest for prescription verification AI tool",
             "date": "01 Sep 2026",
-            "category": "Student Achievement",
-            "summary": "A BRAC University student achieved second place in the DUPHAT 2026 contest with an innovative AI tool for prescription verification."
+            "category": "News / Student Achievement",
+            "summary": "A BRAC University student achieved second place at the DUPHAT 2026 contest for developing an AI tool for prescription verification."
         },
         {
             "title": "BRAC University hosts renowned architect Professor Shamsul Wares for Angan Lecture",
             "date": "31 Aug 2026",
-            "category": "Event",
-            "summary": "BRAC University hosted a special Angan Lecture featuring the renowned architect Professor Shamsul Wares."
+            "category": "News / Event",
+            "summary": "BRAC University organized an Angan Lecture featuring renowned architect Professor Shamsul Wares."
         },
         {
             "title": "BRAC University’s “My Country, My Culture” celebrates Palestinian heritage",
             "date": "30 Aug 2026",
-            "category": "Cultural Event",
-            "summary": "The 'My Country, My Culture' initiative at BRAC University organized an event celebrating Palestinian heritage."
+            "category": "News / Event",
+            "summary": "The “My Country, My Culture” event at BRAC University celebrated Palestinian heritage."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic / Announcement",
+            "summary": "The schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Announcement / Recruitment",
+            "summary": "A recruitment circular has been issued for positions at FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug",
+            "category": "Academic / Notice",
+            "summary": "A notice has been published regarding the admission test results for the Fall 2026 semester."
+        },
+        {
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug",
+            "category": "Announcement / Event",
+            "summary": "An announcement has been made regarding the 18th Convocation, scheduled for 2026."
         }
     ]
 }
