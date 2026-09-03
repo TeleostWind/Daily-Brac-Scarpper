@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic",
+            "summary": "An announcement detailing the schedule for undergraduate pre-registration for Phase 2 for Fall 2026 has been released."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued for various positions within FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug",
+            "category": "Academic",
+            "summary": "A notice regarding the publication of admission test results for the Fall 2026 intake has been posted."
+        },
+        {
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug",
+            "category": "Event",
+            "summary": "The official announcement for BRAC University's 18th Convocation, scheduled for 2026, has been made."
+        },
+        {
             "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Notice",
-            "summary": "A notice providing the schedule for the final examinations on December 10th, 2026."
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "An announcement has been made regarding the schedule and details for the upcoming final examinations."
         },
         {
             "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "An upcoming announcement regarding the publication of academic results on September 23rd, 2026."
+            "date": "23 Sep",
+            "category": "Academic",
+            "summary": "A notice concerning the publication of academic results has been issued."
         },
         {
             "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A notice indicating September 21st, 2026 as the last day for submitting grades."
+            "date": "21 Sep",
+            "category": "Academic",
+            "summary": "An important notice indicating the final deadline for faculty members to submit student grades has been shared."
         },
         {
             "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A notice providing the schedule for the final examinations on September 12th, 2026."
+            "date": "12 Sep",
+            "category": "Academic",
+            "summary": "An announcement has been made regarding the schedule and details for the upcoming final examinations."
         },
         {
             "title": "BRAC University student 2nd at DUPHAT 2026 contest for prescription verification AI tool",
             "date": "01 Sep 2026",
-            "category": "News / Student Achievement",
-            "summary": "A BRAC University student achieved second place at the DUPHAT 2026 contest for developing an AI tool for prescription verification. This highlights student innovation and excellence."
+            "category": "News",
+            "summary": "A BRAC University student secured second place at the DUPHAT 2026 contest for their innovative AI tool designed for prescription verification."
         },
         {
             "title": "BRAC University hosts renowned architect Professor Shamsul Wares for Angan Lecture",
             "date": "31 Aug 2026",
-            "category": "News / Event",
-            "summary": "BRAC University recently hosted a significant Angan Lecture featuring renowned architect Professor Shamsul Wares."
+            "category": "Event",
+            "summary": "BRAC University organized an Angan Lecture featuring the esteemed architect Professor Shamsul Wares, drawing significant interest from the academic community."
         },
         {
             "title": "BRAC University’s “My Country, My Culture” celebrates Palestinian heritage",
             "date": "30 Aug 2026",
-            "category": "News / Cultural Event",
-            "summary": "BRAC University's 'My Country, My Culture' event celebrated Palestinian heritage, promoting cultural awareness and diversity."
-        },
-        {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "An announcement detailing the undergraduate pre-registration schedule for Phase 2 of the Fall 2026 semester."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
-            "category": "Recruitment Announcement",
-            "summary": "A circular has been issued announcing recruitment opportunities at the FabLab."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "A notice informing students about the publication of admission test results for the Fall 2026 semester."
-        },
-        {
-            "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug 2026",
-            "category": "Event Announcement",
-            "summary": "BRAC University has officially announced its 18th Convocation, scheduled to take place in 2026."
+            "category": "Event",
+            "summary": "BRAC University's 'My Country, My Culture' event successfully celebrated Palestinian heritage through various cultural displays and activities."
         }
     ]
 }
