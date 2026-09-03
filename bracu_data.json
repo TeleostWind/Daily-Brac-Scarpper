@@ -2,69 +2,45 @@
     "bracu_official": [
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "2026-08-25",
-            "category": "Academic Announcement",
-            "summary": "The schedule for undergraduate pre-registration (Phase 2) for the Fall 2026 semester has been announced."
+            "date": "25 Aug 2026",
+            "category": "Academic",
+            "summary": "An announcement detailing the schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester."
         },
         {
             "title": "FabLab Recruitment Circular",
-            "date": "2026-08-24",
-            "category": "Recruitment Notice",
-            "summary": "A circular has been issued regarding recruitment opportunities at FabLab."
+            "date": "24 Aug 2026",
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued for open positions within the university's FabLab."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "2026-08-19",
-            "category": "Admission Notice",
-            "summary": "Notice regarding the publication of admission test results for the Fall 2026 intake."
+            "date": "19 Aug 2026",
+            "category": "Academic",
+            "summary": "A notice has been published regarding the results of the admission test for the Fall 2026 semester."
         },
         {
-            "title": "18th Convocation 2026 Announcement",
-            "date": "2026-08-03",
-            "category": "Event Announcement",
-            "summary": "An announcement has been made for the university's 18th Convocation, scheduled for 2026."
-        },
-        {
-            "title": "Final Examinations (December 2026)",
-            "date": "2026-12-10",
-            "category": "Academic Date",
-            "summary": "This date marks the beginning of a final examination period."
-        },
-        {
-            "title": "Publication of Results (September 2026)",
-            "date": "2026-09-23",
-            "category": "Academic Date",
-            "summary": "This date is scheduled for the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades (September 2026)",
-            "date": "2026-09-21",
-            "category": "Academic Date",
-            "summary": "This date is the deadline for faculty to submit grades."
-        },
-        {
-            "title": "Final Examinations (September 2026)",
-            "date": "2026-09-12",
-            "category": "Academic Date",
-            "summary": "This date marks the beginning of another final examination period."
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Event",
+            "summary": "BRAC University has announced its 18th Convocation, scheduled to take place in 2026."
         },
         {
             "title": "BRAC University Hosts Selection Session for Rafiq Azam Travel Bursary 2026",
-            "date": "2026-09-03",
+            "date": "03 Sep 2026",
             "category": "News",
-            "summary": "BRAC University conducted a selection session for candidates applying for the Rafiq Azam Travel Bursary in 2026."
+            "summary": "BRAC University held a selection session for candidates applying for the Rafiq Azam Travel Bursary for the year 2026."
         },
         {
-            "title": "BRAC University student 2nd at DUPHAT 2026 contest",
-            "date": "2026-09-01",
-            "category": "News",
-            "summary": "A BRAC University student secured second place at the DUPHAT 2026 contest for their prescription verification AI tool."
+            "title": "BRAC University student 2nd at DUPHAT 2026 contest for prescription verification AI tool",
+            "date": "01 Sep 2026",
+            "category": "Student Achievement",
+            "summary": "A BRAC University student secured second place at the DUPHAT 2026 contest with their innovative AI tool for prescription verification."
         },
         {
-            "title": "BRAC University hosts Professor Shamsul Wares for Angan Lecture",
-            "date": "2026-08-31",
-            "category": "News",
-            "summary": "BRAC University hosted a distinguished Angan Lecture featuring renowned architect Professor Shamsul Wares."
+            "title": "BRAC University hosts renowned architect Professor Shamsul Wares for Angan Lecture",
+            "date": "31 Aug 2026",
+            "category": "Event",
+            "summary": "Renowned architect Professor Shamsul Wares was hosted by BRAC University to deliver an Angan Lecture."
         }
     ]
 }
