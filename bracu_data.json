@@ -1,3 +1,46 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Announcement",
+            "summary": "BRAC University has released the schedule for undergraduate pre-registration, specifically for Phase 2 of the Fall 2026 semester."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued for opportunities to join the FabLab at BRAC University."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug",
+            "category": "Academic Announcement",
+            "summary": "A notice regarding the results of the admission test for the Fall 2026 intake has been published."
+        },
+        {
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug",
+            "category": "Event Announcement",
+            "summary": "BRAC University has officially announced its 18th Convocation ceremony, scheduled to take place in 2026."
+        },
+        {
+            "title": "BRAC University Hosts Selection Session for Rafiq Azam Travel Bursary 2026",
+            "date": "03 Sep 2026",
+            "category": "News / Scholarship",
+            "summary": "BRAC University held a selection session for candidates applying for the Rafiq Azam Travel Bursary for 2026."
+        },
+        {
+            "title": "BRAC University student 2nd at DUPHAT 2026 contest for prescription verification AI tool",
+            "date": "01 Sep 2026",
+            "category": "News / Student Achievement",
+            "summary": "A BRAC University student secured second place at the DUPHAT 2026 contest with an innovative AI tool designed for prescription verification."
+        },
+        {
+            "title": "BRAC University hosts renowned architect Professor Shamsul Wares for Angan Lecture",
+            "date": "31 Aug 2026",
+            "category": "News / Event",
+            "summary": "BRAC University recently hosted the renowned architect Professor Shamsul Wares for a distinguished Angan Lecture series."
+        }
+    ]
 }
