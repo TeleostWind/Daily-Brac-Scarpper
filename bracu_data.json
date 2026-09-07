@@ -1,46 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Announcement",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester has been released."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
-            "category": "Recruitment Announcement",
-            "summary": "A recruitment circular has been issued by FabLab for prospective applicants."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "A notice has been published regarding the results of the Fall 2026 admission test."
-        },
-        {
-            "title": "Announcement: 18th Convocation 2026",
-            "date": "03 Aug 2026",
-            "category": "Event Announcement",
-            "summary": "BRAC University has announced its 18th Convocation, scheduled to take place in 2026."
+            "title": "BRAC University hosts campus safeguarding sessions and recognition program for students",
+            "date": "07 Sep 2026",
+            "category": "News",
+            "summary": "BRAC University conducted sessions focused on campus safeguarding and recognized students for their participation."
         },
         {
             "title": "BRAC University and ACU seek dialogue on strengthening higher education collaboration",
             "date": "06 Sep 2026",
             "category": "News",
-            "summary": "BRAC University and the ACU are holding discussions to foster stronger collaboration in the field of higher education."
+            "summary": "BRAC University engaged in discussions with ACU to explore ways of enhancing collaboration in higher education."
         },
         {
             "title": "BRAC University Hosts Selection Session for Rafiq Azam Travel Bursary 2026",
             "date": "03 Sep 2026",
-            "category": "News / Scholarship Event",
-            "summary": "A selection session for the Rafiq Azam Travel Bursary for 2026 was hosted by BRAC University."
+            "category": "News",
+            "summary": "A selection session was held at BRAC University for the Rafiq Azam Travel Bursary 2026 applicants."
         },
         {
-            "title": "BRAC University student 2nd at DUPHAT 2026 contest for prescription verification AI tool",
-            "date": "01 Sep 2026",
-            "category": "News / Student Achievement",
-            "summary": "A student from BRAC University achieved second place at the DUPHAT 2026 contest with their AI tool for prescription verification."
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic",
+            "summary": "Important schedule announcement for undergraduate pre-registration (Phase 2) for the Fall 2026 semester."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Announcement",
+            "summary": "A circular has been issued regarding recruitment opportunities at FabLab."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "19 Aug 2026",
+            "category": "Academic",
+            "summary": "Notice regarding the publication of admission test results for the Fall 2026 intake."
+        },
+        {
+            "title": "Announcement: 18th Convocation 2026",
+            "date": "03 Aug 2026",
+            "category": "Event",
+            "summary": "Official announcement for BRAC University's 18th convocation ceremony to be held in 2026."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic",
+            "summary": "Scheduled date for final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic",
+            "summary": "Scheduled date for the publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic",
+            "summary": "Deadline for faculty members to submit student grades for the current academic period."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic",
+            "summary": "Scheduled date for final examinations."
         }
     ]
 }
