@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
+            "title": "Final Examinations (December 2026)",
+            "date": "10 Dec 2026",
+            "category": "Academic Announcement",
+            "summary": "The schedule for the final examinations occurring in December 2026 has been announced. Students should prepare accordingly for the upcoming assessment period."
+        },
+        {
+            "title": "Publication of Results (September 2026)",
+            "date": "23 Sep 2026",
+            "category": "Academic Announcement",
+            "summary": "BRAC University has set the date for the publication of academic results in September 2026. Students can expect to access their grades on this day."
+        },
+        {
+            "title": "Last Day of Submitting Grades (September 2026)",
+            "date": "21 Sep 2026",
+            "category": "Academic Announcement",
+            "summary": "Faculty members are reminded that September 21, 2026, is the final day for submitting student grades. Timely submission is crucial for result processing."
+        },
+        {
+            "title": "Final Examinations (September 2026)",
+            "date": "12 Sep 2026",
+            "category": "Academic Announcement",
+            "summary": "The schedule for a set of final examinations in September 2026 has been announced. Students should check the detailed timetable for their respective courses."
+        },
+        {
             "title": "BRAC University hosts campus safeguarding sessions and recognition program for students",
             "date": "07 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University conducted sessions focused on campus safeguarding and recognized students for their participation."
+            "category": "University News",
+            "summary": "BRAC University recently organized important campus safeguarding sessions for students. These sessions were complemented by a recognition program to honor student achievements."
         },
         {
             "title": "BRAC University and ACU seek dialogue on strengthening higher education collaboration",
             "date": "06 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University engaged in discussions with ACU to explore ways of enhancing collaboration in higher education."
+            "category": "University News",
+            "summary": "BRAC University and the ACU are engaged in discussions aimed at strengthening collaboration in higher education. The dialogue seeks to explore new avenues for partnership and mutual growth."
         },
         {
             "title": "BRAC University Hosts Selection Session for Rafiq Azam Travel Bursary 2026",
             "date": "03 Sep 2026",
-            "category": "News",
-            "summary": "A selection session was held at BRAC University for the Rafiq Azam Travel Bursary 2026 applicants."
+            "category": "Scholarship News",
+            "summary": "BRAC University successfully hosted a selection session for the Rafiq Azam Travel Bursary 2026. This bursary supports students with travel opportunities."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
             "date": "25 Aug 2026",
-            "category": "Academic",
-            "summary": "Important schedule announcement for undergraduate pre-registration (Phase 2) for the Fall 2026 semester."
+            "category": "Academic Announcement",
+            "summary": "BRAC University has released the Phase 2 pre-registration schedule for undergraduate students enrolling in Fall 2026. This notice provides important dates for course selection and enrollment."
         },
         {
             "title": "FabLab Recruitment Circular",
             "date": "24 Aug 2026",
-            "category": "Announcement",
-            "summary": "A circular has been issued regarding recruitment opportunities at FabLab."
+            "category": "General Announcement",
+            "summary": "A recruitment circular has been issued for opportunities within the FabLab. Interested individuals are invited to apply for various positions."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "19 Aug 2026",
-            "category": "Academic",
-            "summary": "Notice regarding the publication of admission test results for the Fall 2026 intake."
+            "category": "Academic Announcement",
+            "summary": "BRAC University has published the results for the Fall 2026 admission test. Applicants can check their status through the official notice."
         },
         {
-            "title": "Announcement: 18th Convocation 2026",
+            "title": "18th Convocation 2026 Announcement",
             "date": "03 Aug 2026",
-            "category": "Event",
-            "summary": "Official announcement for BRAC University's 18th convocation ceremony to be held in 2026."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic",
-            "summary": "Scheduled date for final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic",
-            "summary": "Scheduled date for the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic",
-            "summary": "Deadline for faculty members to submit student grades for the current academic period."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic",
-            "summary": "Scheduled date for final examinations."
+            "category": "Academic Announcement",
+            "summary": "An official announcement has been made regarding the university's 18th Convocation, scheduled to take place in 2026. Further details are expected soon."
         }
     ]
 }
