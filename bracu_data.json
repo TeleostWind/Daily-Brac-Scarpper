@@ -1,70 +1,46 @@
 {
     "bracu_official": [
         {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "08 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been published regarding the admission test results for the upcoming Fall 2026 semester."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for the Summer 2026 semester has been released, with an exception for PHR courses."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "This is the schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Recruitment",
+            "summary": "A circular has been issued regarding recruitment opportunities at FabLab."
+        },
+        {
             "title": "BRAC University delegation holds courtesy meeting with foreign affairs adviser",
             "date": "08 Sep 2026",
             "category": "News",
-            "summary": "A delegation from BRAC University held a courtesy meeting with the foreign affairs adviser to discuss matters of mutual interest."
+            "summary": "A delegation from BRAC University recently held a courtesy meeting with a foreign affairs adviser."
         },
         {
             "title": "BRAC University hosts Grameenphone FutureMakers Roadshow 2026",
             "date": "08 Sep 2026",
             "category": "Event",
-            "summary": "BRAC University hosted the Grameenphone FutureMakers Roadshow, offering students insights and opportunities."
+            "summary": "BRAC University hosted the Grameenphone FutureMakers Roadshow for the year 2026."
         },
         {
             "title": "BRAC University hosts campus safeguarding sessions and recognition program for students",
             "date": "07 Sep 2026",
-            "category": "Event",
-            "summary": "BRAC University organized campus safeguarding sessions and a recognition program for its students to ensure their well-being and acknowledge achievements."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "08 Sep",
-            "category": "Academic Notice",
-            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester has been released."
-        },
-        {
-            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
-            "date": "07 Sep",
-            "category": "Academic Notice",
-            "summary": "The schedule for final examinations of the Summer 2026 semester, excluding the PHR program, has been announced."
-        },
-        {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug",
-            "category": "Academic Notice",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester is now available."
-        },
-        {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug",
-            "category": "Notice",
-            "summary": "A circular has been issued for recruitment opportunities at FabLab."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic Notice",
-            "summary": "An announcement concerning the publication of academic results has been made."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic Notice",
-            "summary": "A reminder notice stating the final deadline for submitting grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic Notice",
-            "summary": "An announcement regarding upcoming final examinations has been posted."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Notice",
-            "summary": "An announcement regarding upcoming final examinations has been posted."
+            "category": "Student Life",
+            "summary": "BRAC University organized campus safeguarding sessions and a recognition program for its students."
         }
     ]
 }
