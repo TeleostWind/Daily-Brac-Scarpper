@@ -1,40 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "Details the schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester."
+            "title": "BRAC University delegation holds courtesy meeting with foreign affairs adviser",
+            "date": "08 Sep 2026",
+            "category": "News",
+            "summary": "A delegation from BRAC University held a courtesy meeting with the foreign affairs adviser to discuss matters of mutual interest."
         },
         {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
-            "category": "Announcement",
-            "summary": "A circular has been released announcing recruitment opportunities at FabLab."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "19 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "This notice concerns the publication of admission test results for the Fall 2026 intake."
+            "title": "BRAC University hosts Grameenphone FutureMakers Roadshow 2026",
+            "date": "08 Sep 2026",
+            "category": "Event",
+            "summary": "BRAC University hosted the Grameenphone FutureMakers Roadshow, offering students insights and opportunities."
         },
         {
             "title": "BRAC University hosts campus safeguarding sessions and recognition program for students",
             "date": "07 Sep 2026",
-            "category": "News / Event",
-            "summary": "BRAC University conducted campus safeguarding sessions along with a recognition program for its students."
+            "category": "Event",
+            "summary": "BRAC University organized campus safeguarding sessions and a recognition program for its students to ensure their well-being and acknowledge achievements."
         },
         {
-            "title": "BRAC University and ACU seek dialogue on strengthening higher education collaboration",
-            "date": "06 Sep 2026",
-            "category": "News / Collaboration",
-            "summary": "BRAC University and ACU are engaged in discussions to foster stronger collaboration in higher education."
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "08 Sep",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the publication of admission test results for the Fall 2026 semester has been released."
         },
         {
-            "title": "BRAC University Hosts Selection Session for Rafiq Azam Travel Bursary 2026",
-            "date": "03 Sep 2026",
-            "category": "News / Bursary",
-            "summary": "BRAC University organized a selection session for candidates applying for the Rafiq Azam Travel Bursary for 2026."
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep",
+            "category": "Academic Notice",
+            "summary": "The schedule for final examinations of the Summer 2026 semester, excluding the PHR program, has been announced."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Notice",
+            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester is now available."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Notice",
+            "summary": "A circular has been issued for recruitment opportunities at FabLab."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Notice",
+            "summary": "An announcement concerning the publication of academic results has been made."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Notice",
+            "summary": "A reminder notice stating the final deadline for submitting grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding upcoming final examinations has been posted."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding upcoming final examinations has been posted."
         }
     ]
 }
