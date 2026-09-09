@@ -1,3 +1,46 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "08 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been published regarding the admission test results for the upcoming Fall 2026 semester."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for the Summer 2026 semester has been released, with the exception of PHR programs."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester is now available."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Announcement / Opportunity",
+            "summary": "A recruitment circular has been issued for positions within the FabLab."
+        },
+        {
+            "title": "BRAC University delegation holds courtesy meeting with foreign affairs adviser",
+            "date": "08 Sep 2026",
+            "category": "News / Event",
+            "summary": "A delegation from BRAC University recently held a courtesy meeting with a foreign affairs adviser."
+        },
+        {
+            "title": "BRAC University hosts Grameenphone FutureMakers Roadshow 2026",
+            "date": "08 Sep 2026",
+            "category": "News / Event",
+            "summary": "BRAC University recently hosted the Grameenphone FutureMakers Roadshow for 2026 on its campus."
+        },
+        {
+            "title": "BRAC University hosts campus safeguarding sessions and recognition program for students",
+            "date": "07 Sep 2026",
+            "category": "News / Event",
+            "summary": "BRAC University organized campus safeguarding sessions and a recognition program aimed at students."
+        }
+    ]
 }
