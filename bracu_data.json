@@ -2,45 +2,45 @@
     "bracu_official": [
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "08 Sep",
-            "category": "Notice",
-            "summary": "A notice has been published regarding the admission test results for the upcoming Fall 2026 semester."
+            "date": "08 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the publication of admission test results for the upcoming Fall 2026 semester at BRAC University."
         },
         {
             "title": "Final Exam schedule, Summer 2026 (Except PHR)",
-            "date": "07 Sep",
-            "category": "Academic",
-            "summary": "The final examination schedule for the Summer 2026 semester has been released, excluding Pharmacy programs."
+            "date": "07 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "An announcement detailing the final examination schedule for the Summer 2026 semester, with the exception of the PHR program."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug",
-            "category": "Academic",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester has been announced."
+            "date": "25 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for the second phase of undergraduate pre-registration for students enrolling in the Fall 2026 semester."
         },
         {
             "title": "FabLab Recruitment Circular",
-            "date": "24 Aug",
+            "date": "24 Aug 2026",
             "category": "Announcement",
-            "summary": "A recruitment circular has been issued for positions within the FabLab."
+            "summary": "A circular inviting applications for recruitment opportunities within the university's FabLab."
         },
         {
             "title": "BIL bulletin: August 2026",
             "date": "10 Sep 2026",
             "category": "News",
-            "summary": "The BIL bulletin for August 2026 has been published, providing updates and information."
+            "summary": "A bulletin from the BRAC University International Languages (BIL) department, summarizing updates and news for August 2026."
         },
         {
             "title": "BRAC University conclave calls for ethical AI use and stronger academic integrity frameworks",
             "date": "10 Sep 2026",
             "category": "News",
-            "summary": "BRAC University recently hosted a conclave emphasizing the importance of ethical AI use and advocating for stronger academic integrity frameworks."
+            "summary": "BRAC University recently hosted a conclave that advocated for the ethical application of artificial intelligence and the strengthening of academic integrity frameworks."
         },
         {
             "title": "Project Jibon 3.0: Plant Life, Protect Tomorrow",
             "date": "10 Sep 2026",
             "category": "News",
-            "summary": "Project Jibon 3.0, focusing on 'Plant Life, Protect Tomorrow', has been highlighted, likely pertaining to environmental or sustainability initiatives."
+            "summary": "News about 'Project Jibon 3.0', an initiative focused on promoting plant life and environmental protection for the future."
         }
     ]
 }
