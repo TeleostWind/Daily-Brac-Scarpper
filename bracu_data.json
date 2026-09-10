@@ -1,3 +1,46 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "08 Sep",
+            "category": "Academic Notice",
+            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for the Summer 2026 semester, excluding PHR courses, has been published."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Notice",
+            "summary": "The schedule for undergraduate pre-registration (Phase 2) for the Fall 2026 semester is now available."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued by FabLab, announcing new opportunities."
+        },
+        {
+            "title": "Project Jibon 3.0: Plant Life, Protect Tomorrow",
+            "date": "10 Sep 2026",
+            "category": "News",
+            "summary": "An update on 'Project Jibon 3.0' focusing on plant life and environmental protection was shared by the university."
+        },
+        {
+            "title": "BRAC University's Centre for Energy and Logistics hosts seminar on Bangladesh's electricity and energy situation",
+            "date": "09 Sep 2026",
+            "category": "Event",
+            "summary": "The Centre for Energy and Logistics at BRAC University hosted a seminar discussing Bangladesh's current electricity and energy situation."
+        },
+        {
+            "title": "BRAC University delegation meets secretary of the Secondary and Higher Education Division",
+            "date": "09 Sep 2026",
+            "category": "News",
+            "summary": "A delegation from BRAC University held a meeting with the secretary of the Secondary and Higher Education Division."
+        }
+    ]
 }
