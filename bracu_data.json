@@ -1,3 +1,46 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "08 Sep",
+            "category": "Notice",
+            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been released by BRAC University."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep",
+            "category": "Academic Update",
+            "summary": "The final examination schedule for the Summer 2026 semester, excluding PHR courses, has been announced."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Update",
+            "summary": "The schedule for undergraduate pre-registration (Phase 2) for the Fall 2026 semester has been published."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Announcement",
+            "summary": "BRAC University has issued a recruitment circular for positions within its FabLab facility."
+        },
+        {
+            "title": "BIL bulletin: August 2026",
+            "date": "10 Sep 2026",
+            "category": "News",
+            "summary": "The BRAC Institute of Languages (BIL) bulletin for August 2026 has been released, providing important updates."
+        },
+        {
+            "title": "BRAC University conclave calls for ethical AI use and stronger academic integrity frameworks",
+            "date": "10 Sep 2026",
+            "category": "News",
+            "summary": "A recent BRAC University conclave highlighted the importance of ethical AI use and reinforced the need for robust academic integrity frameworks."
+        },
+        {
+            "title": "Project Jibon 3.0: Plant Life, Protect Tomorrow",
+            "date": "10 Sep 2026",
+            "category": "Event",
+            "summary": "BRAC University announced Project Jibon 3.0, an initiative focused on promoting plant life and environmental protection."
+        }
+    ]
 }
