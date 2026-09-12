@@ -1,1 +1,70 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "08 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been published regarding the admission test results for the Fall 2026 semester at BRAC University."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for the Summer 2026 semester has been released, with the exception of Pharmacy programs."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester has been announced."
+        },
+        {
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug 2026",
+            "category": "Announcement",
+            "summary": "A recruitment circular has been issued for positions within the FabLab at BRAC University."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding a period of final examinations taking place on December 10th."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "Information has been provided concerning the publication of academic results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice indicating September 21st as the final date for submitting grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding a period of final examinations taking place on September 12th."
+        },
+        {
+            "title": "BIL bulletin: August 2026",
+            "date": "10 Sep 2026",
+            "category": "News",
+            "summary": "The August 2026 edition of the BIL bulletin has been published."
+        },
+        {
+            "title": "BRAC University conclave calls for ethical AI use and stronger academic integrity frameworks",
+            "date": "10 Sep 2026",
+            "category": "News",
+            "summary": "A recent BRAC University conclave highlighted the importance of ethical AI use and the establishment of stronger academic integrity frameworks."
+        },
+        {
+            "title": "Project Jibon 3.0: Plant Life, Protect Tomorrow",
+            "date": "10 Sep 2026",
+            "category": "News",
+            "summary": "Project Jibon 3.0 focuses on initiatives to promote plant life and contribute to future environmental protection."
+        }
+    ]
+}
