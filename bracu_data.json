@@ -3,68 +3,44 @@
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "08 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A notice regarding the admission test results for the upcoming Fall 2026 semester has been released."
+            "category": "Notice",
+            "summary": "A notice was issued regarding the admission test results for the upcoming Fall 2026 semester."
         },
         {
             "title": "Final Exam schedule, Summer 2026 (Except PHR)",
             "date": "07 Sep 2026",
             "category": "Academic Update",
-            "summary": "The final examination schedule for the Summer 2026 semester, with the exception of PHR courses, has been announced."
+            "summary": "The final examination schedule for the Summer 2026 semester has been released, with an exception for PHR courses."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
             "date": "25 Aug 2026",
             "category": "Academic Update",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester is now available."
+            "summary": "The schedule for Phase 2 of undergraduate pre-registration for the Fall 2026 semester has been announced."
         },
         {
             "title": "FabLab Recruitment Circular",
             "date": "24 Aug 2026",
             "category": "Announcement",
-            "summary": "A recruitment circular has been issued for various positions at the FabLab."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Update",
-            "summary": "Important dates have been set for the upcoming final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Update",
-            "summary": "The date for the official publication of academic results has been announced."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Update",
-            "summary": "Students and faculty are reminded of the final deadline for submitting grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Update",
-            "summary": "Additional important dates regarding final examinations have been released."
+            "summary": "A circular has been issued for recruitment opportunities at FabLab."
         },
         {
             "title": "BIL bulletin: August 2026",
             "date": "10 Sep 2026",
             "category": "News",
-            "summary": "The latest edition of the BIL bulletin for August 2026 has been published, providing key updates and information."
+            "summary": "The BRAC Institute of Languages (BIL) bulletin for August 2026 has been published."
         },
         {
             "title": "BRAC University conclave calls for ethical AI use and stronger academic integrity frameworks",
             "date": "10 Sep 2026",
             "category": "News",
-            "summary": "BRAC University hosted a conclave that advocated for the ethical integration of AI and the reinforcement of academic integrity frameworks."
+            "summary": "A conclave at BRAC University emphasized the need for ethical AI implementation and robust academic integrity frameworks."
         },
         {
             "title": "Project Jibon 3.0: Plant Life, Protect Tomorrow",
             "date": "10 Sep 2026",
             "category": "News",
-            "summary": "An update on Project Jibon 3.0 highlights ongoing initiatives focused on plant life and environmental protection for the future."
+            "summary": "Project Jibon 3.0, an initiative focused on promoting plant life and environmental protection, has been launched."
         }
     ]
 }
