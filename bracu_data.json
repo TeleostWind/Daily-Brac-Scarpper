@@ -2,45 +2,45 @@
     "bracu_official": [
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "08 Sep 2026",
-            "category": "Academic Notice",
+            "date": "13 Sep",
+            "category": "Notice",
             "summary": "A notice regarding the admission test results for the Fall 2026 semester has been published."
         },
         {
             "title": "Final Exam schedule, Summer 2026 (Except PHR)",
-            "date": "07 Sep 2026",
+            "date": "07 Sep",
             "category": "Academic Notice",
-            "summary": "The final examination schedule for the Summer 2026 semester, excluding PHR courses, has been released."
+            "summary": "The final examination schedule for the Summer 2026 semester, excluding PHR courses, has been announced."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
+            "date": "25 Aug",
             "category": "Academic Notice",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester has been announced."
+            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester has been released."
         },
         {
             "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
+            "date": "24 Aug",
             "category": "Announcement",
-            "summary": "A recruitment circular for FabLab has been released, inviting applications for available positions."
+            "summary": "A circular has been issued announcing recruitment opportunities for FabLab."
         },
         {
             "title": "BRAC University hosts Climate & Environment Talk 2026",
             "date": "13 Sep 2026",
             "category": "Event",
-            "summary": "BRAC University organized a talk focusing on climate and environmental issues to foster discussion and awareness."
+            "summary": "BRAC University organized and hosted a talk focusing on climate and environmental issues."
         },
         {
             "title": "BRAC University explores collaboration for youth empowerment and development",
             "date": "13 Sep 2026",
             "category": "News",
-            "summary": "BRAC University is exploring potential collaborations aimed at empowering and developing youth through various initiatives."
+            "summary": "BRAC University is actively exploring collaborations aimed at empowering and fostering the development of youth."
         },
         {
             "title": "CSE Department hosts CSE471 Project Showcase 4.0",
             "date": "13 Sep 2026",
             "category": "Event",
-            "summary": "The CSE Department successfully hosted the 4th edition of its CSE471 Project Showcase, highlighting student projects."
+            "summary": "The Computer Science and Engineering Department successfully hosted its fourth CSE471 Project Showcase."
         }
     ]
 }
