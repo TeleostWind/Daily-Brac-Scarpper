@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "13 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "A notice regarding the admission test results for the Fall 2026 semester has been published."
-        },
-        {
-            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
-            "date": "07 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "The final examination schedule for the Summer 2026 semester has been released, with an exception for PHR courses."
+            "title": "FabLab Recruitment Circular",
+            "date": "24 Aug",
+            "category": "Notice",
+            "summary": "A circular has been issued announcing recruitment opportunities within the university's FabLab facility."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
+            "date": "25 Aug",
             "category": "Academic Notice",
-            "summary": "The schedule for undergraduate pre-registration, Phase 2, for the Fall 2026 semester is now available."
+            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 academic term has been announced."
         },
         {
-            "title": "FabLab Recruitment Circular",
-            "date": "24 Aug 2026",
-            "category": "Announcement",
-            "summary": "A recruitment circular for opportunities within FabLab has been announced."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Date",
-            "summary": "This date marks a period for final examinations within the academic calendar."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep 2026",
-            "category": "Academic Date",
-            "summary": "This date is designated for the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep 2026",
-            "category": "Academic Date",
-            "summary": "This is the final day for faculty to submit student grades."
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep",
+            "category": "Academic Notice",
+            "summary": "The detailed schedule for the Summer 2026 final examinations, excluding PHR programs, has been published."
         },
         {
             "title": "Final Examinations",
-            "date": "12 Sep 2026",
-            "category": "Academic Date",
-            "summary": "This date is another scheduled period for final examinations."
+            "date": "12 Sep",
+            "category": "Academic Notice",
+            "summary": "A general notice outlining the schedule for final examinations on September 12."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "13 Sep",
+            "category": "Academic Notice",
+            "summary": "An official notice has been released regarding the admission test results for the Fall 2026 semester."
         },
         {
             "title": "BRAC University signs MoU with National University",
             "date": "14 Sep 2026",
             "category": "News",
-            "summary": "BRAC University has signed a Memorandum of Understanding with National University, fostering future collaboration."
+            "summary": "BRAC University signed a Memorandum of Understanding with National University, formalizing a new partnership."
         },
         {
             "title": "BRAC University organizes workshop on evidence-informed teaching and learning",
             "date": "14 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University recently organized a workshop focusing on evidence-informed teaching and learning methodologies."
+            "category": "Workshop",
+            "summary": "BRAC University hosted a workshop focusing on the integration of evidence-informed practices into teaching and learning methodologies."
         },
         {
             "title": "BRAC University festival gets students countrywide to champion the environment",
             "date": "14 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University hosted a festival that brought together students from across the country to advocate for environmental causes."
+            "category": "Event",
+            "summary": "A university festival brought together students from across the country to raise awareness and champion environmental causes."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Notice",
+            "summary": "A notice informing about the deadline for faculty members to submit academic grades."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Notice",
+            "summary": "An announcement regarding the scheduled publication of academic results."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Notice",
+            "summary": "A general notice outlining the schedule for final examinations on December 10."
         }
     ]
 }
