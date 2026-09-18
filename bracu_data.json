@@ -1,1 +1,70 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "Notice for Pre-University Summer 2026",
+            "date": "17 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been released regarding the Pre-University Summer 2026 program, detailing important information for prospective students."
+        },
+        {
+            "title": "BRAC University signs MoU with National University",
+            "date": "14 Sep 2026",
+            "category": "Partnership News",
+            "summary": "BRAC University has officially signed a Memorandum of Understanding (MoU) with National University, fostering collaboration between the two institutions."
+        },
+        {
+            "title": "BRAC University organizes workshop on evidence-informed teaching and learning",
+            "date": "14 Sep 2026",
+            "category": "Workshop News",
+            "summary": "BRAC University recently hosted a workshop focused on promoting and implementing evidence-informed teaching and learning methodologies for educators."
+        },
+        {
+            "title": "BRAC University festival gets students countrywide to champion the environment",
+            "date": "14 Sep 2026",
+            "category": "Event News",
+            "summary": "A festival organized by BRAC University successfully engaged students from across the country in advocating for environmental protection and awareness."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "13 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been published regarding the results of the admission test for the Fall 2026 semester."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep 2026",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for the Summer 2026 semester has been released, with the exception of PHR courses."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for undergraduate pre-registration (Phase 2) for the Fall 2026 semester has been announced."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Date",
+            "summary": "An important academic date has been set for final examinations."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Date",
+            "summary": "An academic date has been set for the publication of student results."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Date",
+            "summary": "This is a notice for the last day designated for faculty members to submit student grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Date",
+            "summary": "An important academic date has been set for final examinations."
+        }
+    ]
+}
