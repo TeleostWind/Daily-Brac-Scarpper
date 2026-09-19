@@ -2,69 +2,45 @@
     "bracu_official": [
         {
             "title": "Notice for Pre-University Summer 2026",
-            "date": "17 Sep 2026",
+            "date": "17 Sep",
             "category": "Academic Notice",
-            "summary": "A notice providing information regarding the Pre-University Summer 2026 program."
-        },
-        {
-            "title": "Admission Test Results Notice, Fall 2026",
-            "date": "13 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "An announcement regarding the admission test results for the Fall 2026 semester."
-        },
-        {
-            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
-            "date": "07 Sep 2026",
-            "category": "Academic Notice",
-            "summary": "The schedule for final examinations for the Summer 2026 semester, excluding Pharmacy (PHR) courses."
-        },
-        {
-            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "25 Aug 2026",
-            "category": "Academic Notice",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Notice",
-            "summary": "An announcement concerning upcoming final examinations."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic Notice",
-            "summary": "An announcement regarding the publication of academic results."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic Notice",
-            "summary": "A notice indicating the deadline for submitting academic grades."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "12 Sep",
-            "category": "Academic Notice",
-            "summary": "An announcement concerning upcoming final examinations."
+            "summary": "An important notice regarding the Pre-University program for the Summer 2026 semester has been released."
         },
         {
             "title": "BRAC University signs MoU with National University",
             "date": "14 Sep 2026",
             "category": "News",
-            "summary": "BRAC University has signed a Memorandum of Understanding (MoU) with National University to foster collaboration."
+            "summary": "BRAC University has signed a Memorandum of Understanding with National University, fostering a new collaboration."
         },
         {
             "title": "BRAC University organizes workshop on evidence-informed teaching and learning",
             "date": "14 Sep 2026",
             "category": "News",
-            "summary": "BRAC University organized a workshop focused on promoting evidence-informed teaching and learning methodologies."
+            "summary": "BRAC University held a workshop focused on promoting evidence-informed approaches in teaching and learning."
         },
         {
             "title": "BRAC University festival gets students countrywide to champion the environment",
             "date": "14 Sep 2026",
             "category": "News",
             "summary": "A festival organized by BRAC University engaged students from across the country to advocate for environmental causes."
+        },
+        {
+            "title": "Admission Test Results Notice, Fall 2026",
+            "date": "13 Sep",
+            "category": "Admission Notice",
+            "summary": "The admission test results for the Fall 2026 semester applicants have been officially announced."
+        },
+        {
+            "title": "Final Exam schedule, Summer 2026 (Except PHR)",
+            "date": "07 Sep",
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for the Summer 2026 semester has been released, with the exception of Pharmacy programs."
+        },
+        {
+            "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
+            "date": "25 Aug",
+            "category": "Academic Notice",
+            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester has been announced."
         }
     ]
 }
