@@ -4,67 +4,61 @@
             "title": "Notice for Pre-University Summer 2026",
             "date": "17 Sep",
             "category": "Academic Notice",
-            "summary": "BRAC University released a notice regarding the Pre-University program for Summer 2026."
+            "summary": "A notice has been released regarding the Pre-University program for Summer 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
             "date": "13 Sep",
-            "category": "Academic Notice",
-            "summary": "A notice was issued concerning the admission test results for the Fall 2026 semester."
+            "category": "Admission Notice",
+            "summary": "An announcement has been made concerning the admission test results for the Fall 2026 semester."
         },
         {
             "title": "Final Exam schedule, Summer 2026 (Except PHR)",
             "date": "07 Sep",
-            "category": "Academic Schedule",
-            "summary": "The final examination schedule for Summer 2026, excluding PHR, has been published."
+            "category": "Academic Notice",
+            "summary": "The final examination schedule for Summer 2026, excluding PHR courses, has been published."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
             "date": "25 Aug",
-            "category": "Academic Schedule",
-            "summary": "The schedule for Undergraduate Pre-registration (Phase 2) for Fall 2026 has been released."
-        },
-        {
-            "title": "Final Examinations",
-            "date": "10 Dec",
-            "category": "Academic Date",
-            "summary": "The date for Final Examinations has been set for December 10."
-        },
-        {
-            "title": "Publication of Results",
-            "date": "23 Sep",
-            "category": "Academic Date",
-            "summary": "Results are scheduled to be published on September 23."
-        },
-        {
-            "title": "Last Day of Submitting Grades",
-            "date": "21 Sep",
-            "category": "Academic Date",
-            "summary": "September 21 marks the last day for submitting grades."
+            "category": "Academic Notice",
+            "summary": "The schedule for the second phase of undergraduate pre-registration for Fall 2026 has been announced."
         },
         {
             "title": "Final Examinations",
             "date": "12 Sep",
             "category": "Academic Date",
-            "summary": "The date for Final Examinations has been set for September 12."
+            "summary": "A general notice regarding the schedule for final examinations has been posted."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Notice",
+            "summary": "An update on the publication of academic results has been provided."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Notice",
+            "summary": "The deadline for submitting grades has been announced as September 21st."
         },
         {
             "title": "Michigan professor’s presentation shows ways on “Tracking Electricity Access and Reliability in Bangladesh from Space”",
             "date": "22 Sep 2026",
-            "category": "News",
-            "summary": "A Michigan professor delivered a presentation at BRAC University demonstrating methods for tracking electricity access and reliability in Bangladesh from space."
+            "category": "News / Event",
+            "summary": "A Michigan professor gave a presentation demonstrating methods for tracking electricity access and reliability in Bangladesh from space."
         },
         {
             "title": "BRAC University signs MoU with National University",
             "date": "14 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University formally signed a Memorandum of Understanding with National University."
+            "category": "News / Collaboration",
+            "summary": "BRAC University has formalized a partnership by signing a Memorandum of Understanding with the National University."
         },
         {
             "title": "BRAC University organizes workshop on evidence-informed teaching and learning",
             "date": "14 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University hosted a workshop dedicated to exploring evidence-informed approaches in teaching and learning practices."
+            "category": "News / Workshop",
+            "summary": "BRAC University hosted a workshop focused on promoting evidence-informed practices in teaching and learning methodologies."
         }
     ]
 }
