@@ -2,45 +2,69 @@
     "bracu_official": [
         {
             "title": "Notice for Pre-University Summer 2026",
-            "date": "2026-09-17",
+            "date": "17 Sep",
             "category": "Academic Notice",
-            "summary": "An official notice regarding the Pre-University Summer session for the academic year 2026 has been released."
+            "summary": "BRAC University released a notice regarding the Pre-University program for Summer 2026."
         },
         {
             "title": "Admission Test Results Notice, Fall 2026",
-            "date": "2026-09-13",
+            "date": "13 Sep",
             "category": "Academic Notice",
-            "summary": "An announcement has been made regarding the publication of admission test results for the Fall 2026 semester."
+            "summary": "A notice was issued concerning the admission test results for the Fall 2026 semester."
         },
         {
             "title": "Final Exam schedule, Summer 2026 (Except PHR)",
-            "date": "2026-09-07",
-            "category": "Academic Notice",
-            "summary": "The schedule for final examinations for the Summer 2026 semester, excluding PHR courses, is now available."
+            "date": "07 Sep",
+            "category": "Academic Schedule",
+            "summary": "The final examination schedule for Summer 2026, excluding PHR, has been published."
         },
         {
             "title": "UG Pre-registration (Phase 2) Schedule, Fall 2026",
-            "date": "2026-08-25",
-            "category": "Academic Notice",
-            "summary": "The schedule for the second phase of undergraduate pre-registration for the Fall 2026 semester has been published."
+            "date": "25 Aug",
+            "category": "Academic Schedule",
+            "summary": "The schedule for Undergraduate Pre-registration (Phase 2) for Fall 2026 has been released."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Date",
+            "summary": "The date for Final Examinations has been set for December 10."
+        },
+        {
+            "title": "Publication of Results",
+            "date": "23 Sep",
+            "category": "Academic Date",
+            "summary": "Results are scheduled to be published on September 23."
+        },
+        {
+            "title": "Last Day of Submitting Grades",
+            "date": "21 Sep",
+            "category": "Academic Date",
+            "summary": "September 21 marks the last day for submitting grades."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "12 Sep",
+            "category": "Academic Date",
+            "summary": "The date for Final Examinations has been set for September 12."
+        },
+        {
+            "title": "Michigan professor’s presentation shows ways on “Tracking Electricity Access and Reliability in Bangladesh from Space”",
+            "date": "22 Sep 2026",
+            "category": "News",
+            "summary": "A Michigan professor delivered a presentation at BRAC University demonstrating methods for tracking electricity access and reliability in Bangladesh from space."
         },
         {
             "title": "BRAC University signs MoU with National University",
-            "date": "2026-09-14",
-            "category": "Collaboration News",
-            "summary": "BRAC University has formally signed a Memorandum of Understanding (MoU) with the National University."
+            "date": "14 Sep 2026",
+            "category": "News",
+            "summary": "BRAC University formally signed a Memorandum of Understanding with National University."
         },
         {
             "title": "BRAC University organizes workshop on evidence-informed teaching and learning",
-            "date": "2026-09-14",
-            "category": "Workshop News",
-            "summary": "BRAC University hosted a workshop focused on promoting evidence-informed practices in teaching and learning methodologies."
-        },
-        {
-            "title": "BRAC University festival gets students countrywide to champion the environment",
-            "date": "2026-09-14",
-            "category": "Event News",
-            "summary": "BRAC University organized a festival that engaged students from across the country to advocate for environmental protection."
+            "date": "14 Sep 2026",
+            "category": "News",
+            "summary": "BRAC University hosted a workshop dedicated to exploring evidence-informed approaches in teaching and learning practices."
         }
     ]
 }
