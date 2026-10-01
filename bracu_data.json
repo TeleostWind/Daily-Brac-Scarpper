@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
-            "date": "01 Oct 2026",
-            "category": "News",
-            "summary": "A BRAC University delegation held a meeting with the President of Bangladesh and Chancellor of BRAC University, Mirza Fakhrul Islam Alamgir."
-        },
-        {
-            "title": "BRAC University welcomes Fall 2026 freshers at orientation program",
-            "date": "01 Oct 2026",
-            "category": "News",
-            "summary": "BRAC University organized an orientation program to welcome its new students for the Fall 2026 semester."
-        },
-        {
-            "title": "BRAC University celebrates World Pharmacists Day 2026",
-            "date": "27 Sep 2026",
-            "category": "News",
-            "summary": "BRAC University commemorated World Pharmacists Day with various activities and events on September 27, 2026."
-        },
-        {
-            "title": "Notice : Application for the 18th Convocation 2026",
-            "date": "30 Sep 2026",
+            "title": "Application for the 18th Convocation 2026",
+            "date": "September 30, 2026",
             "category": "Notice",
-            "summary": "An important notice detailing the application process for the 18th Convocation of BRAC University scheduled for 2026."
+            "summary": "A formal notice regarding the application process for students wishing to participate in the upcoming 18th Convocation."
         },
         {
             "title": "First Year Advising Team (FYAT), Fall 2026",
-            "date": "28 Sep 2026",
+            "date": "September 28, 2026",
             "category": "Academic Announcement",
-            "summary": "Announcement regarding the establishment or activities of the First Year Advising Team for the Fall 2026 semester."
+            "summary": "Announcement about the formation or schedule of the First Year Advising Team for the Fall 2026 semester."
         },
         {
             "title": "Self-registration Schedule, Fall 2026",
-            "date": "24 Sep 2026",
-            "category": "Academic Announcement",
-            "summary": "The schedule for student self-registration for courses in the Fall 2026 academic semester has been released."
+            "date": "September 24, 2026",
+            "category": "Academic Notice",
+            "summary": "The official schedule outlining dates and procedures for student self-registration for the Fall 2026 academic term."
         },
         {
             "title": "Notice for Pre-University Summer 2026",
-            "date": "17 Sep 2026",
+            "date": "September 17, 2026",
             "category": "Notice",
-            "summary": "A notice providing crucial information for students enrolled in or applying to the Pre-University Summer 2026 program."
+            "summary": "An important notice specifically addressed to participants or prospective students of the Pre-University Summer 2026 program."
         },
         {
             "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic Announcement",
-            "summary": "Announcement of the dates and schedule for the upcoming final examinations."
+            "date": "December 10, 2026",
+            "category": "Academic Date",
+            "summary": "The date designated for the commencement or specific event related to final examinations for the academic period."
         },
         {
-            "title": "Mid-Term Exams week",
-            "date": "21 Nov 2026",
-            "category": "Academic Announcement",
-            "summary": "Information regarding the schedule and period for the mid-term examinations week."
+            "title": "Mid-Term Exams Week",
+            "date": "November 21, 2026",
+            "category": "Academic Date",
+            "summary": "The scheduled week during which mid-term examinations will be conducted across various courses."
         },
         {
             "title": "Durga Puja (Bijoya Dashami) - University Closed",
-            "date": "20 Oct 2026",
+            "date": "October 20, 2026",
             "category": "Holiday Notice",
-            "summary": "The university will be closed on October 20th in observance of Durga Puja (Bijoya Dashami)."
+            "summary": "A notice informing the university community that the institution will be closed in observance of Durga Puja (Bijoya Dashami)."
         },
         {
             "title": "Semester/Course Withdraw With W Grade (No Refund)",
-            "date": "17 Oct 2026",
-            "category": "Academic Policy",
-            "summary": "Notice detailing the policy and deadline for withdrawing from a semester or course, resulting in a 'W' grade with no refund."
+            "date": "October 17, 2026",
+            "category": "Academic Notice",
+            "summary": "An important notice detailing the deadline and conditions for semester or course withdrawal, specifically mentioning a 'W' grade and no refund."
+        },
+        {
+            "title": "BRAC University delegation meets with President and Chancellor",
+            "date": "October 01, 2026",
+            "category": "News",
+            "summary": "A BRAC University delegation held a significant meeting with His Excellency the President of Bangladesh and the Chancellor of BRAC University."
+        },
+        {
+            "title": "BRAC University welcomes Fall 2026 freshers at orientation program",
+            "date": "October 01, 2026",
+            "category": "Event",
+            "summary": "BRAC University organized an orientation program to officially welcome new students joining for the Fall 2026 semester."
+        },
+        {
+            "title": "BRAC University celebrates World Pharmacists Day 2026",
+            "date": "September 27, 2026",
+            "category": "Event",
+            "summary": "BRAC University commemorated World Pharmacists Day 2026 with a special celebration or event."
         }
     ]
 }
