@@ -1,70 +1,70 @@
 {
     "bracu_official": [
         {
-            "title": "Application for the 18th Convocation 2026",
-            "date": "30 September 2026",
-            "category": "Notice",
-            "summary": "Notice regarding the application process for the 18th Convocation scheduled for 2026."
-        },
-        {
-            "title": "First Year Advising Team (FYAT), Fall 2026",
-            "date": "28 September 2026",
-            "category": "Academic Update",
-            "summary": "Information regarding the First Year Advising Team for the Fall 2026 semester has been released."
-        },
-        {
-            "title": "Self-registration Schedule, Fall 2026",
-            "date": "24 September 2026",
+            "title": "Application for the 18th Convocation",
+            "date": "30 Sep",
             "category": "Academic Notice",
-            "summary": "The schedule for self-registration process for students enrolling in the Fall 2026 semester has been announced."
+            "summary": "Notice regarding the application process for the 18th Convocation, scheduled for 2026."
         },
         {
-            "title": "Notice for Pre-University Summer 2026",
-            "date": "17 September 2026",
+            "title": "First Year Advising Team (FYAT)",
+            "date": "28 Sep",
+            "category": "Academic Announcement",
+            "summary": "Information regarding the First Year Advising Team for the Fall 2026 semester."
+        },
+        {
+            "title": "Self-registration Schedule",
+            "date": "24 Sep",
             "category": "Academic Notice",
-            "summary": "An important notice has been issued concerning the Pre-University program for Summer 2026."
+            "summary": "The official schedule for student self-registration for the Fall 2026 semester has been released."
         },
         {
-            "title": "Final Examinations, Fall 2026",
-            "date": "10 December 2026",
-            "category": "Academic Date",
-            "summary": "The date for final examinations for the Fall 2026 semester is set."
+            "title": "Notice for Pre-University Summer",
+            "date": "17 Sep",
+            "category": "Academic Notice",
+            "summary": "An important notice has been issued for participants of the Pre-University Summer 2026 program."
         },
         {
-            "title": "Mid-Term Exams week, Fall 2026",
-            "date": "21 November 2026",
-            "category": "Academic Date",
-            "summary": "The schedule for the mid-term examinations week during the Fall 2026 semester has been released."
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Notice",
+            "summary": "The date for the commencement of final examinations has been set for December 10."
         },
         {
-            "title": "Durga Puja (Bijoya Dashami) - University Closed",
-            "date": "20 October 2026",
-            "category": "Holiday",
-            "summary": "The university will be closed in observance of Durga Puja (Bijoya Dashami)."
+            "title": "Mid-Term Exams week",
+            "date": "21 Nov",
+            "category": "Academic Notice",
+            "summary": "The university has announced the week of November 21 for mid-term examinations."
+        },
+        {
+            "title": "University Closed for Durga Puja (Bijoya Dashami)",
+            "date": "20 Oct",
+            "category": "Holiday Notice",
+            "summary": "The university will be closed on October 20 in observance of Durga Puja (Bijoya Dashami)."
         },
         {
             "title": "Semester/Course Withdraw With W Grade (No Refund)",
-            "date": "17 October 2026",
+            "date": "17 Oct",
             "category": "Academic Notice",
-            "summary": "Information on the deadline for withdrawing from a semester or course with a 'W' grade (no refund) has been provided."
+            "summary": "The deadline to withdraw from a semester or course with a 'W' grade (no refund) is October 17."
         },
         {
-            "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
-            "date": "01 October 2026",
+            "title": "BRAC University delegation meets with the President of Bangladesh",
+            "date": "01 Oct 2026",
             "category": "News",
-            "summary": "A BRAC University delegation met with His Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University."
+            "summary": "A delegation from BRAC University met with His Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University."
         },
         {
             "title": "BRAC University welcomes Fall 2026 freshers at orientation program",
-            "date": "01 October 2026",
+            "date": "01 Oct 2026",
             "category": "Event",
-            "summary": "BRAC University held an orientation program to welcome its new students for the Fall 2026 semester."
+            "summary": "BRAC University held an orientation program to officially welcome its new students for the Fall 2026 semester."
         },
         {
             "title": "BRAC University celebrates World Pharmacists Day 2026",
-            "date": "27 September 2026",
+            "date": "27 Sep 2026",
             "category": "Event",
-            "summary": "BRAC University observed World Pharmacists Day with celebrations and relevant activities."
+            "summary": "BRAC University celebrated World Pharmacists Day 2026, marking the global event with special activities."
         }
     ]
 }
