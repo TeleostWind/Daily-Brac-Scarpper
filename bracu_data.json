@@ -1,3 +1,70 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Application for the 18th Convocation 2026",
+            "date": "30 September 2026",
+            "category": "Notice",
+            "summary": "Notice regarding the application process for the 18th Convocation scheduled for 2026."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "28 September 2026",
+            "category": "Academic Update",
+            "summary": "Information regarding the First Year Advising Team for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "24 September 2026",
+            "category": "Academic Notice",
+            "summary": "The schedule for self-registration process for students enrolling in the Fall 2026 semester has been announced."
+        },
+        {
+            "title": "Notice for Pre-University Summer 2026",
+            "date": "17 September 2026",
+            "category": "Academic Notice",
+            "summary": "An important notice has been issued concerning the Pre-University program for Summer 2026."
+        },
+        {
+            "title": "Final Examinations, Fall 2026",
+            "date": "10 December 2026",
+            "category": "Academic Date",
+            "summary": "The date for final examinations for the Fall 2026 semester is set."
+        },
+        {
+            "title": "Mid-Term Exams week, Fall 2026",
+            "date": "21 November 2026",
+            "category": "Academic Date",
+            "summary": "The schedule for the mid-term examinations week during the Fall 2026 semester has been released."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "20 October 2026",
+            "category": "Holiday",
+            "summary": "The university will be closed in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "17 October 2026",
+            "category": "Academic Notice",
+            "summary": "Information on the deadline for withdrawing from a semester or course with a 'W' grade (no refund) has been provided."
+        },
+        {
+            "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
+            "date": "01 October 2026",
+            "category": "News",
+            "summary": "A BRAC University delegation met with His Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University."
+        },
+        {
+            "title": "BRAC University welcomes Fall 2026 freshers at orientation program",
+            "date": "01 October 2026",
+            "category": "Event",
+            "summary": "BRAC University held an orientation program to welcome its new students for the Fall 2026 semester."
+        },
+        {
+            "title": "BRAC University celebrates World Pharmacists Day 2026",
+            "date": "27 September 2026",
+            "category": "Event",
+            "summary": "BRAC University observed World Pharmacists Day with celebrations and relevant activities."
+        }
+    ]
 }
