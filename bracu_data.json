@@ -1,3 +1,70 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Final Examinations",
+            "date": "December 10, 2026",
+            "category": "Academic Announcement",
+            "summary": "Important information regarding the upcoming final examinations has been released, including relevant dates and procedures."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "November 21, 2026",
+            "category": "Academic Announcement",
+            "summary": "An announcement detailing the schedule for the mid-term examinations week, providing students with key dates to prepare."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "October 20, 2026",
+            "category": "Holiday Notice",
+            "summary": "The university will be closed on October 20th in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "October 17, 2026",
+            "category": "Academic Policy",
+            "summary": "A notice outlining the policy for withdrawing from a semester or course with a 'W' grade, clarifying that no refund will be issued."
+        },
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "October 03, 2026",
+            "category": "Academic Announcement",
+            "summary": "BRAC University has announced the class schedule for the upcoming Fall 2026 semester, detailing important academic timings."
+        },
+        {
+            "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
+            "date": "October 01, 2026",
+            "category": "Official Visit",
+            "summary": "A delegation from BRAC University held a meeting with the President of Bangladesh and Chancellor of the university, Mirza Fakhrul Islam Alamgir."
+        },
+        {
+            "title": "BRAC University welcomes Fall 2026 freshers at orientation program",
+            "date": "October 01, 2026",
+            "category": "Student Event",
+            "summary": "BRAC University organized an orientation program to warmly welcome its new batch of freshers for the Fall 2026 semester."
+        },
+        {
+            "title": "Notice : Application for the 18th Convocation 2026",
+            "date": "September 30, 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been released regarding the application process for the 18th Convocation, scheduled to take place in 2026."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "September 28, 2026",
+            "category": "Academic Announcement",
+            "summary": "An announcement concerning the formation and roles of the First Year Advising Team (FYAT) for the Fall 2026 semester."
+        },
+        {
+            "title": "BRAC University celebrates World Pharmacists Day 2026",
+            "date": "September 27, 2026",
+            "category": "Celebration/Event",
+            "summary": "BRAC University observed World Pharmacists Day with various activities and recognition for the profession."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "September 24, 2026",
+            "category": "Academic Announcement",
+            "summary": "The self-registration schedule for the Fall 2026 semester has been published, providing students with key dates for enrollment."
+        }
+    ]
 }
