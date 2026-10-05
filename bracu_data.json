@@ -1,3 +1,70 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "October 3, 2026",
+            "category": "Academic",
+            "summary": "An announcement has been made regarding the class schedule for the upcoming Fall 2026 semester."
+        },
+        {
+            "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
+            "date": "October 1, 2026",
+            "category": "News",
+            "summary": "A BRAC University delegation held a meeting with His Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University, Mirza Fakhrul Islam Alamgir."
+        },
+        {
+            "title": "BRAC University welcomes Fall 2026 freshers at orientation program",
+            "date": "October 1, 2026",
+            "category": "Event",
+            "summary": "BRAC University hosted an orientation program to officially welcome its new students joining for the Fall 2026 semester."
+        },
+        {
+            "title": "Application for the 18th Convocation 2026",
+            "date": "September 30, 2026",
+            "category": "Academic Notice",
+            "summary": "A notice has been issued regarding the application process for students intending to participate in the 18th Convocation in 2026."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "September 28, 2026",
+            "category": "Academic",
+            "summary": "Information is available concerning the First Year Advising Team (FYAT) for students enrolling in Fall 2026."
+        },
+        {
+            "title": "BRAC University celebrates World Pharmacists Day 2026",
+            "date": "September 27, 2026",
+            "category": "Event",
+            "summary": "BRAC University marked the occasion of World Pharmacists Day with celebrations on September 27, 2026."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "September 24, 2026",
+            "category": "Academic",
+            "summary": "The schedule for self-registration for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "December 10, 2026",
+            "category": "Academic",
+            "summary": "The date for final examinations is set for December 10, 2026."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "November 21, 2026",
+            "category": "Academic",
+            "summary": "The university has announced the schedule for the mid-term examinations week, starting on November 21, 2026."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "October 20, 2026",
+            "category": "Holiday Notice",
+            "summary": "The university will be closed on October 20, 2026, in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "October 17, 2026",
+            "category": "Academic Notice",
+            "summary": "Students are notified of the deadline for semester or course withdrawal with a 'W' grade, emphasizing that no refund will be provided."
+        }
+    ]
 }
