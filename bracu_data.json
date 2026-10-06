@@ -3,68 +3,68 @@
         {
             "title": "BRAC University Team Stellar becomes national champion at WRG 2026 qualifiers",
             "date": "06 Oct 2026",
-            "category": "News",
-            "summary": "BRAC University's Team Stellar has achieved national championship status at the WRG 2026 qualifiers, showcasing their excellence. This marks a significant achievement for the university's competitive spirit."
+            "category": "News / Achievement",
+            "summary": "BRAC University's Team Stellar has achieved national championship status at the WRG 2026 qualifiers."
         },
         {
             "title": "BRAC University hosts LAABRACU Futsal League 2026",
             "date": "06 Oct 2026",
-            "category": "Event",
-            "summary": "BRAC University successfully hosted the LAABRACU Futsal League 2026, bringing together participants for a spirited sports event. The league fostered community and athletic engagement among students."
+            "category": "News / Event",
+            "summary": "BRAC University successfully hosted the LAABRACU Futsal League in 2026."
+        },
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct 2026",
+            "category": "Academic Announcement",
+            "summary": "The class schedule for the Fall 2026 semester has been released."
         },
         {
             "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
             "date": "01 Oct 2026",
-            "category": "News",
-            "summary": "A delegation from BRAC University recently held a meeting with His Excellency the President of the People's Republic of Bangladesh, who also serves as the Chancellor of BRAC University. The meeting highlights important discussions at the highest level."
-        },
-        {
-            "title": "Class Schedule for Fall 2026",
-            "date": "03 Oct",
-            "category": "Academic Announcement",
-            "summary": "The class schedule for the upcoming Fall 2026 semester has been released. Students are advised to check the schedule for their respective courses."
+            "category": "News / Official Visit",
+            "summary": "A BRAC University delegation held a meeting with the President of Bangladesh and Chancellor of BRAC University, Mirza Fakhrul Islam Alamgir."
         },
         {
             "title": "Notice: Application for the 18th Convocation 2026",
-            "date": "30 Sep",
-            "category": "Academic Notice",
-            "summary": "A notice has been issued regarding the application process for the 18th Convocation in 2026. Graduating students should prepare to submit their applications by the specified deadline."
+            "date": "30 Sep 2026",
+            "category": "Notice",
+            "summary": "Applications are now open for students wishing to participate in the 18th Convocation in 2026."
         },
         {
             "title": "First Year Advising Team (FYAT), Fall 2026",
-            "date": "28 Sep",
-            "category": "Academic Advising",
-            "summary": "Information regarding the First Year Advising Team (FYAT) for the Fall 2026 semester is now available. This team will support new students in their academic journey."
+            "date": "28 Sep 2026",
+            "category": "Academic Announcement",
+            "summary": "Information regarding the First Year Advising Team for the Fall 2026 semester is available."
         },
         {
             "title": "Self-registration Schedule, Fall 2026",
-            "date": "24 Sep",
+            "date": "24 Sep 2026",
             "category": "Academic Announcement",
-            "summary": "The schedule for self-registration for the Fall 2026 semester has been announced. Students are encouraged to register for their courses within the given timeframe."
+            "summary": "The schedule for self-registration for courses in the Fall 2026 semester has been published."
         },
         {
             "title": "Final Examinations",
-            "date": "10 Dec",
+            "date": "10 Dec 2026",
             "category": "Academic Announcement",
-            "summary": "The schedule for the final examinations has been published. Students should prepare for their examinations as per the announced dates."
+            "summary": "The date for the final examinations has been announced."
         },
         {
             "title": "Mid-Term Exams week",
-            "date": "21 Nov",
+            "date": "21 Nov 2026",
             "category": "Academic Announcement",
-            "summary": "The week for mid-term examinations has been set. Students are reminded to prepare diligently for their upcoming assessments."
+            "summary": "The week for mid-term examinations has been scheduled."
         },
         {
             "title": "Durga Puja (Bijoya Dashami) - University Closed",
-            "date": "20 Oct",
+            "date": "20 Oct 2026",
             "category": "Holiday Notice",
-            "summary": "The university will be closed on October 20th in observance of Durga Puja (Bijoya Dashami). All academic and administrative activities will be suspended on this day."
+            "summary": "The university will be closed on October 20th for Durga Puja (Bijoya Dashami)."
         },
         {
             "title": "Semester/Course Withdraw With W Grade (No Refund)",
-            "date": "17 Oct",
+            "date": "17 Oct 2026",
             "category": "Academic Notice",
-            "summary": "The deadline for semester or course withdrawal with a 'W' grade, without refund, is October 17th. Students considering withdrawal should note this important date."
+            "summary": "Students can withdraw from a semester or course with a 'W' grade until October 17th, with no refund."
         }
     ]
 }
