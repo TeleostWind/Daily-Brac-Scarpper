@@ -1,3 +1,70 @@
 {
-    "bracu_official": []
+    "bracu_official": [
+        {
+            "title": "BRAC University Team Stellar becomes national champion at WRG 2026 qualifiers",
+            "date": "06 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University's Team Stellar has achieved the title of national champion at the WRG 2026 qualifiers, showcasing excellence in competitive events."
+        },
+        {
+            "title": "BRAC University hosts LAABRACU Futsal League 2026",
+            "date": "06 Oct 2026",
+            "category": "Event News",
+            "summary": "BRAC University recently hosted the LAABRACU Futsal League for the year 2026, bringing together participants for a spirited competition."
+        },
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct 2026",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the class schedule for the upcoming Fall 2026 semester has been released for students to review."
+        },
+        {
+            "title": "BRAC University delegation meets with his Excellency the President of the People’s Republic of Bangladesh and Chancellor of BRAC University Mirza Fakhrul Islam Alamgir",
+            "date": "01 Oct 2026",
+            "category": "News",
+            "summary": "A delegation from BRAC University held a significant meeting with His Excellency the President of Bangladesh and Chancellor of BRAC University, Mirza Fakhrul Islam Alamgir."
+        },
+        {
+            "title": "Notice : Application for the 18th Convocation 2026",
+            "date": "30 Sep 2026",
+            "category": "Notice",
+            "summary": "Important notice released concerning the application process for the 18th Convocation, scheduled to take place in 2026."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "28 Sep 2026",
+            "category": "Academic Announcement",
+            "summary": "Details regarding the First Year Advising Team (FYAT) for students joining in Fall 2026 have been announced to assist new students."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "24 Sep 2026",
+            "category": "Academic Announcement",
+            "summary": "Announcement of the self-registration schedule for the Fall 2026 semester, providing important dates for student enrollment."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "20 Oct 2026",
+            "category": "Holiday Notice",
+            "summary": "Notice of university closure on October 20th in observance of Durga Puja (Bijoya Dashami), affecting all campus operations."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "17 Oct 2026",
+            "category": "Academic Notice",
+            "summary": "Important academic notice regarding the deadline for semester or course withdrawal with a 'W' grade, clarifying that no refund will be issued."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "21 Nov 2026",
+            "category": "Academic Notice",
+            "summary": "An announcement detailing the schedule for the upcoming mid-term examinations week, advising students to prepare accordingly."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic Notice",
+            "summary": "A notice reminding students about the upcoming final examinations scheduled for December, an important period for academic assessment."
+        }
+    ]
 }
