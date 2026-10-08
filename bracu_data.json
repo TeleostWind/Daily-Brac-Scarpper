@@ -1,1 +1,70 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct",
+            "category": "Academic Announcement",
+            "summary": "An announcement regarding the release of the class schedule for the upcoming Fall 2026 semester."
+        },
+        {
+            "title": "Application for the 18th Convocation 2026",
+            "date": "30 Sep",
+            "category": "Notice",
+            "summary": "A notice for students regarding the application process for the university's 18th Convocation scheduled for 2026."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "28 Sep",
+            "category": "Academic Announcement",
+            "summary": "An announcement concerning the formation or schedule of the First Year Advising Team for the Fall 2026 semester."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "24 Sep",
+            "category": "Academic Announcement",
+            "summary": "Details released for the self-registration schedule for students enrolling in the Fall 2026 semester."
+        },
+        {
+            "title": "BRAC University awards certificates to second batch of ESG experts",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University successfully awarded certificates to the second cohort of experts in Environmental, Social, and Governance (ESG) principles."
+        },
+        {
+            "title": "BRAC University holds strategic discussions with distinguished UGC members",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University engaged in strategic discussions with esteemed members of the University Grants Commission (UGC) to foster academic advancements."
+        },
+        {
+            "title": "BRAC University organizes AI productivity training for employees",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University conducted a training program for its employees focused on leveraging Artificial intelligence for enhanced productivity."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic Date",
+            "summary": "The scheduled date for the final examinations period for the current academic term."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "21 Nov",
+            "category": "Academic Date",
+            "summary": "The scheduled dates for the mid-term examinations week."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "20 Oct",
+            "category": "Holiday Notice",
+            "summary": "Notification that the university will be closed in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "17 Oct",
+            "category": "Academic Notice",
+            "summary": "Important notice regarding the deadline and policy for withdrawing from a semester or course with a 'W' grade, indicating no refund."
+        }
+    ]
+}
