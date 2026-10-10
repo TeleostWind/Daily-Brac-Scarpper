@@ -1,1 +1,70 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "24 Sep 2026",
+            "category": "Academic",
+            "summary": "The schedule for self-registration for the Fall 2026 semester is now available for students."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "28 Sep 2026",
+            "category": "Academic",
+            "summary": "Information regarding the First Year Advising Team for the Fall 2026 semester has been released to guide new students."
+        },
+        {
+            "title": "Application for the 18th Convocation 2026",
+            "date": "30 Sep 2026",
+            "category": "Notice",
+            "summary": "A notice has been issued regarding the application process for the university's 18th Convocation, scheduled for 2026."
+        },
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct 2026",
+            "category": "Academic",
+            "summary": "The detailed class schedule for the upcoming Fall 2026 semester has been published."
+        },
+        {
+            "title": "BRAC University awards certificates to second batch of ESG experts",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University celebrated the certification of its second batch of Environmental, Social, and Governance (ESG) experts, marking a significant milestone in specialized training."
+        },
+        {
+            "title": "BRAC University holds strategic discussions with distinguished UGC members",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University recently engaged in productive strategic discussions with esteemed members of the University Grants Commission (UGC) to foster collaboration and development."
+        },
+        {
+            "title": "BRAC University organizes AI productivity training for employees",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "The university successfully organized a training program focused on enhancing AI productivity for its employees, aiming to boost operational efficiency and innovation."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "17 Oct 2026",
+            "category": "Academic",
+            "summary": "Students are reminded of the deadline for semester or course withdrawal with a 'W' grade, which entails no refund of fees."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "20 Oct 2026",
+            "category": "Notice",
+            "summary": "The university will observe a holiday and remain closed on October 20, 2026, in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "21 Nov 2026",
+            "category": "Academic",
+            "summary": "The mid-term examinations week is scheduled to commence on November 21, 2026."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic",
+            "summary": "The date for the final examinations has been set for December 10, 2026."
+        }
+    ]
+}
