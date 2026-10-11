@@ -1,1 +1,70 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct",
+            "category": "Academic",
+            "summary": "The class schedule for the upcoming Fall 2026 semester has been released, providing details for student planning."
+        },
+        {
+            "title": "Application for the 18th Convocation 2026",
+            "date": "30 Sep",
+            "category": "Notice",
+            "summary": "A notice has been issued regarding the application process for students wishing to participate in the 18th Convocation, scheduled for 2026."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "28 Sep",
+            "category": "Academic",
+            "summary": "Information regarding the First Year Advising Team for the Fall 2026 semester is now available to assist new students."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "24 Sep",
+            "category": "Academic",
+            "summary": "The self-registration schedule for the Fall 2026 semester has been announced, guiding students through the enrollment process."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec",
+            "category": "Academic",
+            "summary": "The final examinations are scheduled for December 10, marking the end of the academic term."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "21 Nov",
+            "category": "Academic",
+            "summary": "The mid-term examination week will commence on November 21, requiring students to prepare for their assessments."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "20 Oct",
+            "category": "Notice",
+            "summary": "The university will observe a closure on October 20 in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "17 Oct",
+            "category": "Academic",
+            "summary": "The deadline for withdrawing from a semester or course with a 'W' grade (without a refund) is October 17."
+        },
+        {
+            "title": "BRAC University hosts seminar on technology-facilitated gender-based violence",
+            "date": "11 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University organized a seminar focused on understanding and addressing the complex issue of technology-facilitated gender-based violence."
+        },
+        {
+            "title": "BRAC University awards certificates to second batch of ESG experts",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "The university recognized and awarded certificates to its second cohort of experts in Environmental, Social, and Governance (ESG) principles."
+        },
+        {
+            "title": "BRAC University holds strategic discussions with distinguished UGC members",
+            "date": "08 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University engaged in significant strategic discussions with prominent members of the University Grants Commission (UGC)."
+        }
+    ]
+}
