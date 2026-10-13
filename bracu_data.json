@@ -1,1 +1,70 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "BRAC University organizes yoga session to promote mental wellbeing",
+            "date": "13 Oct 2026",
+            "category": "News",
+            "summary": "BRAC University hosted a yoga session to encourage mental wellbeing among its students and staff. The event aimed to promote a healthy lifestyle on campus."
+        },
+        {
+            "title": "BRAC University VC calls for community learning and values-driven leadership",
+            "date": "13 Oct 2026",
+            "category": "News",
+            "summary": "The Vice Chancellor of BRAC University delivered a speech emphasizing the importance of community learning and leadership rooted in strong values. This highlights the university's commitment to holistic development."
+        },
+        {
+            "title": "Defense adviser gives lecture at BRAC University",
+            "date": "13 Oct 2026",
+            "category": "News",
+            "summary": "A defense adviser visited BRAC University to deliver a lecture. The session provided valuable insights into defense-related topics for the university community."
+        },
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct 2026",
+            "category": "Academic",
+            "summary": "The class schedule for the upcoming Fall 2026 semester has been released. Students are advised to check the schedule for their courses."
+        },
+        {
+            "title": "Notice : Application for the 18th Convocation 2026",
+            "date": "30 Sep 2026",
+            "category": "Notice",
+            "summary": "Applications for the 18th Convocation, scheduled for 2026, are now open. Eligible students are encouraged to apply within the stipulated deadline."
+        },
+        {
+            "title": "First Year Advising Team (FYAT), Fall 2026",
+            "date": "28 Sep 2026",
+            "category": "Academic",
+            "summary": "Information regarding the First Year Advising Team (FYAT) for the Fall 2026 semester has been published. New students can access details about their advising support."
+        },
+        {
+            "title": "Self-registration Schedule, Fall 2026",
+            "date": "24 Sep 2026",
+            "category": "Academic",
+            "summary": "The self-registration schedule for the Fall 2026 semester is now available. Students should complete their course registration according to the published timeline."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic",
+            "summary": "The schedule for the final examinations has been announced. Students should prepare accordingly for their end-of-semester assessments."
+        },
+        {
+            "title": "Mid-Term Exams week",
+            "date": "21 Nov 2026",
+            "category": "Academic",
+            "summary": "The university has announced the dates for the mid-term examinations week. Students are advised to prepare for their assessments during this period."
+        },
+        {
+            "title": "Durga Puja (Bijoya Dashami) - University Closed",
+            "date": "20 Oct 2026",
+            "category": "Notice",
+            "summary": "The university will be closed on October 20 for Durga Puja (Bijoya Dashami). Classes and administrative offices will resume after the holiday."
+        },
+        {
+            "title": "Semester/Course Withdraw With W Grade (No Refund)",
+            "date": "17 Oct 2026",
+            "category": "Academic",
+            "summary": "A notice has been issued regarding the policy for withdrawing from a semester or course with a 'W' grade. Please note that no refund will be issued for such withdrawals."
+        }
+    ]
+}
