@@ -2,69 +2,69 @@
     "bracu_official": [
         {
             "title": "BRAC University to Host Second Khondker Mahbubuddin Ahmed Memorial International Moot Court Competition 2026",
-            "date": "14 Oct 2026",
-            "category": "Event",
-            "summary": "BRAC University will host its second Khondker Mahbubuddin Ahmed Memorial International Moot Court Competition in 2026. This event aims to foster legal scholarship and advocacy among participants."
+            "date": "14 Oct",
+            "category": "Event Announcement",
+            "summary": "BRAC University announced it will host the Second Khondker Mahbubuddin Ahmed Memorial International Moot Court Competition in 2026."
         },
         {
             "title": "Class Schedule for Fall 2026",
-            "date": "03 Oct 2026",
-            "category": "Academic",
-            "summary": "The official class schedule for the upcoming Fall 2026 semester has been released. Students are advised to check it for their course timings and locations."
+            "date": "03 Oct",
+            "category": "Academic Announcement",
+            "summary": "The class schedule for the Fall 2026 semester has been released."
         },
         {
             "title": "Application for the 18th Convocation 2026",
-            "date": "30 Sep 2026",
+            "date": "30 Sep",
             "category": "Notice",
-            "summary": "A notice has been issued regarding the application process for the 18th Convocation, scheduled for 2026. Eligible graduates are encouraged to apply within the specified deadline."
+            "summary": "A notice has been issued regarding the application process for the 18th Convocation, scheduled for 2026."
         },
         {
             "title": "First Year Advising Team (FYAT), Fall 2026",
-            "date": "28 Sep 2026",
-            "category": "Academic",
-            "summary": "Information about the First Year Advising Team for the Fall 2026 semester has been announced. This team provides guidance and support to new students transitioning into university life."
+            "date": "28 Sep",
+            "category": "Academic Announcement",
+            "summary": "An announcement has been made concerning the First Year Advising Team (FYAT) for Fall 2026."
         },
         {
             "title": "Final Examinations",
-            "date": "10 Dec 2026",
-            "category": "Academic",
-            "summary": "The date for final examinations has been set for December 10. Students should prepare accordingly for their end-of-semester assessments."
+            "date": "10 Dec",
+            "category": "Academic Announcement",
+            "summary": "Information regarding the final examinations has been announced."
         },
         {
             "title": "Mid-Term Exams week",
-            "date": "21 Nov 2026",
-            "category": "Academic",
-            "summary": "The week of November 21 has been designated for mid-term examinations. All students are advised to check their respective exam schedules and prepare thoroughly."
+            "date": "21 Nov",
+            "category": "Academic Announcement",
+            "summary": "Details about the upcoming mid-term examination week have been released."
         },
         {
             "title": "Durga Puja (Bijoya Dashami) - University Closed",
-            "date": "20 Oct 2026",
-            "category": "Notice",
-            "summary": "The university will observe a holiday on October 20, 2026, in observance of Durga Puja (Bijoya Dashami). All academic and administrative activities will be suspended on this day."
+            "date": "20 Oct",
+            "category": "Holiday Notice",
+            "summary": "The university will be closed on October 20th in observance of Durga Puja (Bijoya Dashami)."
         },
         {
             "title": "Semester/Course Withdraw With W Grade (No Refund)",
-            "date": "17 Oct 2026",
-            "category": "Academic",
-            "summary": "The deadline for students to withdraw from a semester or course with a 'W' grade and no refund is October 17. Students considering withdrawal should note this important administrative date."
+            "date": "17 Oct",
+            "category": "Academic Notice",
+            "summary": "A notice has been published regarding the policy for semester/course withdrawal with a 'W' grade, indicating no refund."
         },
         {
             "title": "BRAC University hosts Ayesha Abed T-10 Inter-University Women's Cricket Tournament to mark its 25th anniversary",
             "date": "18 Oct 2026",
-            "category": "Event",
-            "summary": "BRAC University hosted the Ayesha Abed T-10 Inter-University Women's Cricket Tournament as part of its 25th-anniversary celebrations. The event promoted sportsmanship and camaraderie among participating universities."
+            "category": "News / Event",
+            "summary": "BRAC University hosted the Ayesha Abed T-10 Inter-University Women's Cricket Tournament to commemorate its 25th anniversary."
         },
         {
             "title": "BRAC University career fair draws 80 of country’s renowned employers",
             "date": "18 Oct 2026",
-            "category": "Event",
-            "summary": "A recent career fair at BRAC University successfully attracted 80 of the country’s most renowned employers. The event provided students with valuable networking and job opportunities across various sectors."
+            "category": "News / Event",
+            "summary": "A career fair at BRAC University attracted 80 of the country's most renowned employers, providing opportunities for students."
         },
         {
             "title": "Cambridge researcher explores collaborative solutions to complex social challenges at BRAC University",
             "date": "18 Oct 2026",
-            "category": "Academic",
-            "summary": "A researcher from Cambridge University visited BRAC University to explore collaborative solutions for complex social challenges. The visit fostered discussions on global issues and potential joint initiatives."
+            "category": "News / Academic",
+            "summary": "A researcher from Cambridge visited BRAC University to discuss and explore collaborative solutions for complex social challenges."
         }
     ]
 }
