@@ -1,1 +1,76 @@
-{}
+{
+    "bracu_official": [
+        {
+            "title": "Admissions Open for Spring 2027 Undergraduate Intake",
+            "date": "Unknown",
+            "category": "Admission",
+            "summary": "BRAC University has opened admissions for its undergraduate programs for the Spring 2027 intake."
+        },
+        {
+            "title": "Admission Test for Certificate Courses",
+            "date": "30 Oct 2026",
+            "category": "Academic",
+            "summary": "An admission test for certificate courses is scheduled to be held on October 30, 2026."
+        },
+        {
+            "title": "LLB Mid-Term Schedule for Fall 2026",
+            "date": "27 Oct 2026",
+            "category": "Academic",
+            "summary": "The mid-term examination schedule for the LLB program for Fall 2026 has been announced."
+        },
+        {
+            "title": "BRAC University to Host Second Khondker Mahbubuddin Ahmed Memorial International Moot Court Competition",
+            "date": "14 Oct 2026",
+            "category": "Event",
+            "summary": "BRAC University is set to host the Second Khondker Mahbubuddin Ahmed Memorial International Moot Court Competition in 2026."
+        },
+        {
+            "title": "Class Schedule for Fall 2026",
+            "date": "03 Oct 2026",
+            "category": "Academic",
+            "summary": "The class schedule for the Fall 2026 semester has been released."
+        },
+        {
+            "title": "Final Examinations",
+            "date": "10 Dec 2026",
+            "category": "Academic",
+            "summary": "The schedule for final examinations for the current academic year has been announced."
+        },
+        {
+            "title": "Mid-Term Exams Week",
+            "date": "21 Nov 2026",
+            "category": "Academic",
+            "summary": "The mid-term examinations week has been scheduled to begin on November 21st."
+        },
+        {
+            "title": "University Closed for Durga Puja (Bijoya Dashami)",
+            "date": "20 Oct 2026",
+            "category": "Notice",
+            "summary": "BRAC University will be closed on October 20th in observance of Durga Puja (Bijoya Dashami)."
+        },
+        {
+            "title": "Deadline for Semester/Course Withdrawal with W Grade",
+            "date": "17 Oct 2026",
+            "category": "Academic",
+            "summary": "The deadline for semester or course withdrawal with a 'W' grade (without refund) is October 17th."
+        },
+        {
+            "title": "BRAC University hosts NesConnect career session with Nestlé Bangladesh",
+            "date": "05 Nov 2026",
+            "category": "News",
+            "summary": "BRAC University recently hosted a NesConnect career session in collaboration with Nestlé Bangladesh, providing students with valuable industry insights."
+        },
+        {
+            "title": "BRAC University observes World Mental Health Day with yoga session",
+            "date": "03 Nov 2026",
+            "category": "News",
+            "summary": "BRAC University observed World Mental Health Day by organizing a yoga session to promote student and staff well-being."
+        },
+        {
+            "title": "BRAC University confers inaugural honorary fellowship on Professor Peter Singer",
+            "date": "02 Nov 2026",
+            "category": "News",
+            "summary": "BRAC University bestowed its inaugural honorary fellowship upon the renowned Australian moral philosopher, Professor Peter Singer."
+        }
+    ]
+}
